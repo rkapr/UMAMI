@@ -1,0 +1,5 @@
+1. Development time course, 
+DETAILS:
+- Developmental time course of the commercial wheat cultivar Azhurnaya
+- 209 RNAseq samples representing 22 tissue types from grain, root, leaf, and spike samples across multiple time points
+- Fig1
