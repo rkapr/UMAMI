@@ -1,0 +1,1065 @@
+BLASTP 2.9.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: Triticum_aestivum.IWGSC.pep.all
+           133,346 sequences; 59,091,148 total letters
+
+
+
+Query= AT4G28040.1 nodulin MtN21 /EamA-like transporter family protein
+Chr4:13940881-13942201 FORWARD LENGTH=359 201606
+
+Length=359
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+EG:TraesCS5D02G228500.1 pep chromosome:IWGSC:5D:335869897:3358741...  167        6e-41
+EG:TraesCS5B02G219600.1 pep chromosome:IWGSC:5B:393830756:3938361...  167        6e-41
+EG:TraesCS5A02G220500.1 pep chromosome:IWGSC:5A:437034959:4370369...  167        6e-41
+EG:TraesCS5A02G220500.2 pep chromosome:IWGSC:5A:437034959:4370369...  166        1e-40
+EG:TraesCS5B02G219500.1 pep chromosome:IWGSC:5B:393827279:3938303...  136        1e-31
+EG:TraesCS5D02G228400.1 pep chromosome:IWGSC:5D:335866258:3358694...  135        3e-31
+EG:TraesCS5A02G220400.1 pep chromosome:IWGSC:5A:437031171:4370344...  135        3e-31
+EG:TraesCS5A02G220400.3 pep chromosome:IWGSC:5A:437031171:4370344...  135        3e-31
+EG:TraesCS1B02G267300.1 pep chromosome:IWGSC:1B:470306416:4703081...  128        4e-29
+EG:TraesCS1D02G256100.1 pep chromosome:IWGSC:1D:348670873:3486726...  127        5e-29
+EG:TraesCS2B02G245300.2 pep chromosome:IWGSC:2B:249416821:2494188...  126        1e-28
+EG:TraesCS2D02G225500.1 pep chromosome:IWGSC:2D:193288480:1932906...  125        4e-28
+EG:TraesCS2A02G219700.1 pep chromosome:IWGSC:2A:207476629:2074786...  124        5e-28
+EG:TraesCS5A02G220400.2 pep chromosome:IWGSC:5A:437031171:4370344...  123        1e-27
+EG:TraesCS6A02G330100.1 pep chromosome:IWGSC:6A:562918719:5629216...  118        3e-26
+EG:TraesCS3A02G196000.1 pep chromosome:IWGSC:3A:293060645:2930681...  92.2       3e-18
+EG:TraesCS3D02G199100.1 pep chromosome:IWGSC:3D:219236964:2192402...  91.7       4e-18
+EG:TraesCS3B02G362000.1 pep chromosome:IWGSC:3B:573618986:5736213...  90.8       8e-18
+EG:TraesCS3A02G331900.1 pep chromosome:IWGSC:3A:576603817:5766058...  90.8       8e-18
+EG:TraesCS1B02G321500.1 pep chromosome:IWGSC:1B:545461159:5454632...  90.3       1e-17
+EG:TraesCS1D02G309800.1 pep chromosome:IWGSC:1D:405401798:4054037...  90.3       1e-17
+EG:TraesCS3D02G325400.1 pep chromosome:IWGSC:3D:438264168:4382663...  90.3       1e-17
+EG:TraesCS1A02G310300.1 pep chromosome:IWGSC:1A:500960302:5009623...  90.3       1e-17
+EG:TraesCS2A02G231600.1 pep chromosome:IWGSC:2A:271909726:2719122...  86.1       2e-16
+EG:TraesCS2D02G586500.1 pep chromosome:IWGSC:2D:644831149:6448346...  86.1       2e-16
+EG:TraesCS3B02G227600.1 pep chromosome:IWGSC:3B:324257204:3242605...  85.6       3e-16
+EG:TraesCS2B02G611600.1 pep chromosome:IWGSC:2B:790693531:7906975...  85.6       3e-16
+EG:TraesCS2B02G255800.1 pep chromosome:IWGSC:2B:296002398:2960057...  85.2       4e-16
+EG:TraesCS2A02G575700.1 pep chromosome:IWGSC:2A:770104312:7701080...  84.7       5e-16
+EG:TraesCS6A02G329700.1 pep chromosome:IWGSC:6A:562757598:5627633...  84.7       5e-16
+EG:TraesCS6D02G308600.1 pep chromosome:IWGSC:6D:419444541:4194490...  84.7       5e-16
+EG:TraesCS1A02G256700.1 pep chromosome:IWGSC:1A:449189268:4491910...  84.2       7e-16
+EG:TraesCS6D02G309000.1 pep chromosome:IWGSC:6D:419746987:4197497...  83.8       1e-15
+EG:TraesCS6A02G329800.1 pep chromosome:IWGSC:6A:562794792:5627982...  83.8       1e-15
+EG:TraesCS6B02G360900.2 pep chromosome:IWGSC:6B:632786075:6327885...  83.3       1e-15
+EG:TraesCS6B02G360900.1 pep chromosome:IWGSC:6B:632786075:6327885...  83.3       1e-15
+EG:TraesCS6D02G308800.1 pep chromosome:IWGSC:6D:419614268:4196160...  82.8       2e-15
+EG:TraesCS6B02G360800.1 pep chromosome:IWGSC:6B:632563923:6325666...  82.8       2e-15
+EG:TraesCS6B02G360700.1 pep chromosome:IWGSC:6B:632502656:6325048...  82.8       2e-15
+EG:TraesCS6A02G329900.1 pep chromosome:IWGSC:6A:562812483:5628148...  82.8       2e-15
+EG:TraesCS4A02G464100.1 pep chromosome:IWGSC:4A:728085208:7280875...  81.4       5e-15
+EG:TraesCS7D02G170200.1 pep chromosome:IWGSC:7D:122843475:1228466...  80.9       7e-15
+EG:TraesCS7B02G073900.1 pep chromosome:IWGSC:7B:83902977:83905797...  80.9       7e-15
+EG:TraesCS6B02G360400.1 pep chromosome:IWGSC:6B:632241128:6322443...  80.9       7e-15
+EG:TraesCS6D02G308500.1 pep chromosome:IWGSC:6D:419284241:4192876...  80.5       1e-14
+EG:TraesCS7B02G393200.1 pep chromosome:IWGSC:7B:659957456:6599605...  80.0       1e-14
+EG:TraesCS3B02G366800.1 pep chromosome:IWGSC:3B:578984191:5789893...  80.0       1e-14
+EG:TraesCS3A02G335900.1 pep chromosome:IWGSC:3A:582342181:5823492...  80.0       1e-14
+EG:TraesCS2D02G506100.1 pep chromosome:IWGSC:2D:600037098:6000389...  80.0       1e-14
+EG:TraesCS2D02G506100.2 pep chromosome:IWGSC:2D:600037098:6000398...  80.0       1e-14
+
+
+>EG:TraesCS5D02G228500.1 pep chromosome:IWGSC:5D:335869897:335874126:1 
+gene:TraesCS5D02G228500 transcript:TraesCS5D02G228500.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A341VYB6]
+Length=373
+
+ Score = 167 bits (350),  Expect = 6e-41
+ Identities = 69/167 (41%), Positives = 99/167 (59%), Gaps = 0/167 (0%)
+
+Query  80   AVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESIKRRSMKSVAKVIG  139
+            A +     Q  YF G+ L+S SMA A TNL P +TF I+ ++G E +  RS +S+AK++G
+Sbjct  86   ASLASATGQYFYFMGLQLASPSMARATTNLAPGITFAIAAVIGLEKVDLRSSRSIAKIVG  145
+
+Query  140  TGVCVGGAMAMTFLRGPKLLNALLNQDNTAWLLGCFFLLISTFAWSLWLILQVPIASHCP  199
+            T VC+ GAM M F +GPKLL ALL      W+ G  +L+ + F +S+W ILQVP+     
+Sbjct  146  TVVCLAGAMLMAFFKGPKLLGALLLPATDDWVKGGIYLMGNAFCFSIWYILQVPVCKSYL  205
+
+Query  200  DHLYTSACTCFIATIASFLVALALGNTHLPPWKLDSFLKLSCCIYSG  246
+            D L  +   CF+AT+   ++A  L   ++  WKL S  +L C +Y G
+Sbjct  206  DPLSLATWMCFLATLQCAVMAFFLEANYMEIWKLASIWELPCILYGG  252
+
+
+>EG:TraesCS5B02G219600.1 pep chromosome:IWGSC:5B:393830756:393836182:1 
+gene:TraesCS5B02G219600 transcript:TraesCS5B02G219600.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A341VVL3]
+Length=373
+
+ Score = 167 bits (350),  Expect = 6e-41
+ Identities = 69/167 (41%), Positives = 99/167 (59%), Gaps = 0/167 (0%)
+
+Query  80   AVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESIKRRSMKSVAKVIG  139
+            A +     Q  YF G+ L+S SMA A TNL P +TF I+ ++G E +  RS +S+AK++G
+Sbjct  86   ASLASATGQYFYFMGLQLASPSMARATTNLAPGITFAIAAVIGLEKVDLRSSRSIAKIVG  145
+
+Query  140  TGVCVGGAMAMTFLRGPKLLNALLNQDNTAWLLGCFFLLISTFAWSLWLILQVPIASHCP  199
+            T VC+ GAM M F +GPKLL ALL      W+ G  +L+ + F +S+W ILQVP+     
+Sbjct  146  TVVCLAGAMLMAFFKGPKLLGALLLPATDDWVRGGIYLMGNAFCFSIWYILQVPVCKSYL  205
+
+Query  200  DHLYTSACTCFIATIASFLVALALGNTHLPPWKLDSFLKLSCCIYSG  246
+            D L  +   CF+AT+   ++A  L   ++  WKL S  +L C +Y G
+Sbjct  206  DPLSLATWMCFLATLQCAVMAFFLEANYIEIWKLASIWELPCILYGG  252
+
+
+>EG:TraesCS5A02G220500.1 pep chromosome:IWGSC:5A:437034959:437036937:1 
+gene:TraesCS5A02G220500 transcript:TraesCS5A02G220500.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D5YL75]
+Length=379
+
+ Score = 167 bits (350),  Expect = 6e-41
+ Identities = 69/167 (41%), Positives = 99/167 (59%), Gaps = 0/167 (0%)
+
+Query  80   AVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESIKRRSMKSVAKVIG  139
+            A +     Q  YF G+ L+S SMA A TNL P +TF I+ ++G E +  RS +S+AK++G
+Sbjct  92   ASLASATGQYFYFMGLQLASPSMARATTNLAPGITFAIAAVIGLEKVDLRSSRSIAKIVG  151
+
+Query  140  TGVCVGGAMAMTFLRGPKLLNALLNQDNTAWLLGCFFLLISTFAWSLWLILQVPIASHCP  199
+            T VC+ GAM M F +GPKLL ALL      W+ G  +L+ + F +S+W ILQVP+     
+Sbjct  152  TVVCLAGAMLMAFFKGPKLLGALLLPATDDWVRGGIYLMGNAFCFSIWYILQVPVCKSYL  211
+
+Query  200  DHLYTSACTCFIATIASFLVALALGNTHLPPWKLDSFLKLSCCIYSG  246
+            D L  +   CF+AT+   ++A  L   ++  WKL S  +L C +Y G
+Sbjct  212  DPLSLATWMCFLATLQCAVMAFFLEANYMEIWKLASIWELPCILYGG  258
+
+
+>EG:TraesCS5A02G220500.2 pep chromosome:IWGSC:5A:437034959:437036937:1 
+gene:TraesCS5A02G220500 transcript:TraesCS5A02G220500.2 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D5YL75]
+Length=398
+
+ Score = 166 bits (348),  Expect = 1e-40
+ Identities = 68/159 (43%), Positives = 97/159 (61%), Gaps = 0/159 (0%)
+
+Query  88   QNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESIKRRSMKSVAKVIGTGVCVGGA  147
+            Q  YF G+ L+S SMA A TNL P +TF I+ ++G E +  RS +S+AK++GT VC+ GA
+Sbjct  119  QYFYFMGLQLASPSMARATTNLAPGITFAIAAVIGLEKVDLRSSRSIAKIVGTVVCLAGA  178
+
+Query  148  MAMTFLRGPKLLNALLNQDNTAWLLGCFFLLISTFAWSLWLILQVPIASHCPDHLYTSAC  207
+            M M F +GPKLL ALL      W+ G  +L+ + F +S+W ILQVP+     D L  +  
+Sbjct  179  MLMAFFKGPKLLGALLLPATDDWVRGGIYLMGNAFCFSIWYILQVPVCKSYLDPLSLATW  238
+
+Query  208  TCFIATIASFLVALALGNTHLPPWKLDSFLKLSCCIYSG  246
+             CF+AT+   ++A  L   ++  WKL S  +L C +Y G
+Sbjct  239  MCFLATLQCAVMAFFLEANYMEIWKLASIWELPCILYGG  277
+
+
+>EG:TraesCS5B02G219500.1 pep chromosome:IWGSC:5B:393827279:393830386:1 
+gene:TraesCS5B02G219500 transcript:TraesCS5B02G219500.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:W5FI30]
+Length=372
+
+ Score = 136 bits (284),  Expect = 1e-31
+ Identities = 56/99 (57%), Positives = 72/99 (73%), Gaps = 0/99 (0%)
+
+Query  68   LGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESIK  127
+            +G  GF  V L +++G T NQ  Y++GI L SSSMA AMTNLIPA+TF+++  VG ES++
+Sbjct  67   IGTTGFALVFLASLVGATANQYMYYQGIYLGSSSMATAMTNLIPAITFVLATSVGLESVE  126
+
+Query  128  RRSMKSVAKVIGTGVCVGGAMAMTFLRGPKLLNALLNQD  166
+             R  +SVAK+ GT VCVGGAM MTFL+GP LL+  L  D
+Sbjct  127  IRKPRSVAKIFGTAVCVGGAMVMTFLKGPNLLHDSLGVD  165
+
+
+ Score = 67.3 bits (137),  Expect = 9e-11
+ Identities = 27/56 (48%), Positives = 41/56 (73%), Gaps = 0/56 (0%)
+
+Query  3   ISKYKAVLALVMLQFTSAGVALFTKAAFMEGLNPTVFVVYRQAIATLFICPISFIS  58
+           + ++K + A+V++Q   A +AL+ KA F  G+NP VFVVYRQAIATL + PI+ ++
+Sbjct  1   MEEHKPLAAMVVVQCIYAAMALWAKAMFSRGMNPMVFVVYRQAIATLVLVPITVLA  56
+
+
+>EG:TraesCS5D02G228400.1 pep chromosome:IWGSC:5D:335866258:335869484:1 
+gene:TraesCS5D02G228400 transcript:TraesCS5D02G228400.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:W5FYC6]
+Length=375
+
+ Score = 135 bits (282),  Expect = 3e-31
+ Identities = 54/93 (58%), Positives = 71/93 (76%), Gaps = 0/93 (0%)
+
+Query  68   LGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESIK  127
+            +G  GF  V L +++G T NQ  Y++GI L SSSMA AMTNLIPA+TF+++  VG ES++
+Sbjct  69   IGTTGFALVFLASLVGATANQYMYYQGIYLGSSSMATAMTNLIPAITFVLATSVGLESVE  128
+
+Query  128  RRSMKSVAKVIGTGVCVGGAMAMTFLRGPKLLN  160
+             R  +S+AK+ GT VCVGGAM MTFL+GPKLL+
+Sbjct  129  IRKPRSMAKIFGTAVCVGGAMVMTFLKGPKLLH  161
+
+
+ Score = 67.3 bits (137),  Expect = 9e-11
+ Identities = 27/58 (47%), Positives = 41/58 (71%), Gaps = 0/58 (0%)
+
+Query  1   MEISKYKAVLALVMLQFTSAGVALFTKAAFMEGLNPTVFVVYRQAIATLFICPISFIS  58
+           M + ++K + A+V++Q   A +AL+ KA F  G+NP VFVVYRQAIAT  + PI+ ++
+Sbjct  1   MAMEEHKPLAAMVVVQCIYAAMALWAKAMFSRGMNPMVFVVYRQAIATAVLVPITLLA  58
+
+
+>EG:TraesCS5A02G220400.1 pep chromosome:IWGSC:5A:437031171:437034441:1 
+gene:TraesCS5A02G220400 transcript:TraesCS5A02G220400.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D5YL74]
+Length=311
+
+ Score = 135 bits (282),  Expect = 3e-31
+ Identities = 54/93 (58%), Positives = 70/93 (75%), Gaps = 0/93 (0%)
+
+Query  68   LGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESIK  127
+            +G  GF  V L +++G T NQ  Y++GI L SSSMA AMTNLIPA+TF+++  VG E ++
+Sbjct  67   IGTTGFVLVFLASLVGATANQYMYYQGIYLGSSSMATAMTNLIPAITFVLATSVGLECVE  126
+
+Query  128  RRSMKSVAKVIGTGVCVGGAMAMTFLRGPKLLN  160
+             R  +SVAK+ GT VCVGGAM MTFL+GPKLL+
+Sbjct  127  MRKPRSVAKIFGTAVCVGGAMVMTFLKGPKLLH  159
+
+
+>EG:TraesCS5A02G220400.3 pep chromosome:IWGSC:5A:437031171:437034443:1 
+gene:TraesCS5A02G220400 transcript:TraesCS5A02G220400.3 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D5YL74]
+Length=373
+
+ Score = 135 bits (282),  Expect = 3e-31
+ Identities = 54/93 (58%), Positives = 70/93 (75%), Gaps = 0/93 (0%)
+
+Query  68   LGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESIK  127
+            +G  GF  V L +++G T NQ  Y++GI L SSSMA AMTNLIPA+TF+++  VG E ++
+Sbjct  67   IGTTGFVLVFLASLVGATANQYMYYQGIYLGSSSMATAMTNLIPAITFVLATSVGLECVE  126
+
+Query  128  RRSMKSVAKVIGTGVCVGGAMAMTFLRGPKLLN  160
+             R  +SVAK+ GT VCVGGAM MTFL+GPKLL+
+Sbjct  127  MRKPRSVAKIFGTAVCVGGAMVMTFLKGPKLLH  159
+
+
+>EG:TraesCS1B02G267300.1 pep chromosome:IWGSC:1B:470306416:470308171:-1 
+gene:TraesCS1B02G267300 transcript:TraesCS1B02G267300.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D5SEQ1]
+Length=404
+
+ Score = 128 bits (267),  Expect = 4e-29
+ Identities = 55/153 (36%), Positives = 90/153 (59%), Gaps = 0/153 (0%)
+
+Query  3    ISKYKAVLALVMLQFTSAGVALFTKAAFMEGLNPTVFVVYRQAIATLFICPISFISAWRK  62
+            + + K  +A++ LQF  AG+ + TK +   G++  V VVYR A ATL I P +      K
+Sbjct  13   MQRCKPYVAMISLQFGYAGMNVITKVSLNHGMSHYVLVVYRHAFATLSIAPFALFLERGK  72
+
+Query  63   ENKPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVG  122
+               P +    F  + L A++G  ++QN Y+ G+  +S + +CAM+N++PA+TF++++I  
+Sbjct  73   ARPPRMTPLVFLNIFLLALMGPVIDQNFYYAGLKYTSPTFSCAMSNMLPAMTFVMAVIFR  132
+
+Query  123  FESIKRRSMKSVAKVIGTGVCVGGAMAMTFLRG  155
+             E +  +  + +AKV GT V V GAM MT  +G
+Sbjct  133  MEKVDLKKARCMAKVAGTLVTVAGAMLMTLYKG  165
+
+
+>EG:TraesCS1D02G256100.1 pep chromosome:IWGSC:1D:348670873:348672695:-1 
+gene:TraesCS1D02G256100 transcript:TraesCS1D02G256100.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A341PJP1]
+Length=406
+
+ Score = 127 bits (266),  Expect = 5e-29
+ Identities = 55/153 (36%), Positives = 90/153 (59%), Gaps = 0/153 (0%)
+
+Query  3    ISKYKAVLALVMLQFTSAGVALFTKAAFMEGLNPTVFVVYRQAIATLFICPISFISAWRK  62
+            + + K  +A++ LQF  AG+ + TK +   G++  V VVYR A ATL I P +      K
+Sbjct  16   MQRCKPYVAMISLQFGYAGMNVITKVSLNHGMSHYVLVVYRHAFATLSIAPFALFLERGK  75
+
+Query  63   ENKPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVG  122
+               P +    F  + L A++G  ++QN Y+ G+  +S + +CAM+N++PA+TF++++I  
+Sbjct  76   ARPPRMTPLVFLNIFLLALMGPVIDQNFYYAGLKYTSPTFSCAMSNMLPAMTFVMAVIFR  135
+
+Query  123  FESIKRRSMKSVAKVIGTGVCVGGAMAMTFLRG  155
+             E +  +  + +AKV GT V V GAM MT  +G
+Sbjct  136  MEKVDLKKPRCMAKVAGTLVTVAGAMLMTLYKG  168
+
+
+>EG:TraesCS2B02G245300.2 pep chromosome:IWGSC:2B:249416821:249418844:1 
+gene:TraesCS2B02G245300 transcript:TraesCS2B02G245300.2 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D6RMT0]
+Length=357
+
+ Score = 126 bits (263),  Expect = 1e-28
+ Identities = 52/152 (34%), Positives = 92/152 (61%), Gaps = 0/152 (0%)
+
+Query  7    KAVLALVMLQFTSAGVALFTKAAFMEGLNPTVFVVYRQAIATLFICPISFISAWRKENKP  66
+            K    +V+++   AG+ +FTKAAF EG + TVFV YR A+A +F+ P +F    R+ + P
+Sbjct  5    KVYATIVLIRLIYAGMHIFTKAAFEEGTSTTVFVFYRHAVAAIFLAPFAFFLEIRQGSAP  64
+
+Query  67   SLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESI  126
+             L  R    + + A  G+    N Y  G++ +S++ + A+ N++P V FI++++   E++
+Sbjct  65   PLTFRLSVKIFIHAFYGMAGTINLYSIGLNYASATSSSAIFNIVPVVAFILAVMFRMETL  124
+
+Query  127  KRRSMKSVAKVIGTGVCVGGAMAMTFLRGPKL  158
+            K +S+  +AK  G  +C+GG +A+   +GP+L
+Sbjct  125  KLKSVHGMAKASGILLCIGGVVALALYQGPQL  156
+
+
+>EG:TraesCS2D02G225500.1 pep chromosome:IWGSC:2D:193288480:193290625:1 
+gene:TraesCS2D02G225500 transcript:TraesCS2D02G225500.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D5UZJ2]
+Length=357
+
+ Score = 125 bits (260),  Expect = 4e-28
+ Identities = 52/152 (34%), Positives = 91/152 (60%), Gaps = 0/152 (0%)
+
+Query  7    KAVLALVMLQFTSAGVALFTKAAFMEGLNPTVFVVYRQAIATLFICPISFISAWRKENKP  66
+            K    +V+++   AG+ +FTKAAF EG + TVFV YR A+A +F+ P +F    R+ + P
+Sbjct  5    KVYATIVLIRLIYAGMHIFTKAAFEEGTSTTVFVFYRHAVAAIFLAPFAFFLEIRQGSAP  64
+
+Query  67   SLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESI  126
+             L  R    +   A  G+    N Y  G++ +S++ + A+ N++P V FI++++   E++
+Sbjct  65   PLTFRLSVKIFAHAFYGMAGTINLYSIGLNYASATSSSAIFNIVPVVAFILAVMFRMETL  124
+
+Query  127  KRRSMKSVAKVIGTGVCVGGAMAMTFLRGPKL  158
+            K +S+  +AK  G  +C+GG +A+   +GP+L
+Sbjct  125  KLKSVHGMAKASGILLCIGGVVALALYQGPQL  156
+
+
+>EG:TraesCS2A02G219700.1 pep chromosome:IWGSC:2A:207476629:207478669:1 
+gene:TraesCS2A02G219700 transcript:TraesCS2A02G219700.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:W5B4B2]
+Length=357
+
+ Score = 124 bits (259),  Expect = 5e-28
+ Identities = 52/152 (34%), Positives = 91/152 (60%), Gaps = 0/152 (0%)
+
+Query  7    KAVLALVMLQFTSAGVALFTKAAFMEGLNPTVFVVYRQAIATLFICPISFISAWRKENKP  66
+            K    +V+++   AG+ +FTKAAF EG + TVFV YR A+A +F+ P +F    R+ + P
+Sbjct  5    KVYSTIVLIRLIYAGMHIFTKAAFEEGTSTTVFVFYRHAVAAIFLAPFAFFLEIRQGSAP  64
+
+Query  67   SLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESI  126
+             L  R    +   A  G+    N Y  G++ +S++ + A+ N++P V FI++++   E++
+Sbjct  65   PLTFRLSVKIFAHAFYGMAGTINLYSIGLNYASATSSSAIFNIVPVVAFILAVMFKMETL  124
+
+Query  127  KRRSMKSVAKVIGTGVCVGGAMAMTFLRGPKL  158
+            K +S+  +AK  G  +C+GG +A+   +GP+L
+Sbjct  125  KLKSVHGMAKASGILLCIGGVVALALYQGPQL  156
+
+
+>EG:TraesCS5A02G220400.2 pep chromosome:IWGSC:5A:437031171:437034441:1 
+gene:TraesCS5A02G220400 transcript:TraesCS5A02G220400.2 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D5YL74]
+Length=353
+
+ Score = 123 bits (256),  Expect = 1e-27
+ Identities = 49/85 (58%), Positives = 64/85 (75%), Gaps = 0/85 (0%)
+
+Query  76   VALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESIKRRSMKSVA  135
+            +A+   +  T NQ  Y++GI L SSSMA AMTNLIPA+TF+++  VG E ++ R  +SVA
+Sbjct  89   LAVLRTVTATANQYMYYQGIYLGSSSMATAMTNLIPAITFVLATSVGLECVEMRKPRSVA  148
+
+Query  136  KVIGTGVCVGGAMAMTFLRGPKLLN  160
+            K+ GT VCVGGAM MTFL+GPKLL+
+Sbjct  149  KIFGTAVCVGGAMVMTFLKGPKLLH  173
+
+
+>EG:TraesCS6A02G330100.1 pep chromosome:IWGSC:6A:562918719:562921645:1 
+gene:TraesCS6A02G330100 transcript:TraesCS6A02G330100.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:W5G8V4]
+Length=388
+
+ Score = 118 bits (246),  Expect = 3e-26
+ Identities = 52/154 (34%), Positives = 87/154 (56%), Gaps = 0/154 (0%)
+
+Query  3    ISKYKAVLALVMLQFTSAGVALFTKAAFMEGLNPTVFVVYRQAIATLFICPISFISAWRK  62
+            +S  K  LA+V+LQ   AG+ +   A+   G++  V VVYR  +AT  + P +      K
+Sbjct  8    LSDVKPYLAMVLLQVGFAGMYIIAVASLKAGMSHFVLVVYRNLVATAVMAPFALYFERCK  67
+
+Query  63   ENKPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVG  122
+              +P + +  F  +   A +   ++QN YF G  L+S+  A A+ N++PAVTF++++++ 
+Sbjct  68   GLRPKMTITIFLKIMGLAFLEPVIDQNLYFMGAKLTSAGFATALVNILPAVTFVLALLLR  127
+
+Query  123  FESIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGP  156
+             E ++ RS+ S AK+ GT + V GA+ M    GP
+Sbjct  128  MEKVRLRSLHSQAKIAGTVLTVAGAVLMVLYHGP  161
+
+
+>EG:TraesCS3A02G196000.1 pep chromosome:IWGSC:3A:293060645:293068180:-1 
+gene:TraesCS3A02G196000 transcript:TraesCS3A02G196000.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A341S3H3]
+Length=379
+
+ Score = 92.2 bits (190),  Expect = 3e-18
+ Identities = 32/83 (39%), Positives = 58/83 (70%), Gaps = 0/83 (0%)
+
+Query  76   VALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESIKRRSMKSVA  135
+            +  +++ G T+NQ  YF G+  ++ ++ACA++N +PA+TF++++++  E+++  +    A
+Sbjct  73   IFFSSIFGATLNQVLYFMGLKSTTPTVACALSNTLPALTFVMAVVLKMETVRLGTPSGQA  132
+
+Query  136  KVIGTGVCVGGAMAMTFLRGPKL  158
+            KV GT VCVGG+M M F +GP L
+Sbjct  133  KVFGTVVCVGGSMIMPFYKGPLL  155
+
+
+>EG:TraesCS3D02G199100.1 pep chromosome:IWGSC:3D:219236964:219240220:-1 
+gene:TraesCS3D02G199100 transcript:TraesCS3D02G199100.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D5WQG5]
+Length=385
+
+ Score = 91.7 bits (189),  Expect = 4e-18
+ Identities = 32/83 (39%), Positives = 59/83 (71%), Gaps = 0/83 (0%)
+
+Query  76   VALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESIKRRSMKSVA  135
+            +  +++ G T+NQ  YF G++ ++ ++ACA++N +PA+TF+++ ++  E+++  +    A
+Sbjct  73   IFFSSIFGATLNQVLYFVGLNSTTPTVACALSNTLPALTFVMAAVLKMETVRLGTPSGQA  132
+
+Query  136  KVIGTGVCVGGAMAMTFLRGPKL  158
+            KV+GT VCVGG+M M F +GP L
+Sbjct  133  KVLGTVVCVGGSMIMPFYKGPLL  155
+
+
+>EG:TraesCS3B02G362000.1 pep chromosome:IWGSC:3B:573618986:573621346:-1 
+gene:TraesCS3B02G362000 transcript:TraesCS3B02G362000.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A077S4L1]
+Length=387
+
+ Score = 90.8 bits (187),  Expect = 8e-18
+ Identities = 35/101 (35%), Positives = 61/101 (60%), Gaps = 0/101 (0%)
+
+Query  56   FISAWRKENKPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTF  115
+            F   + ++ +P +    F  + + A++G  ++QN Y+ G+  +  + ACAM+N++PA+TF
+Sbjct  59   FALIFERKVRPKMTWSSFLQIFVLALLGPVIDQNFYYVGLKYTGPTFACAMSNILPAMTF  118
+
+Query  116  IISIIVGFESIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGP  156
+            +++ I   E +  R ++  AKV GT V V GAM MT  +GP
+Sbjct  119  VMAFIFRMEKVDLRKVRCQAKVAGTVVTVAGAMLMTLYKGP  159
+
+
+>EG:TraesCS3A02G331900.1 pep chromosome:IWGSC:3A:576603817:576605838:-1 
+gene:TraesCS3A02G331900 transcript:TraesCS3A02G331900.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D5V7K4]
+Length=382
+
+ Score = 90.8 bits (187),  Expect = 8e-18
+ Identities = 35/101 (35%), Positives = 61/101 (60%), Gaps = 0/101 (0%)
+
+Query  56   FISAWRKENKPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTF  115
+            F   + ++ +P +    F  + + A++G  ++QN Y+ G+  +  + ACAM+N++PA+TF
+Sbjct  59   FALIFERKVRPKMTWSSFLQIFVLALLGPVIDQNFYYVGLKYTGPTFACAMSNILPAMTF  118
+
+Query  116  IISIIVGFESIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGP  156
+            +++ I   E +  R ++  AKV GT V V GAM MT  +GP
+Sbjct  119  VMAFIFRMEKVDLRKVRCQAKVAGTVVTVAGAMLMTLYKGP  159
+
+
+>EG:TraesCS1B02G321500.1 pep chromosome:IWGSC:1B:545461159:545463210:1 
+gene:TraesCS1B02G321500 transcript:TraesCS1B02G321500.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A341P6Y0]
+Length=389
+
+ Score = 90.3 bits (186),  Expect = 1e-17
+ Identities = 33/92 (36%), Positives = 60/92 (65%), Gaps = 0/92 (0%)
+
+Query  65   KPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFE  124
+            +P +    F+ + + A++G  ++QN Y+ G+  +  + ACAM+N++PA+TF++++I   E
+Sbjct  68   RPKMTWSIFFQIFVLALLGPVIDQNFYYVGLKYTGPTFACAMSNILPAMTFVMAVIFRME  127
+
+Query  125  SIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGP  156
+             I+ + ++  AK+ GT V V GAM MT  +GP
+Sbjct  128  KIELKKVRCQAKIFGTVVTVAGAMLMTLYKGP  159
+
+
+>EG:TraesCS1D02G309800.1 pep chromosome:IWGSC:1D:405401798:405403786:1 
+gene:TraesCS1D02G309800 transcript:TraesCS1D02G309800.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D5SXU9]
+Length=389
+
+ Score = 90.3 bits (186),  Expect = 1e-17
+ Identities = 33/92 (36%), Positives = 60/92 (65%), Gaps = 0/92 (0%)
+
+Query  65   KPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFE  124
+            +P +    F+ + + A++G  ++QN Y+ G+  +  + ACAM+N++PA+TF++++I   E
+Sbjct  68   RPKMTWSIFFQIFVLALLGPVIDQNFYYVGLKYTGPTFACAMSNILPAMTFVMAVIFRME  127
+
+Query  125  SIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGP  156
+             I+ + ++  AK+ GT V V GAM MT  +GP
+Sbjct  128  KIELKKVRCQAKIFGTVVTVAGAMLMTLYKGP  159
+
+
+>EG:TraesCS3D02G325400.1 pep chromosome:IWGSC:3D:438264168:438266378:-1 
+gene:TraesCS3D02G325400 transcript:TraesCS3D02G325400.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D5ZLF3]
+Length=387
+
+ Score = 90.3 bits (186),  Expect = 1e-17
+ Identities = 34/92 (37%), Positives = 58/92 (63%), Gaps = 0/92 (0%)
+
+Query  65   KPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFE  124
+            +P +    F  + + A++G  ++QN Y+ G+  +  + ACAM+N++PA+TF+++ I   E
+Sbjct  68   RPKMTWSSFLQIFVLALLGPVIDQNFYYVGLKYTGPTFACAMSNILPAMTFVMAFIFRME  127
+
+Query  125  SIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGP  156
+             +  R+++  AKV GT V V GAM MT  +GP
+Sbjct  128  KVDLRNLRCQAKVAGTVVTVAGAMLMTLYKGP  159
+
+
+>EG:TraesCS1A02G310300.1 pep chromosome:IWGSC:1A:500960302:500962329:1 
+gene:TraesCS1A02G310300 transcript:TraesCS1A02G310300.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:W4ZLR0]
+Length=389
+
+ Score = 90.3 bits (186),  Expect = 1e-17
+ Identities = 33/92 (36%), Positives = 60/92 (65%), Gaps = 0/92 (0%)
+
+Query  65   KPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFE  124
+            +P +    F+ + + A++G  ++QN Y+ G+  +  + ACAM+N++PA+TF++++I   E
+Sbjct  68   RPKMTWSIFFQIFVLALLGPVIDQNFYYVGLKYTGPTFACAMSNILPAMTFVMAVIFRME  127
+
+Query  125  SIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGP  156
+             I+ + ++  AK+ GT V V GAM MT  +GP
+Sbjct  128  KIELKKVRCQAKIFGTVVTVAGAMLMTLYKGP  159
+
+
+>EG:TraesCS2A02G231600.1 pep chromosome:IWGSC:2A:271909726:271912201:-1 
+gene:TraesCS2A02G231600 transcript:TraesCS2A02G231600.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A341PZJ9]
+Length=346
+
+ Score = 86.1 bits (177),  Expect = 2e-16
+ Identities = 42/132 (32%), Positives = 66/132 (50%), Gaps = 0/132 (0%)
+
+Query  83   GVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESIKRRSMKSVAKVIGTGV  142
+            GVTV Q     G+  +S ++A AM NL P   F+++  + FE +  +   + AK++GT +
+Sbjct  89   GVTVFQALMLDGMKKTSPAIASAMLNLAPGFIFVVAGCLRFERVDLKCRYTRAKIVGTLL  148
+
+Query  143  CVGGAMAMTFLRGPKLLNALLNQDNTAWLLGCFFLLISTFAWSLWLILQVPIASHCPDHL  202
+            C+GGA+ M+ L+ P       + D  AW++GC  LL +    S  +ILQ       P   
+Sbjct  149  CLGGAITMSILQSPATPQGRRSPDLAAWVVGCLCLLGAVLVLSGTIILQAATLIRFPAPF  208
+
+Query  203  YTSACTCFIATI  214
+               A T  I  +
+Sbjct  209  TLCAMTSLIGAL  220
+
+
+>EG:TraesCS2D02G586500.1 pep chromosome:IWGSC:2D:644831149:644834696:-1 
+gene:TraesCS2D02G586500 transcript:TraesCS2D02G586500.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:W5BS67]
+Length=381
+
+ Score = 86.1 bits (177),  Expect = 2e-16
+ Identities = 33/81 (41%), Positives = 57/81 (70%), Gaps = 0/81 (0%)
+
+Query  78   LTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESIKRRSMKSVAKV  137
+            +  + G ++ QN Y  G+ L+S++ A AMTNLIPA+TF+++++  +E +  R++  +AKV
+Sbjct  77   ICGLCGGSLAQNLYISGMKLTSATFASAMTNLIPAITFVLAVLFRYERLAIRTLAGLAKV  136
+
+Query  138  IGTGVCVGGAMAMTFLRGPKL  158
+             GT + VGGAM +TF +G ++
+Sbjct  137  TGTLLGVGGAMLLTFYKGAQV  157
+
+
+>EG:TraesCS3B02G227600.1 pep chromosome:IWGSC:3B:324257204:324260554:-1 
+gene:TraesCS3B02G227600 transcript:TraesCS3B02G227600.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:W5D3F0]
+Length=385
+
+ Score = 85.6 bits (176),  Expect = 3e-16
+ Identities = 31/83 (37%), Positives = 56/83 (67%), Gaps = 0/83 (0%)
+
+Query  76   VALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESIKRRSMKSVA  135
+            +  +++ G T+NQ  YF G+  ++  +ACA++N +PA+TF+++ ++  E+++  +    A
+Sbjct  73   IFFSSIFGATLNQVLYFVGLKSTTPIVACALSNTLPALTFVMAAVLKMETVRLGTPSGQA  132
+
+Query  136  KVIGTGVCVGGAMAMTFLRGPKL  158
+            KV+GT VCVGG+M M F +G  L
+Sbjct  133  KVLGTVVCVGGSMIMPFYKGSLL  155
+
+
+>EG:TraesCS2B02G611600.1 pep chromosome:IWGSC:2B:790693531:790697526:1 
+gene:TraesCS2B02G611600 transcript:TraesCS2B02G611600.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A341QZE5]
+Length=383
+
+ Score = 85.6 bits (176),  Expect = 3e-16
+ Identities = 33/76 (43%), Positives = 55/76 (72%), Gaps = 0/76 (0%)
+
+Query  83   GVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESIKRRSMKSVAKVIGTGV  142
+            G ++ QN Y  G+ L+S++ A AMTNLIPA+TF+++++  +E +  R++  +AKV GT +
+Sbjct  84   GGSLAQNLYISGMKLTSATFASAMTNLIPAITFVLAVLFRYERLAIRTLAGLAKVTGTLL  143
+
+Query  143  CVGGAMAMTFLRGPKL  158
+             VGGAM +TF +G ++
+Sbjct  144  GVGGAMLLTFYKGAQV  159
+
+
+>EG:TraesCS2B02G255800.1 pep chromosome:IWGSC:2B:296002398:296005751:1 
+gene:TraesCS2B02G255800 transcript:TraesCS2B02G255800.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:W5BP08]
+Length=346
+
+ Score = 85.2 bits (175),  Expect = 4e-16
+ Identities = 42/132 (32%), Positives = 66/132 (50%), Gaps = 0/132 (0%)
+
+Query  83   GVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESIKRRSMKSVAKVIGTGV  142
+            GVTV Q     G+  +S ++A AM NL P   F+++  + FE +  +   + AK++GT +
+Sbjct  89   GVTVFQALMLDGMKKTSPAIASAMLNLAPGFIFVVAGCLRFERVDLKCRYTRAKIVGTLL  148
+
+Query  143  CVGGAMAMTFLRGPKLLNALLNQDNTAWLLGCFFLLISTFAWSLWLILQVPIASHCPDHL  202
+            C+GGA+ M+ L+ P       + D  AW++GC  LL +    S  +ILQ       P   
+Sbjct  149  CLGGAITMSILQSPATPPGRRSPDLAAWVVGCLCLLGAVLVLSGTIILQAATLIRFPAPF  208
+
+Query  203  YTSACTCFIATI  214
+               A T  I  +
+Sbjct  209  TLCAMTSLIGAL  220
+
+
+>EG:TraesCS2A02G575700.1 pep chromosome:IWGSC:2A:770104312:770108031:1 
+gene:TraesCS2A02G575700 transcript:TraesCS2A02G575700.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:W5AS75]
+Length=381
+
+ Score = 84.7 bits (174),  Expect = 5e-16
+ Identities = 33/76 (43%), Positives = 54/76 (71%), Gaps = 0/76 (0%)
+
+Query  83   GVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESIKRRSMKSVAKVIGTGV  142
+            G ++ QN Y  G+ L+S++ A AMTNLIPA+TF+++++  +E +  R++   AKV GT +
+Sbjct  82   GGSLAQNLYISGMKLTSATFASAMTNLIPAITFVLAVLFRYERLAIRTLAGQAKVTGTML  141
+
+Query  143  CVGGAMAMTFLRGPKL  158
+             VGGAM +TF +G ++
+Sbjct  142  GVGGAMLLTFYKGAQV  157
+
+
+>EG:TraesCS6A02G329700.1 pep chromosome:IWGSC:6A:562757598:562763398:1 
+gene:TraesCS6A02G329700 transcript:TraesCS6A02G329700.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D6AB14]
+Length=385
+
+ Score = 84.7 bits (174),  Expect = 5e-16
+ Identities = 35/101 (35%), Positives = 58/101 (57%), Gaps = 0/101 (0%)
+
+Query  56   FISAWRKENKPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTF  115
+            F   + +E +P +    F  +   A +   ++QN YF G  L+S+  A A+ N +PAVTF
+Sbjct  59   FAFYFERERRPKMTTTIFIKIMWLAFLEPVLDQNLYFMGAKLTSAGFATALLNTLPAVTF  118
+
+Query  116  IISIIVGFESIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGP  156
+            ++++I+  E ++ RS+ S AK+ GT + V GA+ M    GP
+Sbjct  119  VLALILRMEKVRLRSLHSQAKIAGTVLAVAGAVLMVLYHGP  159
+
+
+>EG:TraesCS6D02G308600.1 pep chromosome:IWGSC:6D:419444541:419449055:1 
+gene:TraesCS6D02G308600 transcript:TraesCS6D02G308600.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D6B9I0]
+Length=393
+
+ Score = 84.7 bits (174),  Expect = 5e-16
+ Identities = 35/103 (34%), Positives = 59/103 (57%), Gaps = 0/103 (0%)
+
+Query  56   FISAWRKENKPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTF  115
+            F   + +E +P +    F  +   A +   ++QN YF G  L+S+  + A+ N +PAVTF
+Sbjct  59   FALYFERERRPKMTTTIFIKIMWLAFLEPVLDQNVYFMGAKLTSAGFSTALLNTLPAVTF  118
+
+Query  116  IISIIVGFESIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGPKL  158
+            ++++I+  E ++ RS+ S AK+ GT + V GA+ M    GP L
+Sbjct  119  VLALILRMEKVRLRSLHSQAKIAGTVLTVAGAVLMVLYHGPTL  161
+
+
+>EG:TraesCS1A02G256700.1 pep chromosome:IWGSC:1A:449189268:449191025:1 
+gene:TraesCS1A02G256700 transcript:TraesCS1A02G256700.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:W4ZPT5]
+Length=403
+
+ Score = 84.2 bits (173),  Expect = 7e-16
+ Identities = 31/80 (39%), Positives = 54/80 (68%), Gaps = 0/80 (0%)
+
+Query  76   VALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESIKRRSMKSVA  135
+            + L A++G  ++QN Y+ G+  +S + +CAM+N++PA+TF++++I   E +  +  + +A
+Sbjct  86   IFLLALMGPVIDQNFYYAGLKYTSPTFSCAMSNMLPAMTFVMAVIFRMEKVDLKKPRCMA  145
+
+Query  136  KVIGTGVCVGGAMAMTFLRG  155
+            KV GT V V GAM MT  +G
+Sbjct  146  KVAGTLVTVAGAMLMTLYKG  165
+
+
+>EG:TraesCS6D02G309000.1 pep chromosome:IWGSC:6D:419746987:419749755:1 
+gene:TraesCS6D02G309000 transcript:TraesCS6D02G309000.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A341XJB8]
+Length=373
+
+ Score = 83.8 bits (172),  Expect = 1e-15
+ Identities = 33/101 (33%), Positives = 59/101 (58%), Gaps = 0/101 (0%)
+
+Query  56   FISAWRKENKPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTF  115
+            F   + +  +P + +  F  +   A +   ++QN YF G  L+S+  A A+ N++PAVTF
+Sbjct  43   FALYFERGQRPKMTITIFLKIMGLAFLEPVIDQNLYFMGAKLTSAGFATALVNILPAVTF  102
+
+Query  116  IISIIVGFESIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGP  156
+            ++++++  E ++ RS+ S AK+ GT + V GA+ M    GP
+Sbjct  103  VLALLLRMEKVRLRSLHSQAKIAGTVLTVAGAVLMVLYHGP  143
+
+
+>EG:TraesCS6A02G329800.1 pep chromosome:IWGSC:6A:562794792:562798299:1 
+gene:TraesCS6A02G329800 transcript:TraesCS6A02G329800.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:W5GB21]
+Length=393
+
+ Score = 83.8 bits (172),  Expect = 1e-15
+ Identities = 34/103 (33%), Positives = 59/103 (57%), Gaps = 0/103 (0%)
+
+Query  56   FISAWRKENKPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTF  115
+            F   + +  +P +    F  +   A++   ++QN YF G  L+S+  A A+ N +PAVTF
+Sbjct  59   FALYFERGRRPKMSTTIFLKIMGLAILEPVIDQNLYFLGAKLTSAGFATALLNTLPAVTF  118
+
+Query  116  IISIIVGFESIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGPKL  158
+            ++++I+  E ++ RS+ S AK+ GT + V GA+ M    GP +
+Sbjct  119  VLALILRMEKVRLRSLHSQAKIAGTVLTVAGAVLMILYHGPAM  161
+
+
+>EG:TraesCS6B02G360900.2 pep chromosome:IWGSC:6B:632786075:632788565:1 
+gene:TraesCS6B02G360900 transcript:TraesCS6B02G360900.2 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D6AKM0]
+Length=374
+
+ Score = 83.3 bits (171),  Expect = 1e-15
+ Identities = 33/92 (36%), Positives = 56/92 (61%), Gaps = 0/92 (0%)
+
+Query  65   KPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFE  124
+            +P + +  F  +   A +   V+QN YF G  ++S+  A A+ N++PAVTF++++I+  E
+Sbjct  6    RPKMTITIFLKIMGLAFLEPVVDQNLYFMGAKMTSAGFATALVNILPAVTFVLALILRME  65
+
+Query  125  SIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGP  156
+             ++ RS+ S AK+ GT + V GA+ M    GP
+Sbjct  66   KVRLRSLHSQAKIAGTVLTVAGAVLMVLYHGP  97
+
+
+>EG:TraesCS6B02G360900.1 pep chromosome:IWGSC:6B:632786075:632788585:1 
+gene:TraesCS6B02G360900 transcript:TraesCS6B02G360900.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D6AKM0]
+Length=388
+
+ Score = 83.3 bits (171),  Expect = 1e-15
+ Identities = 33/92 (36%), Positives = 56/92 (61%), Gaps = 0/92 (0%)
+
+Query  65   KPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFE  124
+            +P + +  F  +   A +   V+QN YF G  ++S+  A A+ N++PAVTF++++I+  E
+Sbjct  68   RPKMTITIFLKIMGLAFLEPVVDQNLYFMGAKMTSAGFATALVNILPAVTFVLALILRME  127
+
+Query  125  SIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGP  156
+             ++ RS+ S AK+ GT + V GA+ M    GP
+Sbjct  128  KVRLRSLHSQAKIAGTVLTVAGAVLMVLYHGP  159
+
+
+>EG:TraesCS6D02G308800.1 pep chromosome:IWGSC:6D:419614268:419616080:1 
+gene:TraesCS6D02G308800 transcript:TraesCS6D02G308800.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A341XYT2]
+Length=400
+
+ Score = 82.8 bits (170),  Expect = 2e-15
+ Identities = 32/92 (35%), Positives = 58/92 (63%), Gaps = 0/92 (0%)
+
+Query  65   KPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFE  124
+            +P + +  F  +   A++   ++QN Y+ G +L+S+  A A+ N++PAVTF++++I+  E
+Sbjct  68   RPKMTITIFIKIMGLALLEPVLDQNLYYMGANLTSAGFATALVNILPAVTFVLALILRME  127
+
+Query  125  SIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGP  156
+             ++ RS+ S AK+ GT + V GA+ M    GP
+Sbjct  128  KVRLRSLHSQAKIAGTVLTVAGAVLMVLYHGP  159
+
+
+>EG:TraesCS6B02G360800.1 pep chromosome:IWGSC:6B:632563923:632566684:1 
+gene:TraesCS6B02G360800 transcript:TraesCS6B02G360800.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D6AN03]
+Length=393
+
+ Score = 82.8 bits (170),  Expect = 2e-15
+ Identities = 34/92 (37%), Positives = 56/92 (61%), Gaps = 0/92 (0%)
+
+Query  65   KPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFE  124
+            +P + +  F  V   A +   ++QN YF G  L+S+  A A+ N++PAVTF++++I+  E
+Sbjct  66   RPKMTITIFIKVMGLAFLEPVMDQNLYFMGAKLTSAGFATALVNILPAVTFVLALILRME  125
+
+Query  125  SIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGP  156
+             ++ RS+ S AK+ GT + V GA+ M    GP
+Sbjct  126  KVRLRSLHSQAKIAGTVLTVAGAVLMVLYHGP  157
+
+
+>EG:TraesCS6B02G360700.1 pep chromosome:IWGSC:6B:632502656:632504809:1 
+gene:TraesCS6B02G360700 transcript:TraesCS6B02G360700.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D6ARG2]
+Length=366
+
+ Score = 82.8 bits (170),  Expect = 2e-15
+ Identities = 32/92 (35%), Positives = 58/92 (63%), Gaps = 0/92 (0%)
+
+Query  65   KPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFE  124
+            +P + +  F  +   A++   ++QN Y+ G +L+S+  A A+ N++PAVTF++++I+  E
+Sbjct  52   RPKMTITIFIKIMGLALLEPVLDQNLYYMGANLTSAGFATALVNILPAVTFVLALILRME  111
+
+Query  125  SIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGP  156
+             ++ RS+ S AK+ GT + V GA+ M    GP
+Sbjct  112  KVRLRSLHSQAKIAGTVLTVAGAVLMVLYHGP  143
+
+
+>EG:TraesCS6A02G329900.1 pep chromosome:IWGSC:6A:562812483:562814851:1 
+gene:TraesCS6A02G329900 transcript:TraesCS6A02G329900.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:W5G5B2]
+Length=385
+
+ Score = 82.8 bits (170),  Expect = 2e-15
+ Identities = 32/92 (35%), Positives = 58/92 (63%), Gaps = 0/92 (0%)
+
+Query  65   KPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFE  124
+            +P + +  F  +   A++   ++QN Y+ G +L+S+  A A+ N++PAVTF++++I+  E
+Sbjct  68   RPKMTITIFIKIMGLALLEPVLDQNLYYMGANLTSAGFATALVNILPAVTFVLALILRME  127
+
+Query  125  SIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGP  156
+             ++ RS+ S AK+ GT + V GA+ M    GP
+Sbjct  128  KVRLRSLHSQAKIAGTVLTVAGAVLMVLYHGP  159
+
+
+>EG:TraesCS4A02G464100.1 pep chromosome:IWGSC:4A:728085208:728087587:-1 
+gene:TraesCS4A02G464100 transcript:TraesCS4A02G464100.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D5WZT8]
+Length=371
+
+ Score = 81.4 bits (167),  Expect = 5e-15
+ Identities = 32/101 (32%), Positives = 61/101 (60%), Gaps = 0/101 (0%)
+
+Query  62   KENKPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIV  121
+            ++ +P +    F ++ L+ ++G  + Q   F G++ ++++ A    NL+P VTF+IS+  
+Sbjct  64   RKTRPKITAEIFAYLFLSGILGPVLLQYTLFVGLEYTTATFAATFGNLLPVVTFLISLAF  123
+
+Query  122  GFESIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGPKLLNAL  162
+            G+E+++ RS    AK+ GT + + GAM +TF +G  L + L
+Sbjct  124  GYETLEVRSKSGSAKICGTLLSLTGAMTLTFYKGASLTHHL  164
+
+
+>EG:TraesCS7D02G170200.1 pep chromosome:IWGSC:7D:122843475:122846698:1 
+gene:TraesCS7D02G170200 transcript:TraesCS7D02G170200.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D6CZV2]
+Length=393
+
+ Score = 80.9 bits (166),  Expect = 7e-15
+ Identities = 37/103 (36%), Positives = 61/103 (59%), Gaps = 0/103 (0%)
+
+Query  54   ISFISAWRKENKPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAV  113
+            + F   + K  +P + +R F  +   A++   ++QN Y+ G  L+S+S + A+ N++PAV
+Sbjct  57   LPFALFFEKGTRPKMTLRIFIKILGLALLEPVLDQNLYYVGNKLTSASFSSALVNILPAV  116
+
+Query  114  TFIISIIVGFESIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGP  156
+            TFI++I++  E ++ RS  S AKV GT   V GA+ M    GP
+Sbjct  117  TFIMAIVLRMEKLRLRSSHSQAKVAGTICTVIGAVLMIMYHGP  159
+
+
+>EG:TraesCS7B02G073900.1 pep chromosome:IWGSC:7B:83902977:83905797:-1 
+gene:TraesCS7B02G073900 transcript:TraesCS7B02G073900.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D6CGH3]
+Length=391
+
+ Score = 80.9 bits (166),  Expect = 7e-15
+ Identities = 37/103 (36%), Positives = 61/103 (59%), Gaps = 0/103 (0%)
+
+Query  54   ISFISAWRKENKPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAV  113
+            + F   + K  +P + +R F  +   A++   ++QN Y+ G  L+S+S + A+ N++PAV
+Sbjct  57   LPFALFFEKGTRPKMTLRIFIKILGLALLEPVLDQNLYYVGNKLTSASFSSALVNILPAV  116
+
+Query  114  TFIISIIVGFESIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGP  156
+            TFI++I++  E ++ RS  S AKV GT   V GA+ M    GP
+Sbjct  117  TFIMAIVLRMEKLRLRSSHSQAKVAGTICTVIGAVLMIMYHGP  159
+
+
+>EG:TraesCS6B02G360400.1 pep chromosome:IWGSC:6B:632241128:632244382:1 
+gene:TraesCS6B02G360400 transcript:TraesCS6B02G360400.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D6AQY2]
+Length=388
+
+ Score = 80.9 bits (166),  Expect = 7e-15
+ Identities = 32/92 (35%), Positives = 56/92 (61%), Gaps = 0/92 (0%)
+
+Query  65   KPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFE  124
+            +P + +  F  +   A +   ++QN Y+ G  L+S+  A A+ N++PAVTF++++I+  E
+Sbjct  68   RPKMTITIFLKIMGLAFLEPVLDQNLYYMGAKLTSAGFAAALINILPAVTFVLALILRME  127
+
+Query  125  SIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGP  156
+             ++ RS+ S AK+ GT + V GA+ M    GP
+Sbjct  128  KVRLRSLHSQAKIAGTVLTVAGAVLMILYHGP  159
+
+
+>EG:TraesCS6D02G308500.1 pep chromosome:IWGSC:6D:419284241:419287642:1 
+gene:TraesCS6D02G308500 transcript:TraesCS6D02G308500.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:W5GWN0]
+Length=387
+
+ Score = 80.5 bits (165),  Expect = 1e-14
+ Identities = 32/92 (35%), Positives = 56/92 (61%), Gaps = 0/92 (0%)
+
+Query  65   KPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFE  124
+            +P + +  F  +   A +   ++QN Y+ G  L+S+  A A+ N++PAVTF++++I+  E
+Sbjct  68   RPKMTITIFIKIMGLAFLEPVLDQNLYYMGAKLTSAGFAAALINILPAVTFVLALILRME  127
+
+Query  125  SIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGP  156
+             ++ RS+ S AK+ GT + V GA+ M    GP
+Sbjct  128  KVRLRSLHSQAKIAGTVLTVAGAVLMILYHGP  159
+
+
+>EG:TraesCS7B02G393200.1 pep chromosome:IWGSC:7B:659957456:659960535:1 
+gene:TraesCS7B02G393200 transcript:TraesCS7B02G393200.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D6C504]
+Length=365
+
+ Score = 80.0 bits (164),  Expect = 1e-14
+ Identities = 32/86 (37%), Positives = 55/86 (64%), Gaps = 0/86 (0%)
+
+Query  73   FWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESIKRRSMK  132
+            F+ +   A++   ++QN ++ G   +S+S + A+TN++PAVTF+ +I++  E I  +  +
+Sbjct  75   FYKIVALALLEPVLDQNFFYIGARNTSASFSSALTNVLPAVTFVNAILIRMERINIKERR  134
+
+Query  133  SVAKVIGTGVCVGGAMAMTFLRGPKL  158
+            S AK+ GT + VGGA+ M   RGP L
+Sbjct  135  SQAKIAGTVITVGGALLMVLFRGPVL  160
+
+
+>EG:TraesCS3B02G366800.1 pep chromosome:IWGSC:3B:578984191:578989390:1 
+gene:TraesCS3B02G366800 transcript:TraesCS3B02G366800.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:W5CTB1]
+Length=376
+
+ Score = 80.0 bits (164),  Expect = 1e-14
+ Identities = 35/100 (35%), Positives = 58/100 (58%), Gaps = 0/100 (0%)
+
+Query  59   AWRKENKPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIIS  118
+            A  ++N  S+  R    + L A+IG T + N Y   + L+S+++  A +N +P VTF I+
+Sbjct  57   ALERKNARSMSFRLLLKLFLFALIGTTFSLNLYNVSLKLTSATVGSATSNSMPVVTFFIA  116
+
+Query  119  IIVGFESIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGPKL  158
+            +++  E +K RS   +AKV G G+C+ G + + F  GP L
+Sbjct  117  LLLRMEVVKLRSPSGMAKVAGVGLCLAGVLVIAFYVGPYL  156
+
+
+>EG:TraesCS3A02G335900.1 pep chromosome:IWGSC:3A:582342181:582349210:-1 
+gene:TraesCS3A02G335900 transcript:TraesCS3A02G335900.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D5V5H6]
+Length=376
+
+ Score = 80.0 bits (164),  Expect = 1e-14
+ Identities = 34/100 (34%), Positives = 58/100 (58%), Gaps = 0/100 (0%)
+
+Query  59   AWRKENKPSLGVRGFWWVALTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIIS  118
+            A  ++N  S+  R    + + A+IG T + N Y   + L+S+++  A +N +P VTF I+
+Sbjct  57   ALERKNARSMSFRLLLKLFMFALIGTTFSLNLYNVSLKLTSATVGSATSNSMPVVTFFIA  116
+
+Query  119  IIVGFESIKRRSMKSVAKVIGTGVCVGGAMAMTFLRGPKL  158
+            +++  E +K RS   +AKV G G+C+ G + + F  GP L
+Sbjct  117  LLLRMEVVKLRSPSGMAKVAGVGLCLAGVLVIAFYVGPSL  156
+
+
+>EG:TraesCS2D02G506100.1 pep chromosome:IWGSC:2D:600037098:600038914:1 
+gene:TraesCS2D02G506100 transcript:TraesCS2D02G506100.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding
+Length=377
+
+ Score = 80.0 bits (164),  Expect = 1e-14
+ Identities = 32/81 (40%), Positives = 51/81 (63%), Gaps = 0/81 (0%)
+
+Query  78   LTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESIKRRSMKSVAKV  137
+            L A+ G T + N Y   + L+S+++  A +N +P VTFII++++  E +K RS   +AKV
+Sbjct  76   LYALFGTTFSLNLYNVSLKLTSATVGSATSNSMPVVTFIIALLLRMEVVKLRSPSGIAKV  135
+
+Query  138  IGTGVCVGGAMAMTFLRGPKL  158
+             G G+C+ G +A+ F  GP L
+Sbjct  136  AGVGLCLAGVLAIAFYVGPSL  156
+
+
+>EG:TraesCS2D02G506100.2 pep chromosome:IWGSC:2D:600037098:600039854:1 
+gene:TraesCS2D02G506100 transcript:TraesCS2D02G506100.2 
+gene_biotype:protein_coding transcript_biotype:protein_coding
+Length=501
+
+ Score = 80.0 bits (164),  Expect = 1e-14
+ Identities = 32/81 (40%), Positives = 51/81 (63%), Gaps = 0/81 (0%)
+
+Query  78   LTAVIGVTVNQNAYFKGIDLSSSSMACAMTNLIPAVTFIISIIVGFESIKRRSMKSVAKV  137
+            L A+ G T + N Y   + L+S+++  A +N +P VTFII++++  E +K RS   +AKV
+Sbjct  76   LYALFGTTFSLNLYNVSLKLTSATVGSATSNSMPVVTFIIALLLRMEVVKLRSPSGIAKV  135
+
+Query  138  IGTGVCVGGAMAMTFLRGPKL  158
+             G G+C+ G +A+ F  GP L
+Sbjct  136  AGVGLCLAGVLAIAFYVGPSL  156
+
+
+
+Lambda      K        H
+   0.326    0.136    0.421 
+
+Gapped
+Lambda      K        H
+   -1.00    -1.00    -1.00 
+
+Effective search space used: 16292730140
+
+
+  Database: Triticum_aestivum.IWGSC.pep.all
+    Posted date:  Apr 21, 2020  12:30 PM
+  Number of letters in database: 59,091,148
+  Number of sequences in database:  133,346
+
+
+
+Matrix: BLOSUM62
+Neighboring words threshold: 11
+Window for multiple hits: 40

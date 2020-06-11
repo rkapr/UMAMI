@@ -1,0 +1,143 @@
+BLASTP 2.9.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: Triticum_aestivum.IWGSC.pep.all
+           133,346 sequences; 59,091,148 total letters
+
+
+
+Query= AT3G02690.1 nodulin MtN21 /EamA-like transporter family protein
+Chr3:579627-581448 FORWARD LENGTH=417 201606
+
+Length=417
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+EG:TraesCS1B02G181600.1 pep chromosome:IWGSC:1B:328641904:3286463...  212        2e-54
+EG:TraesCS1A02G164700.1 pep chromosome:IWGSC:1A:297696462:2977008...  211        3e-54
+EG:TraesCS1D02G161800.1 pep chromosome:IWGSC:1D:229319274:2293245...  211        4e-54
+
+
+>EG:TraesCS1B02G181600.1 pep chromosome:IWGSC:1B:328641904:328646333:-1 
+gene:TraesCS1B02G181600 transcript:TraesCS1B02G181600.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding
+Length=391
+
+ Score = 212 bits (450),  Expect = 2e-54
+ Identities = 78/104 (75%), Positives = 94/104 (90%), Gaps = 0/104 (0%)
+
+Query  256  EVPSVTSDGNNFSLWGSGEWWMLLAAQSMAIGTVMVRWVSKYSDPIMATGWHMVIGGLPL  315
+            EVP+++ +GNN S+WGSGEWWM L+AQSMA+GT+MVRWVSKYSDPIMATGWHMV+GG+PL
+Sbjct  228  EVPALSVEGNNTSVWGSGEWWMFLSAQSMAVGTIMVRWVSKYSDPIMATGWHMVLGGIPL  287
+
+Query  316  LAISVINHDPVFNGSLQDLSTNDVIALLYTSIFGSAVSYGVYFY  359
+            L ISV+NHDP  NG +Q+L+ +D+ AL YTSIFGSAVSYGVYFY
+Sbjct  288  LVISVLNHDPALNGHIQELTWSDIAALGYTSIFGSAVSYGVYFY  331
+
+
+ Score = 201 bits (427),  Expect = 4e-51
+ Identities = 81/113 (72%), Positives = 93/113 (82%), Gaps = 0/113 (0%)
+
+Query  124  EWTVLISPFFFWGTAMVAMKEVLPITGPFFVAAFRLIPAGLLLVAFAVYKGRPLPEGINA  183
+            EW  L+SPFFFWGTAMVAMK V+P TGPFFVAA RL+PAG L+V+FA  +GR  P G  A
+Sbjct  96   EWVSLVSPFFFWGTAMVAMKGVIPKTGPFFVAALRLLPAGALVVSFAAARGRKQPSGWAA  155
+
+Query  184  WFSIALFALVDATCFQGFLAQGLQRTSAGLGSVIIDSQPLTVAVLASFLFGES  236
+            W +IA F L+DA CFQGFL +GLQ+TSAGLGSVIIDSQPLTVA+LA+  FGES
+Sbjct  156  WGAIAAFGLIDAACFQGFLTEGLQKTSAGLGSVIIDSQPLTVAILAALFFGES  208
+
+
+>EG:TraesCS1A02G164700.1 pep chromosome:IWGSC:1A:297696462:297700859:-1 
+gene:TraesCS1A02G164700 transcript:TraesCS1A02G164700.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding
+Length=393
+
+ Score = 211 bits (449),  Expect = 3e-54
+ Identities = 78/104 (75%), Positives = 94/104 (90%), Gaps = 0/104 (0%)
+
+Query  256  EVPSVTSDGNNFSLWGSGEWWMLLAAQSMAIGTVMVRWVSKYSDPIMATGWHMVIGGLPL  315
+            EVP+++ +GNN S+WGSGEWWM L+AQSMA+GT+MVRWVSKYSDPIMATGWHMV+GG+PL
+Sbjct  230  EVPALSVEGNNTSVWGSGEWWMFLSAQSMAVGTIMVRWVSKYSDPIMATGWHMVLGGIPL  289
+
+Query  316  LAISVINHDPVFNGSLQDLSTNDVIALLYTSIFGSAVSYGVYFY  359
+            L ISV+NHDP  NG +Q+L+ +D+ AL YTSIFGSAVSYGVYFY
+Sbjct  290  LVISVVNHDPALNGHIQELTWSDMAALGYTSIFGSAVSYGVYFY  333
+
+
+ Score = 203 bits (430),  Expect = 1e-51
+ Identities = 82/113 (73%), Positives = 93/113 (82%), Gaps = 0/113 (0%)
+
+Query  124  EWTVLISPFFFWGTAMVAMKEVLPITGPFFVAAFRLIPAGLLLVAFAVYKGRPLPEGINA  183
+            EW  L+SPFFFWGTAMVAMK V+P TGPFFVAA RL+PAG L+VAFA  +GR  P G  A
+Sbjct  98   EWVSLVSPFFFWGTAMVAMKGVIPKTGPFFVAALRLLPAGALVVAFAAARGRKQPSGWAA  157
+
+Query  184  WFSIALFALVDATCFQGFLAQGLQRTSAGLGSVIIDSQPLTVAVLASFLFGES  236
+            W +IA F L+DA CFQGFL +GLQ+TSAGLGSVIIDSQPLTVA+LA+  FGES
+Sbjct  158  WGAIAAFGLIDAACFQGFLTEGLQKTSAGLGSVIIDSQPLTVAILAALFFGES  210
+
+
+>EG:TraesCS1D02G161800.1 pep chromosome:IWGSC:1D:229319274:229324500:-1 
+gene:TraesCS1D02G161800 transcript:TraesCS1D02G161800.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding
+Length=391
+
+ Score = 211 bits (448),  Expect = 4e-54
+ Identities = 77/104 (74%), Positives = 95/104 (91%), Gaps = 0/104 (0%)
+
+Query  256  EVPSVTSDGNNFSLWGSGEWWMLLAAQSMAIGTVMVRWVSKYSDPIMATGWHMVIGGLPL  315
+            EVP+++ +G+N S+WGSGEWWM L+AQSMA+GT+MVRWVSKYSDPIMATGWHMV+GG+PL
+Sbjct  228  EVPALSVEGSNTSVWGSGEWWMFLSAQSMAVGTIMVRWVSKYSDPIMATGWHMVLGGVPL  287
+
+Query  316  LAISVINHDPVFNGSLQDLSTNDVIALLYTSIFGSAVSYGVYFY  359
+            L ISV+NHDP  NG +Q+L+ +D++AL YTSIFGSAVSYGVYFY
+Sbjct  288  LVISVLNHDPALNGHIQELTWSDIVALGYTSIFGSAVSYGVYFY  331
+
+
+ Score = 203 bits (430),  Expect = 1e-51
+ Identities = 82/113 (73%), Positives = 93/113 (82%), Gaps = 0/113 (0%)
+
+Query  124  EWTVLISPFFFWGTAMVAMKEVLPITGPFFVAAFRLIPAGLLLVAFAVYKGRPLPEGINA  183
+            EW  L+SPFFFWGTAMVAMK V+P TGPFFVAA RL+PAG L+VAFA  +GR  P G  A
+Sbjct  96   EWVSLVSPFFFWGTAMVAMKGVIPKTGPFFVAALRLLPAGALVVAFAAARGRKQPSGWAA  155
+
+Query  184  WFSIALFALVDATCFQGFLAQGLQRTSAGLGSVIIDSQPLTVAVLASFLFGES  236
+            W +IA F L+DA CFQGFL +GLQ+TSAGLGSVIIDSQPLTVA+LA+  FGES
+Sbjct  156  WGAIAAFGLIDAACFQGFLTEGLQKTSAGLGSVIIDSQPLTVAILAALFFGES  208
+
+
+
+Lambda      K        H
+   0.323    0.138    0.431 
+
+Gapped
+Lambda      K        H
+   -1.00    -1.00    -1.00 
+
+Effective search space used: 19239552216
+
+
+  Database: Triticum_aestivum.IWGSC.pep.all
+    Posted date:  Apr 21, 2020  12:30 PM
+  Number of letters in database: 59,091,148
+  Number of sequences in database:  133,346
+
+
+
+Matrix: BLOSUM62
+Neighboring words threshold: 11
+Window for multiple hits: 40

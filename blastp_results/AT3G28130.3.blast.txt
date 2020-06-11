@@ -1,0 +1,91 @@
+BLASTP 2.9.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: Triticum_aestivum.IWGSC.pep.all
+           133,346 sequences; 59,091,148 total letters
+
+
+
+Query= AT3G28130.3 nodulin MtN21 /EamA-like transporter family protein
+Chr3:10467733-10468704 FORWARD LENGTH=230 201606
+
+Length=230
+                                                                      Score        E
+Sequences producing significant alignments:                          (Bits)     Value
+
+EG:TraesCS6B02G360500.1 pep chromosome:IWGSC:6B:632304665:6323057...  70.5       6e-12
+EG:TraesCS6D02G308600.1 pep chromosome:IWGSC:6D:419444541:4194490...  70.0       8e-12
+
+
+>EG:TraesCS6B02G360500.1 pep chromosome:IWGSC:6B:632304665:632305774:1 
+gene:TraesCS6B02G360500 transcript:TraesCS6B02G360500.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A341XCJ6]
+Length=306
+
+ Score = 70.5 bits (143),  Expect = 6e-12
+ Identities = 29/83 (35%), Positives = 47/83 (57%), Gaps = 0/83 (0%)
+
+Query  60   DWIIGGCLLAIKDTLVPVAFILQAHIMKLYPAPFTVSFFYFLIASILTSLIGIVAEKNNP  119
+            DW+IG  +L     + P  FILQA+ +  YPA  +++     + S+++  + +VAE+ N 
+Sbjct  104  DWLIGTIMLIASCMIWPGFFILQANTLGSYPAELSLTALICGMGSLMSGAVALVAERANT  163
+
+Query  120  SIWIIHFDITLVCIVVGGIFNPG  142
+             +W+I FD  L  +V GGI   G
+Sbjct  164  QVWVIGFDNRLFTVVYGGIVCSG  186
+
+
+>EG:TraesCS6D02G308600.1 pep chromosome:IWGSC:6D:419444541:419449055:1 
+gene:TraesCS6D02G308600 transcript:TraesCS6D02G308600.1 
+gene_biotype:protein_coding transcript_biotype:protein_coding 
+description:WAT1-related protein [Source:UniProtKB/TrEMBL;Acc:A0A1D6B9I0]
+Length=393
+
+ Score = 70.0 bits (142),  Expect = 8e-12
+ Identities = 28/83 (34%), Positives = 47/83 (57%), Gaps = 0/83 (0%)
+
+Query  60   DWIIGGCLLAIKDTLVPVAFILQAHIMKLYPAPFTVSFFYFLIASILTSLIGIVAEKNNP  119
+            DW++G  +L     + P  FILQA+ ++ YPA  +++     + S+++  + +VAE+ N 
+Sbjct  183  DWLVGTIMLIASCMIWPGFFILQANTLRSYPAELSLTALICGMGSLMSGAVALVAERANT  242
+
+Query  120  SIWIIHFDITLVCIVVGGIFNPG  142
+             +W I FD  L  +V GGI   G
+Sbjct  243  QVWAIGFDNRLFTVVYGGIVCSG  265
+
+
+
+Lambda      K        H
+   0.328    0.144    0.442 
+
+Gapped
+Lambda      K        H
+   -1.00    -1.00    -1.00 
+
+Effective search space used: 9666771138
+
+
+  Database: Triticum_aestivum.IWGSC.pep.all
+    Posted date:  Apr 21, 2020  12:30 PM
+  Number of letters in database: 59,091,148
+  Number of sequences in database:  133,346
+
+
+
+Matrix: BLOSUM62
+Neighboring words threshold: 11
+Window for multiple hits: 40
