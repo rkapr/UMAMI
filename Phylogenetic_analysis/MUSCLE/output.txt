@@ -1,0 +1,1254 @@
+AT1G01070.1
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT1G01070.1.out.txt
+Creating result file: ../../phylo_analysi/AT1G01070.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT1G01070.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT1G01070.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT1G01070.1.pim.pim
+AT1G01070.2
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT1G01070.2.out.txt
+Creating result file: ../../phylo_analysi/AT1G01070.2.sequence.txt
+Creating result file: ../../phylo_analysi/AT1G01070.2.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT1G01070.2.phylotree.ph
+Creating result file: ../../phylo_analysi/AT1G01070.2.pim.pim
+AT1G09380.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT1G09380.1.out.txt
+Creating result file: ../../phylo_analysi/AT1G09380.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT1G09380.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT1G09380.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT1G09380.1.pim.pim
+AT1G11450.1
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT1G11450.1.out.txt
+Creating result file: ../../phylo_analysi/AT1G11450.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT1G11450.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT1G11450.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT1G11450.1.pim.pim
+AT1G11450.2
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT1G11450.2.out.txt
+Creating result file: ../../phylo_analysi/AT1G11450.2.sequence.txt
+Creating result file: ../../phylo_analysi/AT1G11450.2.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT1G11450.2.phylotree.ph
+Creating result file: ../../phylo_analysi/AT1G11450.2.pim.pim
+AT1G11450.3
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT1G11450.3.out.txt
+Creating result file: ../../phylo_analysi/AT1G11450.3.sequence.txt
+Creating result file: ../../phylo_analysi/AT1G11450.3.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT1G11450.3.phylotree.ph
+Creating result file: ../../phylo_analysi/AT1G11450.3.pim.pim
+AT1G11450.4
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT1G11450.4.out.txt
+Creating result file: ../../phylo_analysi/AT1G11450.4.sequence.txt
+Creating result file: ../../phylo_analysi/AT1G11450.4.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT1G11450.4.phylotree.ph
+Creating result file: ../../phylo_analysi/AT1G11450.4.pim.pim
+AT1G11450.5
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT1G11450.5.out.txt
+Creating result file: ../../phylo_analysi/AT1G11450.5.sequence.txt
+Creating result file: ../../phylo_analysi/AT1G11450.5.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT1G11450.5.phylotree.ph
+Creating result file: ../../phylo_analysi/AT1G11450.5.pim.pim
+AT1G11460.1
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT1G11460.1.out.txt
+Creating result file: ../../phylo_analysi/AT1G11460.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT1G11460.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT1G11460.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT1G11460.1.pim.pim
+AT1G21890.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT1G21890.1.out.txt
+Creating result file: ../../phylo_analysi/AT1G21890.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT1G21890.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT1G21890.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT1G21890.1.pim.pim
+AT1G21890.2
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT1G21890.2.out.txt
+Creating result file: ../../phylo_analysi/AT1G21890.2.sequence.txt
+Creating result file: ../../phylo_analysi/AT1G21890.2.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT1G21890.2.phylotree.ph
+Creating result file: ../../phylo_analysi/AT1G21890.2.pim.pim
+AT1G25270.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT1G25270.1.out.txt
+Creating result file: ../../phylo_analysi/AT1G25270.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT1G25270.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT1G25270.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT1G25270.1.pim.pim
+AT1G43650.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT1G43650.1.out.txt
+Creating result file: ../../phylo_analysi/AT1G43650.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT1G43650.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT1G43650.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT1G43650.1.pim.pim
+AT1G43650.2
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT1G43650.2.out.txt
+Creating result file: ../../phylo_analysi/AT1G43650.2.sequence.txt
+Creating result file: ../../phylo_analysi/AT1G43650.2.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT1G43650.2.phylotree.ph
+Creating result file: ../../phylo_analysi/AT1G43650.2.pim.pim
+AT1G44800.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT1G44800.1.out.txt
+Creating result file: ../../phylo_analysi/AT1G44800.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT1G44800.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT1G44800.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT1G44800.1.pim.pim
+AT1G60050.1
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT1G60050.1.out.txt
+Creating result file: ../../phylo_analysi/AT1G60050.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT1G60050.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT1G60050.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT1G60050.1.pim.pim
+AT1G68170.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT1G68170.1.out.txt
+Creating result file: ../../phylo_analysi/AT1G68170.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT1G68170.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT1G68170.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT1G68170.1.pim.pim
+AT1G68170.2
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT1G68170.2.out.txt
+Creating result file: ../../phylo_analysi/AT1G68170.2.sequence.txt
+Creating result file: ../../phylo_analysi/AT1G68170.2.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT1G68170.2.phylotree.ph
+Creating result file: ../../phylo_analysi/AT1G68170.2.pim.pim
+AT1G70260.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT1G70260.1.out.txt
+Creating result file: ../../phylo_analysi/AT1G70260.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT1G70260.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT1G70260.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT1G70260.1.pim.pim
+AT1G75500.1
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT1G75500.1.out.txt
+Creating result file: ../../phylo_analysi/AT1G75500.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT1G75500.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT1G75500.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT1G75500.1.pim.pim
+AT2G37450.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT2G37450.1.out.txt
+Creating result file: ../../phylo_analysi/AT2G37450.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT2G37450.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT2G37450.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT2G37450.1.pim.pim
+AT2G37450.2
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT2G37450.2.out.txt
+Creating result file: ../../phylo_analysi/AT2G37450.2.sequence.txt
+Creating result file: ../../phylo_analysi/AT2G37450.2.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT2G37450.2.phylotree.ph
+Creating result file: ../../phylo_analysi/AT2G37450.2.pim.pim
+AT2G37450.3
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT2G37450.3.out.txt
+Creating result file: ../../phylo_analysi/AT2G37450.3.sequence.txt
+Creating result file: ../../phylo_analysi/AT2G37450.3.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT2G37450.3.phylotree.ph
+Creating result file: ../../phylo_analysi/AT2G37450.3.pim.pim
+AT2G37460.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT2G37460.1.out.txt
+Creating result file: ../../phylo_analysi/AT2G37460.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT2G37460.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT2G37460.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT2G37460.1.pim.pim
+AT2G39510.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT2G39510.1.out.txt
+Creating result file: ../../phylo_analysi/AT2G39510.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT2G39510.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT2G39510.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT2G39510.1.pim.pim
+AT2G40900.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT2G40900.1.out.txt
+Creating result file: ../../phylo_analysi/AT2G40900.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT2G40900.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT2G40900.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT2G40900.1.pim.pim
+AT3G02690.1
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G02690.1.out.txt
+Creating result file: ../../phylo_analysi/AT3G02690.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G02690.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G02690.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G02690.1.pim.pim
+AT3G18200.1
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G18200.1.out.txt
+Creating result file: ../../phylo_analysi/AT3G18200.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G18200.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G18200.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G18200.1.pim.pim
+AT3G18200.2
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G18200.2.out.txt
+Creating result file: ../../phylo_analysi/AT3G18200.2.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G18200.2.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G18200.2.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G18200.2.pim.pim
+AT3G28050.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G28050.1.out.txt
+Creating result file: ../../phylo_analysi/AT3G28050.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G28050.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G28050.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G28050.1.pim.pim
+AT3G28070.1
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G28070.1.out.txt
+Creating result file: ../../phylo_analysi/AT3G28070.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G28070.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G28070.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G28070.1.pim.pim
+AT3G28070.3
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G28070.3.out.txt
+Creating result file: ../../phylo_analysi/AT3G28070.3.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G28070.3.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G28070.3.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G28070.3.pim.pim
+AT3G28080.1
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G28080.1.out.txt
+Creating result file: ../../phylo_analysi/AT3G28080.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G28080.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G28080.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G28080.1.pim.pim
+AT3G28080.2
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G28080.2.out.txt
+Creating result file: ../../phylo_analysi/AT3G28080.2.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G28080.2.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G28080.2.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G28080.2.pim.pim
+AT3G28080.3
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G28080.3.out.txt
+Creating result file: ../../phylo_analysi/AT3G28080.3.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G28080.3.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G28080.3.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G28080.3.pim.pim
+AT3G28100.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G28100.1.out.txt
+Creating result file: ../../phylo_analysi/AT3G28100.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G28100.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G28100.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G28100.1.pim.pim
+AT3G28100.2
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G28100.2.out.txt
+Creating result file: ../../phylo_analysi/AT3G28100.2.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G28100.2.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G28100.2.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G28100.2.pim.pim
+AT3G28100.3
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G28100.3.out.txt
+Creating result file: ../../phylo_analysi/AT3G28100.3.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G28100.3.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G28100.3.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G28100.3.pim.pim
+AT3G28130.1
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G28130.1.out.txt
+Creating result file: ../../phylo_analysi/AT3G28130.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G28130.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G28130.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G28130.1.pim.pim
+AT3G28130.2
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G28130.2.out.txt
+Creating result file: ../../phylo_analysi/AT3G28130.2.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G28130.2.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G28130.2.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G28130.2.pim.pim
+AT3G28130.3
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G28130.3.out.txt
+Creating result file: ../../phylo_analysi/AT3G28130.3.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G28130.3.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G28130.3.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G28130.3.pim.pim
+AT3G28130.4
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G28130.4.out.txt
+Creating result file: ../../phylo_analysi/AT3G28130.4.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G28130.4.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G28130.4.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G28130.4.pim.pim
+AT3G28130.6
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G28130.6.out.txt
+Creating result file: ../../phylo_analysi/AT3G28130.6.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G28130.6.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G28130.6.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G28130.6.pim.pim
+AT3G30340.1
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G30340.1.out.txt
+Creating result file: ../../phylo_analysi/AT3G30340.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G30340.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G30340.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G30340.1.pim.pim
+AT3G30340.2
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G30340.2.out.txt
+Creating result file: ../../phylo_analysi/AT3G30340.2.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G30340.2.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G30340.2.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G30340.2.pim.pim
+AT3G45870.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G45870.1.out.txt
+Creating result file: ../../phylo_analysi/AT3G45870.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G45870.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G45870.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G45870.1.pim.pim
+AT3G45870.2
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G45870.2.out.txt
+Creating result file: ../../phylo_analysi/AT3G45870.2.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G45870.2.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G45870.2.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G45870.2.pim.pim
+AT3G45870.5
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G45870.5.out.txt
+Creating result file: ../../phylo_analysi/AT3G45870.5.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G45870.5.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G45870.5.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G45870.5.pim.pim
+AT3G45870.6
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G45870.6.out.txt
+Creating result file: ../../phylo_analysi/AT3G45870.6.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G45870.6.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G45870.6.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G45870.6.pim.pim
+AT3G45870.8
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G45870.8.out.txt
+Creating result file: ../../phylo_analysi/AT3G45870.8.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G45870.8.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G45870.8.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G45870.8.pim.pim
+AT3G45870.9
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G45870.9.out.txt
+Creating result file: ../../phylo_analysi/AT3G45870.9.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G45870.9.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G45870.9.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G45870.9.pim.pim
+AT3G53210.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G53210.1.out.txt
+Creating result file: ../../phylo_analysi/AT3G53210.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G53210.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G53210.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G53210.1.pim.pim
+AT3G53210.2
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G53210.2.out.txt
+Creating result file: ../../phylo_analysi/AT3G53210.2.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G53210.2.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G53210.2.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G53210.2.pim.pim
+AT3G53210.3
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G53210.3.out.txt
+Creating result file: ../../phylo_analysi/AT3G53210.3.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G53210.3.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G53210.3.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G53210.3.pim.pim
+AT3G56620.1
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT3G56620.1.out.txt
+Creating result file: ../../phylo_analysi/AT3G56620.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT3G56620.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT3G56620.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT3G56620.1.pim.pim
+AT4G01430.1
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G01430.1.out.txt
+Creating result file: ../../phylo_analysi/AT4G01430.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT4G01430.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT4G01430.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT4G01430.1.pim.pim
+AT4G01430.2
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G01430.2.out.txt
+Creating result file: ../../phylo_analysi/AT4G01430.2.sequence.txt
+Creating result file: ../../phylo_analysi/AT4G01430.2.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT4G01430.2.phylotree.ph
+Creating result file: ../../phylo_analysi/AT4G01430.2.pim.pim
+AT4G01430.3
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G01430.3.out.txt
+Creating result file: ../../phylo_analysi/AT4G01430.3.sequence.txt
+Creating result file: ../../phylo_analysi/AT4G01430.3.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT4G01430.3.phylotree.ph
+Creating result file: ../../phylo_analysi/AT4G01430.3.pim.pim
+AT4G01440.1
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G01440.1.out.txt
+Creating result file: ../../phylo_analysi/AT4G01440.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT4G01440.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT4G01440.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT4G01440.1.pim.pim
+AT4G01440.2
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G01440.2.out.txt
+Creating result file: ../../phylo_analysi/AT4G01440.2.sequence.txt
+Creating result file: ../../phylo_analysi/AT4G01440.2.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT4G01440.2.phylotree.ph
+Creating result file: ../../phylo_analysi/AT4G01440.2.pim.pim
+AT4G01440.3
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G01440.3.out.txt
+Creating result file: ../../phylo_analysi/AT4G01440.3.sequence.txt
+Creating result file: ../../phylo_analysi/AT4G01440.3.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT4G01440.3.phylotree.ph
+Creating result file: ../../phylo_analysi/AT4G01440.3.pim.pim
+AT4G01440.4
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G01440.4.out.txt
+Creating result file: ../../phylo_analysi/AT4G01440.4.sequence.txt
+Creating result file: ../../phylo_analysi/AT4G01440.4.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT4G01440.4.phylotree.ph
+Creating result file: ../../phylo_analysi/AT4G01440.4.pim.pim
+AT4G01450.1
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G01450.1.out.txt
+Creating result file: ../../phylo_analysi/AT4G01450.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT4G01450.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT4G01450.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT4G01450.1.pim.pim
+AT4G01450.2
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G01450.2.out.txt
+Creating result file: ../../phylo_analysi/AT4G01450.2.sequence.txt
+Creating result file: ../../phylo_analysi/AT4G01450.2.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT4G01450.2.phylotree.ph
+Creating result file: ../../phylo_analysi/AT4G01450.2.pim.pim
+AT4G01450.3
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G01450.3.out.txt
+Creating result file: ../../phylo_analysi/AT4G01450.3.sequence.txt
+Creating result file: ../../phylo_analysi/AT4G01450.3.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT4G01450.3.phylotree.ph
+Creating result file: ../../phylo_analysi/AT4G01450.3.pim.pim
+AT4G01450.4
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G01450.4.out.txt
+Creating result file: ../../phylo_analysi/AT4G01450.4.sequence.txt
+Creating result file: ../../phylo_analysi/AT4G01450.4.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT4G01450.4.phylotree.ph
+Creating result file: ../../phylo_analysi/AT4G01450.4.pim.pim
+AT4G08290.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G08290.1.out.txt
+Creating result file: ../../phylo_analysi/AT4G08290.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT4G08290.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT4G08290.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT4G08290.1.pim.pim
+AT4G08290.2
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G08290.2.out.txt
+Creating result file: ../../phylo_analysi/AT4G08290.2.sequence.txt
+Creating result file: ../../phylo_analysi/AT4G08290.2.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT4G08290.2.phylotree.ph
+Creating result file: ../../phylo_analysi/AT4G08290.2.pim.pim
+AT4G08300.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G08300.1.out.txt
+Creating result file: ../../phylo_analysi/AT4G08300.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT4G08300.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT4G08300.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT4G08300.1.pim.pim
+AT4G15540.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G15540.1.out.txt
+Creating result file: ../../phylo_analysi/AT4G15540.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT4G15540.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT4G15540.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT4G15540.1.pim.pim
+AT4G16620.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G16620.1.out.txt
+Creating result file: ../../phylo_analysi/AT4G16620.1.sequence.txt
+AT4G16620.2
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G16620.2.out.txt
+Creating result file: ../../phylo_analysi/AT4G16620.2.sequence.txt
+Creating result file: ../../phylo_analysi/AT4G16620.2.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT4G16620.2.phylotree.ph
+Creating result file: ../../phylo_analysi/AT4G16620.2.pim.pim
+AT4G16620.3
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G16620.3.out.txt
+Creating result file: ../../phylo_analysi/AT4G16620.3.sequence.txt
+Creating result file: ../../phylo_analysi/AT4G16620.3.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT4G16620.3.phylotree.ph
+Creating result file: ../../phylo_analysi/AT4G16620.3.pim.pim
+AT4G19185.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G19185.1.out.txt
+Creating result file: ../../phylo_analysi/AT4G19185.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT4G19185.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT4G19185.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT4G19185.1.pim.pim
+AT4G19185.2
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G19185.2.out.txt
+Creating result file: ../../phylo_analysi/AT4G19185.2.sequence.txt
+Creating result file: ../../phylo_analysi/AT4G19185.2.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT4G19185.2.phylotree.ph
+Creating result file: ../../phylo_analysi/AT4G19185.2.pim.pim
+AT4G28040.1
+AT4G28040.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G28040.1.out.txt
+Creating result file: ../../phylo_analysi/AT4G28040.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT4G28040.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT4G28040.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT4G28040.1.pim.pim
+AT4G30420.1
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G30420.1.out.txt
+Creating result file: ../../phylo_analysi/AT4G30420.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT4G30420.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT4G30420.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT4G30420.1.pim.pim
+AT4G30420.2
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G30420.2.out.txt
+Creating result file: ../../phylo_analysi/AT4G30420.2.sequence.txt
+Creating result file: ../../phylo_analysi/AT4G30420.2.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT4G30420.2.phylotree.ph
+Creating result file: ../../phylo_analysi/AT4G30420.2.pim.pim
+AT4G32140.1
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT4G32140.1.out.txt
+Creating result file: ../../phylo_analysi/AT4G32140.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT4G32140.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT4G32140.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT4G32140.1.pim.pim
+AT5G07050.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT5G07050.1.out.txt
+Creating result file: ../../phylo_analysi/AT5G07050.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT5G07050.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT5G07050.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT5G07050.1.pim.pim
+AT5G13670.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT5G13670.1.out.txt
+Creating result file: ../../phylo_analysi/AT5G13670.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT5G13670.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT5G13670.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT5G13670.1.pim.pim
+AT5G40210.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT5G40210.1.out.txt
+Creating result file: ../../phylo_analysi/AT5G40210.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT5G40210.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT5G40210.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT5G40210.1.pim.pim
+AT5G40230.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT5G40230.1.out.txt
+Creating result file: ../../phylo_analysi/AT5G40230.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT5G40230.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT5G40230.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT5G40230.1.pim.pim
+AT5G40240.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT5G40240.1.out.txt
+Creating result file: ../../phylo_analysi/AT5G40240.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT5G40240.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT5G40240.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT5G40240.1.pim.pim
+AT5G40240.2
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT5G40240.2.out.txt
+Creating result file: ../../phylo_analysi/AT5G40240.2.sequence.txt
+Creating result file: ../../phylo_analysi/AT5G40240.2.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT5G40240.2.phylotree.ph
+Creating result file: ../../phylo_analysi/AT5G40240.2.pim.pim
+AT5G45370.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT5G45370.1.out.txt
+Creating result file: ../../phylo_analysi/AT5G45370.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT5G45370.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT5G45370.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT5G45370.1.pim.pim
+AT5G45370.2
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT5G45370.2.out.txt
+Creating result file: ../../phylo_analysi/AT5G45370.2.sequence.txt
+Creating result file: ../../phylo_analysi/AT5G45370.2.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT5G45370.2.phylotree.ph
+Creating result file: ../../phylo_analysi/AT5G45370.2.pim.pim
+AT5G45370.3
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT5G45370.3.out.txt
+Creating result file: ../../phylo_analysi/AT5G45370.3.sequence.txt
+Creating result file: ../../phylo_analysi/AT5G45370.3.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT5G45370.3.phylotree.ph
+Creating result file: ../../phylo_analysi/AT5G45370.3.pim.pim
+AT5G45370.5
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT5G45370.5.out.txt
+Creating result file: ../../phylo_analysi/AT5G45370.5.sequence.txt
+Creating result file: ../../phylo_analysi/AT5G45370.5.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT5G45370.5.phylotree.ph
+Creating result file: ../../phylo_analysi/AT5G45370.5.pim.pim
+AT5G47470.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT5G47470.1.out.txt
+Creating result file: ../../phylo_analysi/AT5G47470.1.sequence.txt
+AT5G47470.2
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT5G47470.2.out.txt
+Creating result file: ../../phylo_analysi/AT5G47470.2.sequence.txt
+AT5G47470.3
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT5G47470.3.out.txt
+Creating result file: ../../phylo_analysi/AT5G47470.3.sequence.txt
+AT5G64700.1
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT5G64700.1.out.txt
+Creating result file: ../../phylo_analysi/AT5G64700.1.sequence.txt
+Creating result file: ../../phylo_analysi/AT5G64700.1.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT5G64700.1.phylotree.ph
+Creating result file: ../../phylo_analysi/AT5G64700.1.pim.pim
+AT5G64700.2
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+RUNNING
+FINISHED
+Creating result file: ../../phylo_analysi/AT5G64700.2.out.txt
+Creating result file: ../../phylo_analysi/AT5G64700.2.sequence.txt
+Creating result file: ../../phylo_analysi/AT5G64700.2.aln-clustalw.clw
+Creating result file: ../../phylo_analysi/AT5G64700.2.phylotree.ph
+Creating result file: ../../phylo_analysi/AT5G64700.2.pim.pim
