@@ -1,0 +1,80 @@
+Started Sun Jun 21 02:20:25 2020
+/nfs/public/ro/es/appbin/linux-x86_64/muscle-3.8.31/muscle -in muscle-R20200621-022024-0154-41567772-p2m.sequence -verbose -log muscle-R20200621-022024-0154-41567772-p2m.output -quiet -clw -out muscle-R20200621-022024-0154-41567772-p2m.clw 
+Alphabet DNA
+
+MUSCLE v3.8.31 by Robert C. Edgar
+http://www.drive5.com/muscle
+
+Profile-profile score    SPN
+Max iterations           8
+Max trees                1
+Max time                 (No limit)
+Max MB                   4294966239
+Gap open                 -400
+Gap extend (dimer)       0
+Gap ambig factor         0
+Gap ambig penalty        -0
+Center (LE)              0
+Term gaps                Half
+Smooth window length     7
+Refine window length     200
+Min anchor spacing       32
+Min diag length (lambda) 24
+Diag margin (mu)         5
+Min diag break           1
+Hydrophobic window       5
+Hydrophobic gap factor   1.2
+Smooth score ceiling     999
+Min best col score       90
+Min anchor score         90
+SUEFF                    0.1
+Brenner root MSA         False
+Normalize counts         False
+Diagonals (1)            False
+Diagonals (2)            False
+Anchors                  True
+MSF output format        False
+Phylip interleaved       False
+Phylip sequential        False
+ClustalW output format   True
+Catch exceptions         True
+Quiet                    True
+Refine                   False
+ProdfDB                  False
+Low complexity profiles  True
+Objective score          SPM
+Distance method (1)      Kmer4_6
+Clustering method (1)    UPGMB
+Root method (1)          Pseudo
+Sequence weighting (1)   ClustalW
+Distance method (2)      PctIdKimura
+Clustering method (2)    UPGMB
+Root method (2)          Pseudo
+Sequence weighting (2)   ClustalW
+
+Elapsed time 00:00:00  Peak memory use   11 MB(-1%)  Iteration   1 K-mer dist pass 1
+Elapsed time 00:00:00  Peak memory use   11 MB(-1%)  Iteration   1 K-mer dist pass 2
+Align: (TraesCS1D02G019300) (TraesCS1A02G019800)
+Align: (TraesCS2B02G533700) (TraesCS3A02G335900)
+Align: (TraesCS1B02G023900) (TraesCS2B02G533700,TraesCS3A02G335900)
+Align: (TraesCS3D02G328900) (TraesCS1B02G023900,TraesCS2B02G533700,TraesCS3A02G335900)
+Align: (TraesCS1D02G019300,TraesCS1A02G019800) (TraesCS3D02G328900,TraesCS1B02G023900,TraesCS2B02G533700,TraesCS3A02G335900)
+Align: (TraesCS3B02G366800) (TraesCS1D02G019300,TraesCS1A02G019800,TraesCS3D02G328900,TraesCS1B02G023900,TraesCS2B02G533700,TraesCS3A02G335900)
+Align: (TraesCS1A02G019700) (TraesCS3B02G366800,TraesCS1D02G019300,TraesCS1A02G019800,TraesCS3D02G328900,TraesCS1B02G023900,TraesCS2B02G533700,TraesCS3A02G335900)
+Align: (TraesCS1A02G020200) (TraesCS1A02G019700,TraesCS3B02G366800,TraesCS1D02G019300,TraesCS1A02G019800,TraesCS3D02G328900,TraesCS1B02G023900,TraesCS2B02G533700,TraesCS3A02G335900)
+Align: (TraesCS1B02G049500) (TraesCS1A02G020200,TraesCS1A02G019700,TraesCS3B02G366800,TraesCS1D02G019300,TraesCS1A02G019800,TraesCS3D02G328900,TraesCS1B02G023900,TraesCS2B02G533700,TraesCS3A02G335900)
+Align: (AT1G43650) (TraesCS1B02G049500,TraesCS1A02G020200,TraesCS1A02G019700,TraesCS3B02G366800,TraesCS1D02G019300,TraesCS1A02G019800,TraesCS3D02G328900,TraesCS1B02G023900,TraesCS2B02G533700,TraesCS3A02G335900)
+Elapsed time 00:00:06  Peak memory use  104 MB(-8%)  Iteration   1 Align node
+Elapsed time 00:00:06  Peak memory use  105 MB(-8%)  Iteration   1 Root alignment
+Elapsed time 00:00:11  Peak memory use  105 MB(-8%)  Iteration   2 Refine tree
+Elapsed time 00:00:11  Peak memory use  105 MB(-8%)  Iteration   2 Root alignment
+Elapsed time 00:00:11  Peak memory use  105 MB(-8%)  Iteration   2 Root alignment
+Anchor columns found       0
+DP area saved by anchors   0.0 %
+Elapsed time 00:00:27  Peak memory use  105 MB(-8%)  Iteration   3 Refine biparts
+Elapsed time 00:00:45  Peak memory use  121 MB(-9%)  Iteration   4 Refine biparts
+Elapsed time 00:01:02  Peak memory use  121 MB(-9%)  Iteration   5 Refine biparts
+Elapsed time 00:01:19  Peak memory use  121 MB(-9%)  Iteration   6 Refine biparts
+Elapsed time 00:01:19  Peak memory use  121 MB(-9%)  Iteration   7 Refine biparts
+Elapsed time 00:01:19  Peak memory use  121 MB(-9%)  Iteration   7 Refine biparts
+Finished Sun Jun 21 02:21:44 2020
