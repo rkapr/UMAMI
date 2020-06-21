@@ -1,0 +1,642 @@
+CLUSTAL multiple sequence alignment by MUSCLE (3.8)
+
+
+AT4G01440               ------------------------------------------------------------
+TraesCS2B02G533700      ------------------------------------------------------------
+TraesCS4A02G464200      ----------------------GCCTATAAGTAGTCCATG--------------------
+TraesCS7D02G022700      ------------------------------------------------------------
+TraesCS7A02G024800      ------------------------------------------------------------
+TraesCS6B02G015400      ATGCTCTATGTACGTTGCTACAACTTTGAATAAGTCAGTGTCATATTTGTGCTCATTGTG
+TraesCS6A02G008800      ATGCTCTATGTACGTTGCTACAACTTTGAATAAGTCAGTGTCATATTTGTGCTCATTGTG
+TraesCS6D02G009800      ATGCTCTATGTACGTTGCTACAACTTTGAATAAGTCAGTGTCATATTTGTGATCATTGTG
+                                                                                    
+
+AT4G01440               ------------------------------------------------------------
+TraesCS2B02G533700      ------------------------------------------------------------
+TraesCS4A02G464200      ------------------------------------------------------------
+TraesCS7D02G022700      ------------------------------------------------------------
+TraesCS7A02G024800      ------------------------------------------------------------
+TraesCS6B02G015400      CACTTTACTTTCTGGTAGTGTGGTGCCTGGTGAGGTTGCCTTCCTTGCCTGGTATTCAAC
+TraesCS6A02G008800      CACTTTACTTTCTGGTAGTGTGGTGCCTGGTGAGGTTGCCTTCCTTGCCTGGTATTCAAC
+TraesCS6D02G009800      CACTTTACTTTCTGGTAGTGTGGTGCCTGGTGAGGTTGCCTTCCTTGCCTGGTATTCAAC
+                                                                                    
+
+AT4G01440               ------------------------------------------------------------
+TraesCS2B02G533700      ------------------------------------------------------------
+TraesCS4A02G464200      ------------------------------------------------------------
+TraesCS7D02G022700      ------------------------------------------------------------
+TraesCS7A02G024800      ------------------------------------------------------------
+TraesCS6B02G015400      AGTGTACCAAATGATTACAGAAAAAACACTCGTCGGCGGGTTTTACCGCCTTCATTGGAA
+TraesCS6A02G008800      AGTGTACCAAATGATTACAG--AAAACACTCGTTGGTGGGTTTTACCGCCTTCATTGGAA
+TraesCS6D02G009800      AGTGTACCAAATGATTACAG--AAAACACTCGTTGGTGGGTTTTACCGCCTTCATTGGAA
+                                                                                    
+
+AT4G01440               ----------------------TCATATACACAAACCCCTTAGAGAAACAAAAAGAATAC
+TraesCS2B02G533700      ------------------------------------------------------------
+TraesCS4A02G464200      ------------------------------------------------------------
+TraesCS7D02G022700      ------------------------------------------------------------
+TraesCS7A02G024800      ------------------------------------------------------------
+TraesCS6B02G015400      TGC-AAAACTTGCCCTGATTTGTCATTGAAAATGACAGTTGGGCAGGAGCAAAATCACAC
+TraesCS6A02G008800      TGCAAAAACTAGCCTTAATTTGTCATTGAAAATGACAGTTGCGCAGGAGTAAAATCACAC
+TraesCS6D02G009800      TGC-AAAACTAGCCCTAATTTGTCATTGAAAATGACAGTTGGGCAGGAGCAAAATCACAC
+                                                                                    
+
+AT4G01440               AAAAAG--AAGAGAGAGATTAGTTATTAA-------------------------------
+TraesCS2B02G533700      --------ATGGAGGTGA------------------------------------------
+TraesCS4A02G464200      --------ACAAGGGCA-------------------------------------------
+TraesCS7D02G022700      ------------------------------------------------------------
+TraesCS7A02G024800      ------------------------------------------------------------
+TraesCS6B02G015400      TAACAAGCACAAAGGTGAATGGCCAGTAGTGGTGTTTGAGTTGAGCAATTCACTGCATCT
+TraesCS6A02G008800      TAACAAGCACAAAGGTGAATGGTCAGTAGTGGTGTTTGAGTTGAGCAATTCACTGCATCT
+TraesCS6D02G009800      TAACAAGCGCAAAGGTGAATGGTCAGTAGTGGTGTTTGAGTTGAGCAATTCACTGCATCT
+                                                                                    
+
+AT4G01440               ------------------------------------------------------------
+TraesCS2B02G533700      ------------------------------------------------------------
+TraesCS4A02G464200      ------------------------------------------------------------
+TraesCS7D02G022700      ------------------------------------------------------------
+TraesCS7A02G024800      ------------------------------------------------------------
+TraesCS6B02G015400      TGTCATAGTATTGCTGACTCAAGGATAGCATTGCTGGTTGTTGACATATACCAGCTCACT
+TraesCS6A02G008800      TGTCATAGTATTGCTGACTCAAGGATAGCATTGCTG---GTTGACATATACCAGGTCAC-
+TraesCS6D02G009800      TGTCATAGTATTGCTGACTCAAGGATAGCATTGCTG---GTTGACATATACCAGGTCAC-
+                                                                                    
+
+AT4G01440               ----CTTATTCATAATAA------------------------------------------
+TraesCS2B02G533700      -----------ATGGCAA------------------------------------------
+TraesCS4A02G464200      ------TCATCATGGCAA------------------------------------------
+TraesCS7D02G022700      -----------ATGGCAA------------------------------------------
+TraesCS7A02G024800      -----------ATGGCAA------------------------------------------
+TraesCS6B02G015400      TTTTTTTACTAATGGCAAGTATTAGGTTCTTTTAGATGCTTTTGGAAGCACTTTTAATGT
+TraesCS6A02G008800      CTTTTTTACTAATGGCAAGTATTAGGTT----------CTTTTGGAAGTTTTCTTTATGT
+TraesCS6D02G009800      CTTTTTTACTAATGGCAAGTATTAGGTT----------CTTTTGGAAGTTTTCTTTATGT
+                                   **   **                                          
+
+AT4G01440               ------------------------------------------------------------
+TraesCS2B02G533700      ------------------------------------------------------------
+TraesCS4A02G464200      ------------------------------------------------------------
+TraesCS7D02G022700      ------------------------------------------------------------
+TraesCS7A02G024800      ------------------------------------------------------------
+TraesCS6B02G015400      TAGCAAGTGAGAGGACTAGTCCACATACATAAAAAGGAGTTTCTGCAGTCTCAGTGCTTC
+TraesCS6A02G008800      TAGGAAGTGAGGCGACTAGTCCACATACATAAAAAGGAGTTTCTGCAGTCTCAGTGCTTC
+TraesCS6D02G009800      TAGGAAGTGAGACGACTAGTCCACATACATAAAAAGGAGTTTCTGCAGTCTCAGTGCTTC
+                                                                                    
+
+AT4G01440               ------------------------------------------------------------
+TraesCS2B02G533700      ------------------------------------------------------------
+TraesCS4A02G464200      ------------------------------------------------------------
+TraesCS7D02G022700      ------------------------------------------------------------
+TraesCS7A02G024800      ------------------------------------------------------------
+TraesCS6B02G015400      CGTCTTTTCTCCACCTTCTCGGCATCTTATGTAATTTTTGGTCGGGGCACCAGAAAAGGT
+TraesCS6A02G008800      CGTCCTTTCTCCACTTTCTTGGCATCTTATGTAA-TTTTGGTCGGGGCACCAGAAAAGGT
+TraesCS6D02G009800      CATCTTTTCTCCACTTTCTTGGCATCTTATGTAA-TTTTGGTCGGGGCACCAGAAAAGGT
+                                                                                    
+
+AT4G01440               ------------------------------------------------------------
+TraesCS2B02G533700      ------------------------------------------------------------
+TraesCS4A02G464200      ------------------------------------------------------------
+TraesCS7D02G022700      ------------------------------------------------------------
+TraesCS7A02G024800      ------------------------------------------------------------
+TraesCS6B02G015400      AAGGGACTAAATCAGGATATATATTTTACTTTCACGTTTGCACTACCAATTTGATTCCTA
+TraesCS6A02G008800      AAGGGGCTGAATCAGGACATATATTTTACTTTCACGTTTGCACTACCAATTTGATTCCTA
+TraesCS6D02G009800      AAGGGGCTGAATCAGGACATATATTTTACTTTCACGTTTGCACTACCAATTTGATTCGTA
+                                                                                    
+
+AT4G01440               -------------------------------------------------GTGTAATT---
+TraesCS2B02G533700      ------------------------------------------------------------
+TraesCS4A02G464200      --------------------------------------------------TACAAGTGAA
+TraesCS7D02G022700      --------------------------------------------------TACAAGT---
+TraesCS7A02G024800      --------------------------------------------------TACAAGT---
+TraesCS6B02G015400      CTGTCTACTGATATGCCATTTTATAGATTATTATTAATAATCTTCAGTAGTACGAGT---
+TraesCS6A02G008800      CTGTCTACTGATATGCCATTTTATAGATTATTATTAAAAATCTTCAGTAGTACGAGT---
+TraesCS6D02G009800      CTGTCTACTGATATGCCATTTTATAGATTATTATTAAAAATCTTCAGTAGTACTAGT---
+                                                                                    
+
+AT4G01440               --ACTTCGTATTTACT-----------------TTTTTTTGGTTAGCAGTCGACTAGTAA
+TraesCS2B02G533700      ------------------------------------------------------------
+TraesCS4A02G464200      GGAAGGTGTGTCAAAG----------------ATTCAT----TCAGCAGCG---------
+TraesCS7D02G022700      -GAAGGTGTGTCAAAG----------------ATTCAT----TCGGCAGCG---------
+TraesCS7A02G024800      -AAAGGTGTGTCAAAG----------------ATTCA--------GCAGCA---------
+TraesCS6B02G015400      --AAGTTGTCACAAAGAGTAGCAAAGGAAATAATTTATTATGTTGATAGCATATTAGCAT
+TraesCS6A02G008800      --AAGTTGTCAC-AAGAGAAGCAAAGGAAATAATTTATTATGTTGATAGCATATTAGCAT
+TraesCS6D02G009800      --AAGTTGTCAC-AAGAGTAGCAAAGGAAATAATTTATTATGTTGATAGCATATTAGCAT
+                                                                                    
+
+AT4G01440               T---------------------------------------------CAATAATGGG----
+TraesCS2B02G533700      ------------------------------------------------------------
+TraesCS4A02G464200      ----------------------------------------------CAATGTGGGGGATG
+TraesCS7D02G022700      ----------------------------------------------CAATGTGGGGGATG
+TraesCS7A02G024800      ----------------------------------------------CAATGTGGGGGATG
+TraesCS6B02G015400      TTACTTTTTTGCCCCCCTTGCATGAATGACCGCCGTCACTTCTGGTCAGTGAGTAGCATT
+TraesCS6A02G008800      TTACTTTTTTGCCCCCCTTGCATGAATGACGGCCGTCACTTTTGGTCAGTGAGTAGCATT
+TraesCS6D02G009800      TTACTTTTTTGCCCCCCTTGCATGAATGACCGCCGTCACTTTTGGTCAGTGAGTAGCATT
+                                                                                    
+
+AT4G01440               ----------------------------------------------TTACTGCGATGGT-
+TraesCS2B02G533700      ------------------------------------------------------------
+TraesCS4A02G464200      GC-----------------------------------------------GCGCATCGAT-
+TraesCS7D02G022700      GC-----------------------------------------------GCGCATCGAT-
+TraesCS7A02G024800      GC-----------------------------------------------GCGCATCGAT-
+TraesCS6B02G015400      GCAGGGCTATATA--------------------ATCAGACAGTTAATGAGCGTATCCGTC
+TraesCS6A02G008800      GCAGGGCTATATATA---------------ATCATCAGACAGTTAATGAGCGTATCAGTC
+TraesCS6D02G009800      GCAGGGCTATATATATATATATATATATATATAATCAGACAGTTGATGAGCGTATCAGTC
+                                                                                    
+
+AT4G01440               ----------------------------------AAATGGACACCGGTGATTATTATGGT
+TraesCS2B02G533700      ---------------------------------------GAAGCCGTACGTCATCGCGGT
+TraesCS4A02G464200      ----------------------------------GAGTGGAAACCGGTGATCGCAATGCT
+TraesCS7D02G022700      ----------------------------------GAGTGGAAACCGGTGATCGCAATGCT
+TraesCS7A02G024800      ----------------------------------GAGTGGAAACCGGTGATGGCAATGCT
+TraesCS6B02G015400      ATCTTGTAGCGGCAATCTTACAATGTGGGTGCAGGAGTGGAAGCCGGTGATGGGAATGCT
+TraesCS6A02G008800      ATCTTGTAGCGGCAATCTTACAATGTGGGTGCAGGAGTGGAAGCCGGTGATGGGAATGCT
+TraesCS6D02G009800      ATCTTGTAGCGGCAATCTTACAATGTGGGTGCAGGAGTGGAAGCTGGTGATGGGAATGCT
+                                                               **  * *    *      * *
+
+AT4G01440               TATGATCAA-TTCAGCGCTGGGTTTAGCTAATGCTTTGGTTAAAAAAGTACTCGATGGTG
+TraesCS2B02G533700      GATCATACAGGTCATCGCC-ACCGGCATGCTCGTCACCTCCAAGGCGGCGTACAACCAGG
+TraesCS4A02G464200      GGTCTTCGACCTCATCTCT-GCCGTGACAACGGCCCTGATCAAGGCGGCGCTCGAGGAAG
+TraesCS7D02G022700      GATCTTCGACCTCATCTCT-GCCGTGACAACGGCCCTGATCAAGGCGGCGCTCGAGGAAG
+TraesCS7A02G024800      GGTCTTCGACCTCATCTCT-GCCGTGACAACGGCCCTGATCAAGGCGGCGCTCGAGGAAG
+TraesCS6B02G015400      GGCCTTCGACCTCATCTCT-GCTGTGATGACGGCGCTGGTGAAGAAGGCTCTGGAGCAAG
+TraesCS6A02G008800      GGCCTTCGACCTCATCTCT-GCTGTGATGACGGCGCTGGTGAAGAAGGCTCTGGAGCAAG
+TraesCS6D02G009800      GGCCTTCGACCTCATCTCT-GCTGTGATGACGGCGCTGGTGAAGAAGGCTCTGGAGCAAG
+                             *  *  *** * *              *        **    *      *    *
+
+AT4G01440               GTGTTAACCATATGGTTATCGCAACATATCGTCTTGCTATTTCAACCCTATTTTTGGCAC
+TraesCS2B02G533700      GGTTCAACACCTACGTCTTCGTCTTCTACCGCCAGGCGGCCGCGTCTCTTCTCTTGCTGC
+TraesCS4A02G464200      GGCTCGACCGTCTAGTGCTCATCACGCTGCGTCAACTGGTGGCCACGGTCTTCCTTTCTC
+TraesCS7D02G022700      GGCTCGACCGTCTGGTGCTCATCACGCTGCGTCAACTGGTGGCCACAGTCTTCCTTTCTC
+TraesCS7A02G024800      GGCTCGACCGTCTAGTGCTCATCACGCTGCGTCAACTGGTGGCCACGGTCTTCCTTTCTC
+TraesCS6B02G015400      GTCTGAACCGCCTGGTCCTCGTTACCCTCCGGCAGCTGGTCGCAACCATCTTCCTTGCCC
+TraesCS6A02G008800      GGCTGAACCGCCTGGTCCTCGTCACCCTCCGGCAGCTGGTCGCCACCATCTTCCTTGCTC
+TraesCS6D02G009800      GGCTGAACCGCCTGGTCCTCGTCACGCTCCGGCAGCTGGTCGCCACCATCTTTCTTGCCC
+                        *  *  **      **  **         ** *         *  *  *  *  *    *
+
+AT4G01440               CAATCGCATTTTTTTGGGAACGGT----------------------------AAGTATAT
+TraesCS2B02G533700      CTCTTGCCATTGTCCTCGAAAGGT-----ACTGCCTCA--------------GAGCTAAC
+TraesCS4A02G464200      CGGTCGCATTTTTCAAAGAACGGT-----ACTGCATAAATTTTGATTTGCAGAAGATGAT
+TraesCS7D02G022700      CAATCGCATTTTTCAAAGAACGGT-----ACTACATAAATTTTGAATTGCAGAAGATGAC
+TraesCS7A02G024800      CGATCGCATTTTTCAAAGAACGGT--------ACATAAATTTTGATTTGCAGAAGATGAC
+TraesCS6B02G015400      CGATAGCCTTTTTCAAAGAACGGTATGCAAACACATGCATCCTTCCTTGTACATACATAC
+TraesCS6A02G008800      CAATAGCCTTTTTCAAAGAACGGT----------ATGCATCCTT--------GTACATAC
+TraesCS6D02G009800      CAATAGCCTTTTTCAAAGAACGGTATGCAAACACATGCATCCTT--------GTACATAC
+                        *  * **  ** *    *** ***                                  * 
+
+AT4G01440               TATATTCATTAAAGAACTTTGGTCTTGAT----------GATATATATATGTTTGTAATA
+TraesCS2B02G533700      TATCTATCTCGTACTACTTGAGCTATACTTCTAGCAAGGGAACCATGCATGCA-------
+TraesCS4A02G464200      CAGCAGAGTT-CAGAACTTA-----TCCT----------AGAAT-ATGATGCT-------
+TraesCS7D02G022700      CAGCAGAGTT-CAGAACTCA-----TCCT----------AGAAT-ATGATGCT-------
+TraesCS7A02G024800      CA---GAGTT-CAGAACTTA-----TCCT----------AGAAT-ATGATGCT-------
+TraesCS6B02G015400      AATCTGCGTT-CATTCCCCGGGTGAGACT----------GAAAC-TGCATAGC-------
+TraesCS6A02G008800      AATCTGCATT-CATTCCCTGGGT--GACT----------GAAAC-TGCATAGC-------
+TraesCS6D02G009800      AATCTGCGTT-CATTCCCTGGGT--GACT----------GAAAC-TGCATAGC-------
+                         *      *   *   *           *                   **          
+
+AT4G01440               ATTAACGTTAAAAATGATTCGTTATATGTTTTTTAGGAAAACGAGACCGACACTAACGCT
+TraesCS2B02G533700      AGTAAGGTCGATGATGAGTTGCAAACTGATTCCCAGGAAAAACATGCGGTTAATGTCGTT
+TraesCS4A02G464200      ACT--------------GTTGTTTTTT-TCTTTCAGGAACACACGGCCTAAGCTCACACT
+TraesCS7D02G022700      ACT--------------GTTGTTTTTT-CCTTTCAGGAACACACGGCCTAAGCTCACACT
+TraesCS7A02G024800      GCT--------------GTTGTTTTCT----TTCAGGAACACACGGCCTAAGCTCACACT
+TraesCS6B02G015400      GCC--------------GTGGCATTCCTGCATGCAGGAGCACGAGGCCCAAGCTCACATT
+TraesCS6A02G008800      GCC--------------ACGACATTCC----TGCAGGAACACGAGGCCCAAGCTCACATT
+TraesCS6D02G009800      GCC--------------ATGGCATTCC----TGCAGGAGCACGAGGCCCAAGCTCACACT
+                                                          ****  *     *      *  *  *
+
+AT4G01440               CAACATCTTGGTTCAGCTTTTCTTCAGTGCTCTTGTTGGGTTCGTTCTTTTTCTAATTTT
+TraesCS2B02G533700      CCAGTTGCTAATGAAGCTGTTCCTCTATGCCTTACTCGGGTAA-----------------
+TraesCS4A02G464200      GGAGATCCTCGTGTACCTCTTCTTCAGCGCAGCGTTAGGGTAC-----------------
+TraesCS7D02G022700      GGAGATCCTCGTGTACCTCTTCTTCAGCGCAGCGTTAGGGTAC-----------------
+TraesCS7A02G024800      GGAGATCCTGGTGTACCTCTTCTTCAGCGCAGCGTTAGGGTAC-----------------
+TraesCS6B02G015400      GGAGATCCTGGCGTACCTCTTCTTCAGCGCCGTG--------------------------
+TraesCS6A02G008800      GGAGATCCTGGTGTACCTCTTCTTCAGCGCCGTG--------------------------
+TraesCS6D02G009800      GGAGGTCCTGGCGTACCTCTTCTTCAGCGCCGTG--------------------------
+                          *  *  *     * ** *** **   **                              
+
+AT4G01440               CGCTTGGAACTCCTAATAGTTGTAGGAATAATAAGGAAATATTCTAAATAAAAATAGGTT
+TraesCS2B02G533700      ------------------------------------------------------------
+TraesCS4A02G464200      ------------------------------------------------------------
+TraesCS7D02G022700      ------------------------------------------------------------
+TraesCS7A02G024800      ------------------------------------------------------------
+TraesCS6B02G015400      ------------------------------------------------------------
+TraesCS6A02G008800      ------------------------------------------------------------
+TraesCS6D02G009800      ------------------------------------------------------------
+                                                                                    
+
+AT4G01440               GACTGTTTGAAATTTAAGAAAATAAACCATTTTGTTTAGATTTTTGGATGAAGAATTTAA
+TraesCS2B02G533700      ---------------------------------------------GTAAGCAACGCATGC
+TraesCS4A02G464200      ---------------------------------------------GGTTGGCAAACATA-
+TraesCS7D02G022700      ---------------------------------------------GGTTGGCAAACATA-
+TraesCS7A02G024800      ---------------------------------------------GGTTGGCAAACATA-
+TraesCS6B02G015400      ------------------------------------------------------------
+TraesCS6A02G008800      ------------------------------------------------------------
+TraesCS6D02G009800      ------------------------------------------------------------
+                                                                                    
+
+AT4G01440               TATTTAAGAGTTAGGATTTTGGATTTCGAAGTTATGGTTAAGCTTTTAGCGTTTAGGTTT
+TraesCS2B02G533700      TGCTTGTCCATC------------------------------------------------
+TraesCS4A02G464200      -------GCATC------------------------------------------------
+TraesCS7D02G022700      -------GCATC------------------------------------------------
+TraesCS7A02G024800      -------GCATC------------------------------------------------
+TraesCS6B02G015400      ------------------------------------------------------------
+TraesCS6A02G008800      ------------------------------------------------------------
+TraesCS6D02G009800      ------------------------------------------------------------
+                                                                                    
+
+AT4G01440               TAGAATTTAAATTTTCTATTACTTAATTAGTTTTTACTTTTTAGAAATATAGACAATTTC
+TraesCS2B02G533700      ----------------------------------------------TCATCAATCGCTGC
+TraesCS4A02G464200      ----------------------------------------------ACAGCAATCACTTC
+TraesCS7D02G022700      ----------------------------------------------ACAGCAATCACTTC
+TraesCS7A02G024800      ----------------------------------------------ACAACAATCACTTC
+TraesCS6B02G015400      ------------------------------------------------------------
+TraesCS6A02G008800      ------------------------------------------------------------
+TraesCS6D02G009800      ------------------------------------------------------------
+                                                                                    
+
+AT4G01440               TTCTAATTGATATAGAATTTTGAATGTTTGCGTAATTGTCCTGTTGTTGCATTCTAACCG
+TraesCS2B02G533700      ACCTAATTACTACTAGCAGTGTATG-----------------------------------
+TraesCS4A02G464200      CT----------------------------------------------------------
+TraesCS7D02G022700      CTCATATTAGTACATCAACCCGGTT-----------------------------------
+TraesCS7A02G024800      CTCATATTAGTACAGCGACCCGGCT-----------------------------------
+TraesCS6B02G015400      ------------------------------------------------------------
+TraesCS6A02G008800      ------------------------------------------------------------
+TraesCS6D02G009800      ------------------------------------------------------------
+                                                                                    
+
+AT4G01440               ATTTTTAGTCTTTTTCTTTTGTTTTTTTATTGTTAAGAATGTAAATATTTTATAAAAAAT
+TraesCS2B02G533700      ---------------------------------------TGCAACTAATTGGAGATGAAT
+TraesCS4A02G464200      -------------------------------------------------------GATAT
+TraesCS7D02G022700      ---------------------------------------ATATAATGTTCTGCCAGAAAT
+TraesCS7A02G024800      ---------------------------------------ATAGAATGCTCTGCCAGATAT
+TraesCS6B02G015400      ------------------------------------------------------------
+TraesCS6A02G008800      ------------------------------------------------------------
+TraesCS6D02G009800      ------------------------------------------------------------
+                                                                                    
+
+AT4G01440               GAAACATGATAGGTTTACGGTCCGTGGCAAAAAAGATAAAAACATGAAAGCATAAAAATA
+TraesCS2B02G533700      GA----------------------------------------------------------
+TraesCS4A02G464200      GA----------------------------------------------------------
+TraesCS7D02G022700      GA----------------------------------------------------------
+TraesCS7A02G024800      GA----------------------------------------------------------
+TraesCS6B02G015400      ------------------------------------------------------------
+TraesCS6A02G008800      ------------------------------------------------------------
+TraesCS6D02G009800      ------------------------------------------------------------
+                                                                                    
+
+AT4G01440               ACCACTGGTTTTTAGTCAAATTAAGAGCTTTATTTTGTACTGAAATATATGATCATTCTG
+TraesCS2B02G533700      ----------------------------CT-------GATCGATATT-------------
+TraesCS4A02G464200      ----------------------------TTCTGTTTGATTCATCATTG-----ATTTTTC
+TraesCS7D02G022700      ----------------------------TTCTGTTTGATTCATCATTGACTTTCCTTTTC
+TraesCS7A02G024800      ----------------------------TTCTGCTTGATTCATCATTG-----ACTTTTC
+TraesCS6B02G015400      ------------------------------------------------------------
+TraesCS6A02G008800      ------------------------------------------------------------
+TraesCS6D02G009800      ------------------------------------------------------------
+                                                                                    
+
+AT4G01440               AACATATTTTAGGGCAAGTTTGACTCAGTATTTCTTCCTATTGGGGCTATCATACACATC
+TraesCS2B02G533700      -------TTCAGGACTACATTTAGCTTGAATCTGTACAATGTGAGCCTCAAGTTAACATC
+TraesCS4A02G464200      CTCCCATTTTAGCGCCGCGCTCTCTCAGTATACCTTCTTCTACGGGCTGCAGTACACAAC
+TraesCS7D02G022700      CTCCCATTTTAGCGCCGCGCTCTCTCAGTATACCTTCTTCTACGGGCTGCAGTACACAAC
+TraesCS7A02G024800      CTCCCATTTTAGCGCTGCGCTCTCTCAGTATACCTTCTTCTACGGGCTGCAGTACACAAC
+TraesCS6B02G015400      -------TTTGGCGCGGCGCTCTCGCAGTACACCTTCTTCTACGGCCTGCAGTACACCAC
+TraesCS6A02G008800      -------TTTGGCGCGGCGCTCTCGCAGTACACCTTCTTCTATGGCCTGCAGTACACCAC
+TraesCS6D02G009800      -------TTTGGCGCGGCGCTCTCGCAGTACACCTTCTTCTACGGCCTGCAGTACACCAC
+                               **  *  *     *      * *    * *       * **    *  **  *
+
+AT4G01440               GGCTACGTTGGCATGTGCTTTTATTAGCATGACGCCTGCGATTACATTCGTTATGGCTCT
+TraesCS2B02G533700      TGCAACCGTGGGGTCTGCAACCAGCAACTCCATGCCCGTGGTCACCTTCTTCATAGCGCT
+TraesCS4A02G464200      AGCAACGTTTGCAATAACTTTCACCAACCTGGCTCCAGTGCTGACTTTCCTCATCGCGGT
+TraesCS7D02G022700      AGCAACGTTTGCCATAACTTTCACCAACCTGGCTCCTGTGCTGACTTTCCTCATCGCGGT
+TraesCS7A02G024800      GGCAACGTTTGCAATAACTTTCACCAACCTGGCTCCTGTGCTCACTTTCCTCATCGCTGT
+TraesCS6B02G015400      CGCCACCTTCGCCATAACCTTCATCAACCTCTCCCCTGTGCTCACCTTCCTCATCGCCGT
+TraesCS6A02G008800      CGCCACCTTTGCTATAACCTTCATCAACCTCTCTCCTGTGCTCACCTTCCTCATCGCCGT
+TraesCS6D02G009800      CGCCACCTTCGCCATAACCTTCATCAACCTCTCTCCTGTGCTCACCTTCCTCATCGCCGT
+                         ** **  * *      *    *  * *      ** * * * ** *** * ** **  *
+
+AT4G01440               AATATTCAGGTAAACTATAAGTGTCTAATATTAATTCAAT----TATTACTAGACAAACT
+TraesCS2B02G533700      ACTGCTGAGG-------TACGTACCAATTGATCCAGCCAACTACTACTACATGATTAAGC
+TraesCS4A02G464200      CTTGCTCAGGTGTG-TGTGTGTACCAATTTTCAAATTTACCTGGTGGTACCTTGCTCATG
+TraesCS7D02G022700      CTTGCTCAGG-----TGTGTGCGCAAATTTTCAAATTTACC---TGGCACCTTTTTCATG
+TraesCS7A02G024800      CTTGCTCCGGTGTG-TGTGTGTGCCGATTTTCAAATTTACC---TGGTACCTTTCTCATG
+TraesCS6B02G015400      CGT---------------------------------------------------------
+TraesCS6A02G008800      CGT---------------------------------------------------------
+TraesCS6D02G009800      CGT---------------------------------------------------------
+                          *                                                         
+
+AT4G01440               AAGTTTATTAT-----------------------------------GATAATATGTAAAC
+TraesCS2B02G533700      TACTTGCTCCCTCCGTATCAAAATATAAGATGTTTTTTGATACGAAGAGAGTATCAAAAA
+TraesCS4A02G464200      CACCTTGCTCCT----------------------------------GCCAATATCTGAAA
+TraesCS7D02G022700      CACTTTGTTCTT----------------------------------GCTAATATCTGAAA
+TraesCS7A02G024800      CACTTTGTTCTT----------------------------------GCTAATATCTAAA-
+TraesCS6B02G015400      ------------------------------------------------------------
+TraesCS6A02G008800      ------------------------------------------------------------
+TraesCS6D02G009800      ------------------------------------------------------------
+                                                                                    
+
+AT4G01440               ACAATTCTT---------------------------------------------------
+TraesCS2B02G533700      ATATCCTATATTAATTTTGATACAAAGGGAGAAGTTGTTAGTACGTACATAAGTGACATG
+TraesCS4A02G464200      CCTTCCCTCTGGGAATACTACCCA------------------------------------
+TraesCS7D02G022700      ----CCCTTTGGGAATACTGC---------------------------------------
+TraesCS7A02G024800      ----CCCTTTGGGAATACGGC---------------------------------------
+TraesCS6B02G015400      ------------------------------------------------------------
+TraesCS6A02G008800      ------------------------------------------------------------
+TraesCS6D02G009800      ------------------------------------------------------------
+                                                                                    
+
+AT4G01440               ------TGGGTGTAGGGTAGAGAAGCTAAACATGAAAAGCAAAGCAGGTATGGGGATGGT
+TraesCS2B02G533700      TACACTTGGCCACAGGATGGAAGTGGTGAAGCTGAGGAGCCCCTCGGGAATGGCCAAGGT
+TraesCS4A02G464200      ---TCATGGATGTAGGGTGGAGTCACTGAACATGAAGAACAAGGCAGGAGCTGCGAAGAT
+TraesCS7D02G022700      ---TCATGGATGCAGGGTGGAGTCACTGAACATGAAGAACAAGGCAGGAGCTGCGAAGAT
+TraesCS7A02G024800      ---TCATGGATGTAGGGTGGAGTCACTGAACATGAAGAACAAGGCAGGAGCTGCGAAGAT
+TraesCS6B02G015400      --------GATG-AGGATGGAACCGCTGAAGTTGAAGAGCATGGCGGGAGCCGCAAAGAT
+TraesCS6A02G008800      --------GATG-AGGATGGAGCCGCTGAAGTTGAAGAGCATGGCGGGAGCTGCGAAGAT
+TraesCS6D02G009800      --------GATG-AGGATGGAGCCGCTCAAGTTGAAGAGCATGGCGGGAGCCGCAAAGAT
+                                *    *** * **     * **  ***  * *    * **    *  * * *
+
+AT4G01440               GATGGGCGCGTTGATATGCATAGGAGGAGCTTTATTATTAACAATGTACAAAGGTGTTCC
+TraesCS2B02G533700      GGCCGGCGTCGGGCTCTGCCTCGCCGGGGTGCTCGTCATCGCCTTCTACGTGGGTCCGTC
+TraesCS4A02G464200      CATCGGGACGCTCATGTCGTTCGCCGGCGTCATGCTCCTGACCCTCTACAAGGGTGTGGC
+TraesCS7D02G022700      CATCGGGACACTCATGTCGTTCGCCGGCGTCATGCTCCTGACCCTCTACAAGGGTGTGGC
+TraesCS7A02G024800      CATCGGGACACTCATGTCGTTCGCAGGCGTCATGCTCCTGACCCTCTACAAGGGTGTGGC
+TraesCS6B02G015400      CACCGGAACACTCACGTCGCTGGCCGGCTTGCTGCTGCTGAGTCTCTACAAGGGAGTGCC
+TraesCS6A02G008800      CACCGGAACGCTCACGTCGCTGGCCGGCTTGCTGCTGCTGAGTCTCTACAAGGGTGTGCC
+TraesCS6D02G009800      CACCGGGACGCTCACGTCGCTGGCCGGCCTGCTGCTGCTGAGTCTCTACAAGGGTGTGCC
+                            **          *   * *  **     *  *  *     * ***   **     *
+
+AT4G01440               CTTGACAAAACTTCGGAAACTAGA-------------AACCCATCAGTTGATAAACAATA
+TraesCS2B02G533700      CCTG---------------------------------GACCCGGTGAACCATCACCGCGC
+TraesCS4A02G464200      CTTGACACACC------AAGCAGA-------GCCTTCAGGCCAG-----------CATGC
+TraesCS7D02G022700      CTTGACACACC------AAGCAGA-------GCCTTCAGGCCAG-----------CATGC
+TraesCS7A02G024800      CTTGACACACC------AAGCAGA-------GCCTTCAGGCCAG-----------CATGC
+TraesCS6B02G015400      GCTGACGCACC------AGGCCGCCGCT---GCACCTAGCCCAGCTGCTTCTCACCATGC
+TraesCS6A02G008800      GCTGACGCACC------AGGCCGCCACTTCTGCACCTAGCCCAGCTGC---TCACCATGC
+TraesCS6D02G009800      GCTGACGGACC------AGGCTGCCACTGACGCACCTAGCCCAGCTGCTCTTCACCATGC
+                          **                                    **             *    
+
+AT4G01440               ACCACGCTATGAAACCAGAGAATTGGATAATAGGAT-----------------GCGTACT
+TraesCS2B02G533700      CTTTGCTGTCGCAAACGGAGAGGCTGGTGCGAAGAGGGGGACGTGGATCCTGGGCACGTT
+TraesCS4A02G464200      AGAAGCAGAAGCAGCAGCAGAATCTGGCAAGAAGAG------CTGGACCCTGGGCACTCT
+TraesCS7D02G022700      AGAAGCAGCAGCTGCAGCAGAATCTGGCAAGAAGAG------CTGGACCCTGGGCACTCT
+TraesCS7A02G024800      AGAAA---TAGCAGCAGCAGAATCTGGCAAGAAGAG------CTGGACCCTGGGCACTCT
+TraesCS6B02G015400      AGCACCCTCTG--ACAGCAG----TGGCAACAGGAG------CTGGATGCTGGGAACCAT
+TraesCS6A02G008800      AGCACCCTCTG--ACAGCAG----TGGCAACAGGAG------CTGGATGCTGGGCACCAT
+TraesCS6D02G009800      AGCACCCTCCG--ACAGCAG----TGGCAACCGGAG------CTGGATGCTGGGCACCAT
+                                  *       **     *       **                  *     *
+
+AT4G01440               TCTCTTTGCGGGTAGTAGC---TGTTTCGGGTCGTGGATGCTGATACAAGCCAAAGTGAA
+TraesCS2B02G533700      GCTCATGGTGCTCGTCAACGTGACGTGGTCCCTGTGGATCGTCCTGCAGGCCGCGCTGCT
+TraesCS4A02G464200      AGCATTACTGGCAAACTGCCTGTGCTTCTCCTTTTGGCTCCTGCTGCAGTCCAAGCTCAC
+TraesCS7D02G022700      AGCATTACTGGCAAACTGCCTGTGCTTCTCCTTTTGGCTCTTGCTGCAGTCCAAGCTCAC
+TraesCS7A02G024800      AGCGTTACTGGCAAACTGCCTGTGCTTCTCCTTTTGGCTCCTGCTGCAGTCCAAGCTCAC
+TraesCS6B02G015400      GGCGTTGCTGTTCAACTGCCTGTGCTTCTCCTTCTGGCTGCTGCTGCAGACAAAGCTGAC
+TraesCS6A02G008800      CGCGTTGCTGTTCAACTGCCTGTGCTTCTCCTTCTGGCTGCTACTGCAGACAAAGCTGAC
+TraesCS6D02G009800      GGCGTTGCTGTTCAACTGCCTGTGCTTCTCCTTCTGGCTGCTGCTGCAGACAAAGCTGAC
+                             *   *        *      *        *** *  *  * **  *     *   
+
+AT4G01440               CGAGAAA-TACCCTTGTCAATACTCGAGTACTGTCGTATTATCCTTCTTTGGCACCATCC
+TraesCS2B02G533700      CAAGGAGTTCCCCCACAAGCTGCTCG-TCACGGCGACGCAGTGCGTCTTCAGCGCGGCGC
+TraesCS4A02G464200      CAAGAAG-TACCCAGCACTCTACTCCAGCACTGCATACATGTTCCTCATCAGCTCCCTGC
+TraesCS7D02G022700      CAAGAAG-TACCCAGCACTCTACTCCAGCACCGCATACATGTTCCTCATCAGCTCCCTGC
+TraesCS7A02G024800      CAAGAAG-TACCCAGCACTCTACTCCAGCACTGCATACATGTTCCTCATCAGCTCCCTGC
+TraesCS6B02G015400      CAAGAAG-TACCCAGCCATCTATTCAAGCACCGCCATCATGTTCTTCATCAGCACGCTGC
+TraesCS6A02G008800      CAAGAAG-TACCCGGTCATCTACTCGAATACTGCCATCATGTTCTTCATCAGCACTCTGC
+TraesCS6D02G009800      CAAGAAG-TACCCGGCCATCTACTCCAGCACCGCCATCATGTTCTTCATCAGCACTCTGC
+                        * ** *  * ***       *  **    ** *        * * ** *  ** *    *
+
+AT4G01440               AATGCGCCCTTCTAAGCCTCATCAAATCTCGAGATATCACGGCTTGGATCCTCACAGATA
+TraesCS2B02G533700      AGTGCTTAGTCGTCGCGGCGGTCGCCGAGAGGGACTTCTCCAGGTGGCAGCTGGGGTTCG
+TraesCS4A02G464200      AGGGAGGTGGCCTGACAGCGGCGATACAGCGGAGGGCATCGGTGTGGGTCCTCACAAAGC
+TraesCS7D02G022700      AGGGCGGGGGCCTGACGGCGGCGATACAGCGGCGGGCATCGGTCTGGGTCCTCACAAAGC
+TraesCS7A02G024800      AGGGCGGGGGCCTGACGGCGGCGATACAGCGGCGGGCATCGGTGTGGGTCCTCACAAAGC
+TraesCS6B02G015400      AGGGCGGGGCGGTGACGTTGGCGATGGAGAGACACGTGTCGTCGTGGATGCTGACCAGCA
+TraesCS6A02G008800      AGGGCGGGGCGGTCACCTTGGCGATGGAGAGACACGTGTCGCTCTGGATGCTGACCAGCA
+TraesCS6D02G009800      AGGGCGGGGCGGTGACGTTGGCGATGGAGAGACACGTGTCGCCGTGGATGCTGACCAGCA
+                        *  *        *                 *        *    ***   **        
+
+AT4G01440               AACTTGATATCGTTACCATTGTTTACGCGGTAAG--------------------TGTT--
+TraesCS2B02G533700      ACGTCACATTGGTCGCCGTCCTCTACACCGTAAG--------GCTTCTCAATTCTCTG--
+TraesCS4A02G464200      CAGTGGAGATTGTTACAGTACTATACACAGTAAG-------------------ATCTT--
+TraesCS7D02G022700      CAGTGGAGATTGTTACAGTACTATACACAGTAAG-------------------ATCTT--
+TraesCS7A02G024800      CAGTGGAGATTGTTACAGTACTATACACAGTAAG-------------------ATCTT--
+TraesCS6B02G015400      AGCTGGAGATCGTTACCGTCTTGTATGCAGTAAG----TTAAACATCACCATCATCTTGA
+TraesCS6A02G008800      AGCTGGAGATCGTTACCGTCTTGTATGCAGTAAG----TTAAACATCACCATCATCTT--
+TraesCS6D02G009800      AGCTGGAGATCGTTACCGTCTTGTATGCAGTAAGCTAATTAAACATCACCATCATCTT--
+                           *     * **  *  *  * **  * *****                    * *   
+
+AT4G01440               TTT-----------------------AGTATTACTGAAA--------AAGTTGGCAGTAT
+TraesCS2B02G533700      TCT-------------------TGATAGTGCTGCCAATGGATTATGGATGGATGCATGGA
+TraesCS4A02G464200      TTT------------------GTTGCAGTTTACCGAAAAAAGAGTT-AAGAGAAC-----
+TraesCS7D02G022700      TTT------------------GTTGCAGTTTACTGAAAAAAGGATTTAAGAGAAC-----
+TraesCS7A02G024800      TTT------------------GTTGCAGTTTACCAAAAAA-------GAGTGAAC-----
+TraesCS6B02G015400      CTT------------------GTACCACCTTCGCAAGGAGAAGAAAAAAAGGAAC-----
+TraesCS6A02G008800      CTTCATCTCCTTGACTTGTACGTACCACCTTCACAAAGAG-------AAGAAAACAGGAA
+TraesCS6D02G009800      CTTCATCTCCTTGACTT----GTACCACCTTCACAAAGAG-------AAGAGAACAGGAA
+                          *                       *                           *     
+
+AT4G01440               TTGTTTAATTTTATAA----------------------------------CTTCTAGTAA
+TraesCS2B02G533700      -----------------------------------------------------GTGGTGG
+TraesCS4A02G464200      ----------------------------------------------------TCTAGTGA
+TraesCS7D02G022700      --------------------------------------------------TCTGCAGAGA
+TraesCS7A02G024800      --------------------------------------------------TCTGCAGAGA
+TraesCS6B02G015400      ----TTCTCCAAAAGGGGCAAGTACTTATAAAAGCCATTGCTTTAG----CTTGCAGCTA
+TraesCS6A02G008800      CCACTTATCCAAAAGGGGCAACTACTTATAAAAGCCATTGCTTTAATTATCTTGCAGCTA
+TraesCS6D02G009800      CTGCTTATCCAAAAGGGGCAACTACTTATAAAAGCCATTGCTTTAG----CTTGCAGCTA
+                                                                                *   
+
+AT4G01440               A------------------------------------------------------ATATA
+TraesCS2B02G533700      A--------------------------------------TTG-------------ATTGA
+TraesCS4A02G464200      A--------------------------------------TTG-------------ACTGA
+TraesCS7D02G022700      G--------------------------------------TTG-------------ACTGA
+TraesCS7A02G024800      A--------------------------------------TTG-------------GCTGA
+TraesCS6B02G015400      ACACTAGTCT----ATGCAATCAATACACGCCAGCTAC-TTGACCAACTTGAACAACTGA
+TraesCS6A02G008800      ACACTAGTCTATATATGCAATCAATACACGCCAGCTACTTTGACCAACTTGAACAACTGA
+TraesCS6D02G009800      ACACTAGTCT-TCTATGCAATCAATACACCCCAGCTAC-TTGACCAACTTGAACAACTGA
+                                                                                   *
+
+AT4G01440               ATTAAGTTATACGGACCTATGTCTATC---------------------------------
+TraesCS2B02G533700      ---------------TGTATGG--------------------------------------
+TraesCS4A02G464200      ACCAAAGACCA----CTTGT----------------------------------------
+TraesCS7D02G022700      ACCAAAGAACA----CTTGT----------------------------------------
+TraesCS7A02G024800      ACCAAAGAACA----CTTGT----------------------------------------
+TraesCS6B02G015400      AACCAAAAATA----GATGTGAAATAATAGTAGTAGACTAGTAGGTAAGTACCCAACTGC
+TraesCS6A02G008800      AACCCAAAGTACGTGGTGGTGAAAATAATAATAGATATTAAGTACTTAACATATTGTTAA
+TraesCS6D02G009800      AACCAAAAATA----GTTGTGAAAATATACAATGAA------------------------
+                                           *                                        
+
+AT4G01440               ----------------ACAACGTGTTATAGGGAGCAGTAGCACAAGGAATATGTACGGTT
+TraesCS2B02G533700      ----------------TTCAAA-AATTCAGGGGTTTGTGGTGACGGGAGTGTCGTACTAC
+TraesCS4A02G464200      ----------------TCCATATGTTGCAGGGAATCTTGGGGTCTGGAGTGGGATATGTA
+TraesCS7D02G022700      ----------------TTCATATGTTGCAGGGAATTTTGGGGTCTGGAGTGGGATATGTA
+TraesCS7A02G024800      ----------------TTCATATGTTGCAGGGAATCTTGGGGTCTGGAGTGGGATATGTA
+TraesCS6B02G015400      TTAATCTTGCAATGAAATTACATG-TGCAGGGGATAGTCGGATCTGGAGCCGGGTACCTG
+TraesCS6A02G008800      TCATACAATGAAATT-ATTACATG-TGCAGGGGATAGTCGGATCTGGAGCCGGGTACCTG
+TraesCS6D02G009800      ----------------ATTGCACA-TGCAGGGGATAGTCGGATCTGGAGCTGGGTACCTG
+                                                 *  ****     * *     ***            
+
+AT4G01440               GGAACGTCTTGGTGCATCAGAAAGAGAGGACCTATCTTTACTTCTATATTTACCCCGGTG
+TraesCS2B02G533700      CTGCAAGCATGGTGCGCCGACATGAGAGGGCCGGTGTTCCTCGCCGTGTGGAACCCGCTC
+TraesCS4A02G464200      CTGATGACATGGTGTGTGGAGAAGCGAGGGCCGGTGTTCACTTCAGCCTTCATCCCCATC
+TraesCS7D02G022700      CTGATGACATGGTGTGTGGAGAAGAGAGGGCCAGTGTTCACTTCAGCCTTCATCCCCATC
+TraesCS7A02G024800      CTGATGACATGGTGTGTGGAGAAGAGAGGGCCAGTGTTCACTTCAGCTTTCATCCCCATC
+TraesCS6B02G015400      ATAATGACGTGGTGCGTCGAGAAGAAGGGCCCGGTCTTCACCGCAGCCTTCATCCCCATG
+TraesCS6A02G008800      ATAATGACGTGGTGCGTGGAGAAGAAGGGCCCGGTCTTCACCGCAGCCTTCATCCCCATG
+TraesCS6D02G009800      ATAATGACGTGGTGTGTGGAGAAGAAGGGTCCGGTCTTCACCGCAGCCTTCATCCCCATG
+                               * *****       * *   ** **  * **     *    *  * ***  * 
+
+AT4G01440               GGGCTTATATTTGCAACACTATTTGATTTCTTGATCCTTCATCGTCAAA---TTTTCCTA
+TraesCS2B02G533700      TGCT---TCGTCTTCACCATTTTCTGTTCCTCCTTCTTCCTCGGGGAGATTGTTCACCTC
+TraesCS4A02G464200      ATCCAGATCATGGTTGCCATAATTGATTTCTTCTTTCTCCATGAGAACA---TCTACCTT
+TraesCS7D02G022700      ATCCAGATCATGGTGGCCATAATTGATTTCTTCTTTCTCCATGAGAACA---TCTACCTA
+TraesCS7A02G024800      ATCCAGATCATGGTGGCCATAATTGATTTCTTCTTTCTCCATGAGAACA---TCTACCTT
+TraesCS6B02G015400      ATGCAGATCATGGTAGCCATCATCGATTTCTTCTTCCTCCATGAACAAA---TCTACCTT
+TraesCS6A02G008800      ATGCAGATTATGGTAGCCATCATTGATTTCTTCTTCCTCCATGAACAAA---TCTACCTT
+TraesCS6D02G009800      ATGCAGATCATGGTAGCCATCATCGATTTCTTCTTCCTCCATGAACAAA---TCTACCTT
+                               *  *     *  *  *   ** **   *  * *      * *   *   *** 
+
+AT4G01440               GGAAGGTACGTCGAA---------------------------------------------
+TraesCS2B02G533700      GGCAGGTACGTGGCGACCATCGACGACTAAGCT----------TTCAGCTGCA-------
+TraesCS4A02G464200      GGAAGGTA------AACCTGTCTTGCCTGAGTTATTAAATCACTACGGTATCATG-----
+TraesCS7D02G022700      GGAAGGTA------AACCTGATTTGCTTCAGATTATAAATCAGTACAATCTCATG-----
+TraesCS7A02G024800      GGAAGGTA------AACCAGATTTGCCTCAGATATTAAATCAGTACAGTCTCATG-----
+TraesCS6B02G015400      GGAAGGTA------ATACATATGTAGTTCTTCT------------CAGTTTCATGCCTCC
+TraesCS6A02G008800      GGAAGGTA------ATACATATATACTTCTTCT------------CAGTTTCATGCCTCC
+TraesCS6D02G009800      GGAAGGTA------ATACATATATAGTTCCTCT------------CAGTTTCATG-----
+                        ** *****                                                    
+
+AT4G01440               ------------------------------------------------------------
+TraesCS2B02G533700      ------------------------------------------------------------
+TraesCS4A02G464200      ------------------------------------ATCAGTCATTCATTTCCCATATT-
+TraesCS7D02G022700      --------------------------------ATCATTCATTCATTCATTTCTCATACTG
+TraesCS7A02G024800      ------------------------------------ATCATTCATTCATTTCCCATACTG
+TraesCS6B02G015400      CTGTCCTTTTGCGATGATCATT---------G-------------TCATCGCTGCCAACT
+TraesCS6A02G008800      CTGTCCTTTTGTGATGATCATTGTCACTGCCGAAGTTTCATGTATACATTGTTGCCAACT
+TraesCS6D02G009800      -----------------------------CCGAAGTTTCATGTATACATTGTTGTTGCTG
+                                                                                    
+
+AT4G01440               -----------------------TTGTATTTATACACATATATC-------------ATA
+TraesCS2B02G533700      -----------------------CAACTGGTCTATCAGTCTATC----------CTTGCG
+TraesCS4A02G464200      -----------------------CAGTTTATGAGTGATTTTTTACACTTTTGTACTTGTA
+TraesCS7D02G022700      AAATAAATAATGCTTAATCTTTTCAGTTTA-GAGTGAGTCTATCCACTTATGCACTTGCA
+TraesCS7A02G024800      AAATAAATGATGCATAATCTTTTCAGTTTATGAGTGAGTTTATCCACTTTTGCACTTGTA
+TraesCS6B02G015400      GAATTGTTATTGTTGG-------CTGGAGATAAACTAAGTTAATGGTTTCAGCA---ATC
+TraesCS6A02G008800      GAATTGCTGTTGCTG--------CTGGAGATAAACAAAGTTAATTGTTTCCGCA---GTC
+TraesCS6D02G009800      -----------------------CTGGAGATAAACAAAGTTAATTGTTTCCGCA---ATC
+                                                                *                   
+
+AT4G01440               AAAATCT------------GAATGTGATCGATTTT----CTTTTTGAT------------
+TraesCS2B02G533700      AAACTCCACT-----------------TCATTTACTCTTCTTTTTCAT----------TA
+TraesCS4A02G464200      GAACTGCAATGCCTGGTCCAAATGGCATCATCTTTTGTATTT-TTGTT----------TT
+TraesCS7D02G022700      GAACTGCAATGGCTGGTCCAAATGGCATCACCTTTTGTATTTTTTGTT----------TT
+TraesCS7A02G024800      GAACTGCAATGGCTGGTCCAAATGGCATCACCTTTTGTATTTTTTGTT----------TT
+TraesCS6B02G015400      AAATTGTAATGAC------AAAATTTATC------TCTGCTTGTTAAT--------CATG
+TraesCS6A02G008800      GAGTTGTAATG--------AAAATTTATACATATTTATGCGTGTTGATTATCGTTACATC
+TraesCS6D02G009800      GAGTTTTAATGAC------AAAATTTAT------TTCTGCTTGTTAAT--------CATC
+                         *  *                      *             * **  *            
+
+AT4G01440               -------GTGGATAGTGTTGTCGGATCTGGGGTTGTAATCTTCGGACTATACATATTCTT
+TraesCS2B02G533700      ATTTT-----GGCAGTATCTTGGGTGGAATTCTTCTCGTTGGAGGTCTGTACAGCGTGCT
+TraesCS4A02G464200      GGCCT-----TGCAGTGTGCTGGGATCCATACTGATGATCATGGGCCTCTATATTCTGCT
+TraesCS7D02G022700      GGCCT-----TGCAGTGTACTGGGATCCATACTGATGATAATGGGCCTCTATATTCTGCT
+TraesCS7A02G024800      GCCCT-----TGCAGTGTGCTGGGATCCACACTGATGATCTTGGGCCTCTATATTCTGCT
+TraesCS6B02G015400      GGCGTGCATGTACAGCGTGCTAGGATCTGTACTGATGATACTGGGGCTCTATCTTGTGCT
+TraesCS6A02G008800      GGCGTGCATGTACAGCGTGCTAGGATCTGTACTGATGATACTGGGGCTCTATCTTTTGCT
+TraesCS6D02G009800      GGCGTGCATGTACAGCGTGCTAGGATCTGTACTGATGATACTGGGGCTCTATCTTTTGCT
+                                     **  *  * **        *  *  *    ** ** **     *  *
+
+AT4G01440               GTTGGGAAAAGTCAGGCTAATGAAAGAAGAGTGTGAAAAGAAGTTACCTTGTCGTTTTAA
+TraesCS2B02G533700      GTGGGGTAAAAGCAAG--GA-GAATCG------------GACTGGGCCATGT--------
+TraesCS4A02G464200      GTGGGGAAAGAGCAGG--GATGCCTCGGC----------GACAGTACCACCTGCCAAAGA
+TraesCS7D02G022700      GTGGGGAAAGAGCAGG--GATGCCTCGGC----------GACAGTACCACCTGCCAAAGA
+TraesCS7A02G024800      GTGGGGAAAGAGCAGG--GATGCCTCGGC----------GACAGTACCACCTGCCAAAGA
+TraesCS6B02G015400      GTGGGGAAAGAAGAGG--GATGAAGCA------------GCTACTACCACT---------
+TraesCS6A02G008800      GTGGGGAAAGAAGAGG--GATGAAGCATCTGTATCTTGTACCACTACCACT---------
+TraesCS6D02G009800      GTGGGGAAAGAAGAGG--GATGAATCATCTGTATCTTGTACCACTACCACT---------
+                        ** *** **    * *   * *                        **            
+
+AT4G01440               TGAAGATGATC--AAGAAGAAGATG-----ATGATGAACAATACAAAAAGGGTCATCTTA
+TraesCS2B02G533700      -------------GGCGAGCCGATT-----ATGATGATCCAT--GGCGTGGGTGACG---
+TraesCS4A02G464200      GGAAGAGGATAAGGAGAAGCAAATCAAATCATGAGGACCAA---------AACTATGCAA
+TraesCS7D02G022700      GGAAGAGGATAAGGAGAAGCAAATCAAATCATGAGGACCAA---------AGCTATGCAA
+TraesCS7A02G024800      GGAAGAGGATAAGGAGAAGCAAATCAAATCATAAGGACCAA----------GCTATGGCA
+TraesCS6B02G015400      -------------AACAAGCAAGTC-------GGCGAACAA---------GCTGACGA--
+TraesCS6A02G008800      -------------GACAAGCAAGTC-------GACGAACCA---------GCTGACGA--
+TraesCS6D02G009800      -------------GACAAGCAAGTC-------GACGAACAA---------GCTGACGA--
+                                         **    *           ** * *             *     
+
+AT4G01440               TGGTTGTTCCAATGACTCCTTGATAAGATTAGACTTTTTTTTTTTTCTTCTTCTTCACTT
+TraesCS2B02G533700      ----------GGAAATCTGCAGAT------------------------------------
+TraesCS4A02G464200      TTCTTAGATTGTAAAACTATGGCATATATTCCTCCTTGGTTTCCTACGCCTACGTAGTTT
+TraesCS7D02G022700      TTCTTAGGTTGAAAAACTATGGCATATATTCCTCCTTAGTTTCCTACGCCTACGTAGTTT
+TraesCS7A02G024800      CTCTTAGGTTGTAAAACTATGGCATATATTCCTCCTTAGTTTTCTACACCTACGTAGTTT
+TraesCS6B02G015400      ----CAAGCCGTGAAACTCTAGAGATTATACACCATTGGATTCGGTCATC----------
+TraesCS6A02G008800      ----CAAGCCGTGA----------------------------------------------
+TraesCS6D02G009800      ----CAAGCCGTGAAACTGCAGAGATTA--CATCCTTTGATTCGGTCATT----------
+                                                                                    
+
+AT4G01440               ---------------CGTACATTAT--TTAGTAAAACCATTGACCGGTGAAAATTAC---
+TraesCS2B02G533700      --------GAGGAGGAGAAGAATGCGAGGAGCAAACAAGTT-------------------
+TraesCS4A02G464200      AACCAAGAGGAATGCTATACAGTACTGTTAGTAATGCAGTTGTCATATGCGTTTTCGCTC
+TraesCS7D02G022700      AACCAAGAGGAATGGTATACAGTACTGTTAGTAATGCAGTTGTCGTATGCGTTTTCGCTC
+TraesCS7A02G024800      AACCAAGAGGAATAGTATACAGTACTGTTAGTAATGCAGTTGTCGTATGCGTTTTCGCTC
+TraesCS6B02G015400      --------GCAATGCAACACATAAT--------ATGTAGTTTTTCTTCCCATTTTACTT-
+TraesCS6A02G008800      ------------------------------------------------------------
+TraesCS6D02G009800      --------GCACTGCAACACATAAT--------ATGTAGTTTTTCTTCCCATTTTACTT-
+                                                                                    
+
+AT4G01440               -------------ATGGACTAGTCTAACAAC-----------------------------
+TraesCS2B02G533700      ----AACGGGGAGATGGAACACGATAA---------------------------------
+TraesCS4A02G464200      GCACAACGAGACGATACGTCGGGCTAATTTC----------TGCCTAAATGAAGCCCAAA
+TraesCS7D02G022700      GCACAACGAGACGATACGTCGGGCTAATTTC----------TGCCTAAATGTAGCCCAAA
+TraesCS7A02G024800      GCACAACGAGACGATACGTCGGGCAAATTTCTGCAGCTATATGCCTAAATGTAGCCCAAA
+TraesCS6B02G015400      ----GACTGCTGGATGCAGCTAGCTA----------------------------------
+TraesCS6A02G008800      ------------------------------------------------------------
+TraesCS6D02G009800      -----GCCGCTGGATGCAGCTAGCTATATATGTTATATATAAGGTTGTTCCTAGCTGGTA
+                                                                                    
+
+AT4G01440               ----------GGTTCAAAAAACTAGTCACA------------------------------
+TraesCS2B02G533700      -----------------AGAAGCAACGATA------------------------------
+TraesCS4A02G464200      TTCTTCAGGTGATAAAGAGCGGTGGGCATA------------------------------
+TraesCS7D02G022700      TTCTTCAGGTGATAAAGAGCGGTGGGCATA------------------------------
+TraesCS7A02G024800      TTCTTCAGGTGATAAAGAGCGGTGGGCATA------------------------------
+TraesCS6B02G015400      --------------------------CATA------------------------------
+TraesCS6A02G008800      ------------------------------------------------------------
+TraesCS6D02G009800      CTGTTGACATATGTCCAAGCTACTGAAATAATGGGATTTAGTAACTGAGCAGAGAGCTCA
+                                                                                    
+
+AT4G01440               ---------------------------------------------------------TGT
+TraesCS2B02G533700      ------------------------------------------------------------
+TraesCS4A02G464200      ---------------------------------------------------------GGT
+TraesCS7D02G022700      ---------------------------------------------------------GGT
+TraesCS7A02G024800      ---------------------------------------------------------GGT
+TraesCS6B02G015400      ------------------------------------------------------------
+TraesCS6A02G008800      ------------------------------------------------------------
+TraesCS6D02G009800      TTTACCATACAGCTGCGCCAATGCCCTTCGGTAGCTGCATATGGGAAAATTATATGCGAT
+                                                                                    
+
+AT4G01440               TTTTTTTTTTTTGCTTTTTCTTTTCTTTCCCTTTTTTTTGTTTTGCAATGTAAAACTTTT
+TraesCS2B02G533700      ---------------------------------TTGCCTGCTGAACAAGTCTGA------
+TraesCS4A02G464200      TGCCCATATCTCAGTACGTTAGAAGGTCACATCTGTCACACTGAGCAAGAAAAGAAATAA
+TraesCS7D02G022700      TGCCCATATCTCAGTACGTTAGAAGGTCACATCTGTCACACTGAGCATGAAAAGAAATAA
+TraesCS7A02G024800      TGCCAATATCTCAGTACGTTAGAAGGTCACATCTGTCATATTGAGCATGAAAAGAAATAA
+TraesCS6B02G015400      --------------------------CTCCCTCCGTCCCAAAATATAA------------
+TraesCS6A02G008800      ------------------------------------------------------------
+TraesCS6D02G009800      TACTGTTCAAATGGTACTTC------TTACTTCTCAAACACTTTGTAGTTTTGAACATTT
+                                                                                    
+
+AT4G01440               ATTGCAATAATAA------------------------------AAAAATCTCCTTTGCAA
+TraesCS2B02G533700      ------------------------------------------------------------
+TraesCS4A02G464200      AAGAAAAGAAAA-------------------------------GAAAATATTCTCCACAC
+TraesCS7D02G022700      AAGAAAAGAAAA-------------------------------GAAAGTATTCTCCGC--
+TraesCS7A02G024800      AAGAAAAGAAAA-------------------------------GAAAATATTCTCC----
+TraesCS6B02G015400      ------------------------------------------------------------
+TraesCS6A02G008800      ------------------------------------------------------------
+TraesCS6D02G009800      TCTTACGTAGTACCGATGCCTTGTAATTTCGTCTGCATTTCATGGAAATATTCTTGGTGA
+                                                                                    
+
+AT4G01440               TCAAATGCTTCTAATTTTGAGTGTTTGAGAAA
+TraesCS2B02G533700      --------------------------------
+TraesCS4A02G464200      GATTTTT-------------------------
+TraesCS7D02G022700      --------------------------------
+TraesCS7A02G024800      --------------------------------
+TraesCS6B02G015400      --------------------------------
+TraesCS6A02G008800      --------------------------------
+TraesCS6D02G009800      TATTATTTT-----------------------
+                                                        
