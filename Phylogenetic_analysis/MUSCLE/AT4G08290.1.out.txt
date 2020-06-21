@@ -1,0 +1,79 @@
+Started Sun Jun 21 02:58:29 2020
+/nfs/public/ro/es/appbin/linux-x86_64/muscle-3.8.31/muscle -in muscle-R20200621-025829-0142-43033368-p1m.sequence -verbose -log muscle-R20200621-025829-0142-43033368-p1m.output -quiet -clw -out muscle-R20200621-025829-0142-43033368-p1m.clw 
+Alphabet DNA
+
+MUSCLE v3.8.31 by Robert C. Edgar
+http://www.drive5.com/muscle
+
+Profile-profile score    SPN
+Max iterations           8
+Max trees                1
+Max time                 (No limit)
+Max MB                   4294966168
+Gap open                 -400
+Gap extend (dimer)       0
+Gap ambig factor         0
+Gap ambig penalty        -0
+Center (LE)              0
+Term gaps                Half
+Smooth window length     7
+Refine window length     200
+Min anchor spacing       32
+Min diag length (lambda) 24
+Diag margin (mu)         5
+Min diag break           1
+Hydrophobic window       5
+Hydrophobic gap factor   1.2
+Smooth score ceiling     999
+Min best col score       90
+Min anchor score         90
+SUEFF                    0.1
+Brenner root MSA         False
+Normalize counts         False
+Diagonals (1)            False
+Diagonals (2)            False
+Anchors                  True
+MSF output format        False
+Phylip interleaved       False
+Phylip sequential        False
+ClustalW output format   True
+Catch exceptions         True
+Quiet                    True
+Refine                   False
+ProdfDB                  False
+Low complexity profiles  True
+Objective score          SPM
+Distance method (1)      Kmer4_6
+Clustering method (1)    UPGMB
+Root method (1)          Pseudo
+Sequence weighting (1)   ClustalW
+Distance method (2)      PctIdKimura
+Clustering method (2)    UPGMB
+Root method (2)          Pseudo
+Sequence weighting (2)   ClustalW
+
+Elapsed time 00:00:00  Peak memory use   11 MB(-1%)  Iteration   1 K-mer dist pass 1
+Elapsed time 00:00:00  Peak memory use   11 MB(-1%)  Iteration   1 K-mer dist pass 2
+Align: (TraesCS6D02G308800) (TraesCS6B02G360400)
+Align: (TraesCS4B02G028400) (TraesCS6D02G308800,TraesCS6B02G360400)
+Align: (TraesCS1A02G310300) (TraesCS4B02G028400,TraesCS6D02G308800,TraesCS6B02G360400)
+Align: (TraesCS6A02G008700) (TraesCS6D02G009900)
+Align: (TraesCS7A02G490000) (TraesCS7D02G476400)
+Align: (TraesCS7B02G393200) (TraesCS7A02G490000,TraesCS7D02G476400)
+Align: (AT4G08290) (TraesCS7B02G393200,TraesCS7A02G490000,TraesCS7D02G476400)
+Align: (TraesCS6A02G008700,TraesCS6D02G009900) (AT4G08290,TraesCS7B02G393200,TraesCS7A02G490000,TraesCS7D02G476400)
+Align: (TraesCS1A02G310300,TraesCS4B02G028400,TraesCS6D02G308800,TraesCS6B02G360400) (TraesCS6A02G008700,TraesCS6D02G009900,AT4G08290,TraesCS7B02G393200,TraesCS7A02G490000,TraesCS7D02G476400)
+Elapsed time 00:00:02  Peak memory use   46 MB(-3%)  Iteration   1 Align node
+Elapsed time 00:00:02  Peak memory use   46 MB(-3%)  Iteration   1 Root alignment
+Elapsed time 00:00:03  Peak memory use   46 MB(-3%)  Iteration   2 Refine tree
+Elapsed time 00:00:03  Peak memory use   46 MB(-3%)  Iteration   2 Root alignment
+Elapsed time 00:00:03  Peak memory use   46 MB(-3%)  Iteration   2 Root alignment
+Anchor columns found       0
+DP area saved by anchors   0.0 %
+Elapsed time 00:00:08  Peak memory use   46 MB(-3%)  Iteration   3 Refine biparts
+Elapsed time 00:00:13  Peak memory use   46 MB(-3%)  Iteration   4 Refine biparts
+Elapsed time 00:00:18  Peak memory use   46 MB(-3%)  Iteration   5 Refine biparts
+Elapsed time 00:00:23  Peak memory use   46 MB(-3%)  Iteration   6 Refine biparts
+Elapsed time 00:00:28  Peak memory use   46 MB(-3%)  Iteration   7 Refine biparts
+Elapsed time 00:00:33  Peak memory use   46 MB(-3%)  Iteration   8 Refine biparts
+Finished Sun Jun 21 02:59:02 2020
