@@ -84,6 +84,8 @@ Figures for aid in designing experiments for verfication
 
 2. Wheat grain development [NCBI Project: ERP004505]
 
+![](https://github.com/rkapr/UMAMI/blob/master/heatmaps/HC_triads_only/Fig2_grain_dev.png)
+
 3. Abiotic stress:
 
    a. Heat, Drought and combined heat drought stress (Control, 1, 6 Hr after stress) on leaf [NCBI Project: SRP045409]
