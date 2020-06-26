@@ -20,6 +20,8 @@ Rajan:
 - [ ] Create Venn diagrams of triads based on functions: involvement is stresses, growth
 - [ ] ? Get triads for remaining genes by closest blastn ?
 - [ ] Motif analysis
+- [ ] Chromosome locations
+- [ ] Synteny analsis?
 
 Aditya:
 - [ ] Literature survey for introduction
