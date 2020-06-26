@@ -19,6 +19,7 @@ Rajan:
 - [ ] Draw conclusions for potential functions of UMAMI genes, differential function of homeologs
 - [ ] Create Venn diagrams of triads based on functions: involvement is stresses, growth
 - [ ] ? Get triads for remaining genes by closest blastn ?
+- [ ] Motif analysis
 
 Aditya:
 - [ ] Literature survey for introduction
