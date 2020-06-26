@@ -109,6 +109,12 @@ Figures for aid in designing experiments for verfication
    d. Effect of drought stress on root of contrasting genotypes [NCBI Project: SRP184701]
 
    e. Effect of nitrogen stress on leaves and root [NCBI Project: SRP189128]
+   
+   ![](https://github.com/rkapr/UMAMI/blob/master/heatmaps/HC_triads_only/3e_nitrogen_stress_heatmap.png)
+   
+   Homeolog comparison:
+   
+   ![](https://github.com/rkapr/UMAMI/blob/master/heatmaps/HC_triads_only/3e_nitrogen_stress_barplot)
 
    f. Effect of 10 day phosphorus starvation root and shoot [NCBI Project: DRP000768]
 
