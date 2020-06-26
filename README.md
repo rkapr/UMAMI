@@ -23,6 +23,7 @@ Rajan:
 - [ ] Chromosome map
 - [ ] Synteny analysis?
 - [ ] No flanking regions were selected for phylogenetic analysis, ReDo with 5kb or 2kb?
+- [ ] Expression in seed coat?
 
 Aditya:
 - [ ] Literature survey for introduction
