@@ -1,6 +1,6 @@
 # UMAMI Transporters functional characterization
 
-Tasks:
+### Tasks:
 
 Rajan:
 - [x] Get UMAMI genes in Arabidopsis
@@ -26,6 +26,6 @@ Aditya:
 (Aditya, please add as required)
 
 
-# Results
+### Results
 Figures for aid in designing experiments for verfication
 
