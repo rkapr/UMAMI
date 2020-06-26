@@ -97,6 +97,12 @@ Figures for aid in designing experiments for verfication
    ![](https://github.com/rkapr/UMAMI/blob/master/heatmaps/HC_triads_only/Fig3a_heat_drought_barplot)
 
    b. Salt stress leaf and root (normal vs stresses) [NCBI Project: SRP162799, SRP158842]
+   
+   ![](https://github.com/rkapr/UMAMI/blob/master/heatmaps/HC_triads_only/Fig3b_salt_stress_heatmap.png)
+   
+   Homeolog comparison:
+   
+   ![](https://github.com/rkapr/UMAMI/blob/master/heatmaps/HC_triads_only/Fig3b_salt_stress_barplot)
 
    c. Effect of heat stress of grain between contrasting genotypes at different development stages (Z75 and Z85) [NCBI Project: ERP104851]
 
@@ -110,6 +116,8 @@ Figures for aid in designing experiments for verfication
 https://www.apsnet.org/edcenter/disandpath/fungalasco/pdlessons/Pages/Septoria.aspx
 
 5. Amino acid transport to grain: comparison of low and high grain asparagine genotypes (with and without sulphur stress) [NCBI Project: ERP113638]
+
+6. Wheat senescence
 
 
 
