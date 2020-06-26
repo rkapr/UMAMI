@@ -23,6 +23,7 @@ Rajan:
 - [ ] Chromosome map
 - [ ] Synteny analysis?
 - [ ] No flanking regions were selected for phylogenetic analysis, ReDo with 5kb or 2kb?
+- [ ] Expression in seed coat?
 
 Aditya:
 - [ ] Literature survey for introduction
@@ -135,8 +136,15 @@ https://www.apsnet.org/edcenter/disandpath/fungalasco/pdlessons/Pages/Septoria.a
 
 5. Amino acid transport to grain: comparison of low and high grain asparagine genotypes (with and without sulphur stress) [NCBI Project: ERP113638]
 
+![](https://github.com/rkapr/UMAMI/blob/master/heatmaps/HC_triads_only/Fig5_asparagine_heatmap.png)
+
 6. Wheat senescence [NCBI Project: SRP166963]
 
+![](https://github.com/rkapr/UMAMI/blob/master/heatmaps/HC_triads_only/Fig6_senescence_heatmap.png)
+
+Homeolog comparison
+
+![](https://github.com/rkapr/UMAMI/blob/master/heatmaps/HC_triads_only/Fig6_senescence_barplot)
 
 
 
