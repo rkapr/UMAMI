@@ -24,3 +24,8 @@ Aditya:
 - [ ] Literature survey for introduction
 - [ ] Comparative analysis with arabidopsis UMAMI genes
 (Aditya, please add as required)
+
+
+# Results
+Figures for aid in designing experiments for verfication
+
