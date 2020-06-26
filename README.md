@@ -21,7 +21,7 @@ Rajan:
 - [ ] ? Get triads for remaining genes by closest blastn ?
 - [ ] Motif analysis
 - [ ] Chromosome map
-- [ ] Synteny analsis?
+- [ ] Synteny analysis?
 
 Aditya:
 - [ ] Literature survey for introduction
