@@ -68,7 +68,7 @@ Aditya:
 1. Clustal Omega (ebi.co.uk)
 ![alt text](http://url/to/img.png)
 2. Phylogeny.fr
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/rkapr/UMAMI/blob/master/Phylogenetic_analysis/NGphylogeny_fr/Tree_image.svg)
 
 ### Results
 Figures for aid in designing experiments for verfication
