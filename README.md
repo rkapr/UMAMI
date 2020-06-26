@@ -117,6 +117,12 @@ Figures for aid in designing experiments for verfication
    ![](https://github.com/rkapr/UMAMI/blob/master/heatmaps/HC_triads_only/3e_nitrogen_stress_barplot)
 
    f. Effect of 10 day phosphorus starvation root and shoot [NCBI Project: DRP000768]
+   
+   ![](https://github.com/rkapr/UMAMI/blob/master/heatmaps/HC_triads_only/Fig3f_Pi_stress_heatmap.png)
+   
+   Homeolog comparison:
+   
+   ![](https://github.com/rkapr/UMAMI/blob/master/heatmaps/HC_triads_only/Fig3f_Pi_stress_barplot)
 
 4. Biotic stress: Septoria tritici blotch resistant and susceptible genotypes 10 and 12 days post inoculation (control vs stressed leaf) [NCBI Project: SRP198337]
 https://www.apsnet.org/edcenter/disandpath/fungalasco/pdlessons/Pages/Septoria.aspx
