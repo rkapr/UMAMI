@@ -105,6 +105,8 @@ Figures for aid in designing experiments for verfication
    ![](https://github.com/rkapr/UMAMI/blob/master/heatmaps/HC_triads_only/Fig3b_salt_stress_barplot)
 
    c. Effect of heat stress of grain between contrasting genotypes at different development stages (Z75 and Z85) [NCBI Project: ERP104851]
+   
+   ![](https://github.com/rkapr/UMAMI/blob/master/heatmaps/HC_triads_only/Fig3c_heat_stress_grain_heatmap.png)
 
    d. Effect of drought stress on root of contrasting genotypes [NCBI Project: SRP184701]
 
