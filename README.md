@@ -100,5 +100,5 @@ https://www.apsnet.org/edcenter/disandpath/fungalasco/pdlessons/Pages/Septoria.a
 
 2. Phylogeny.fr
 
-![Phylogeny.fr Phylogenetic tree](https://github.com/rkapr/UMAMI/blob/master/Phylogenetic_analysis/NGphylogeny_fr/interactive_tree_of_life_120dpi.png)
+![Phylogeny.fr Phylogenetic tree](https://github.com/rkapr/UMAMI/blob/master/Phylogenetic_analysis/NGphylogeny_fr/interactive_tree_of_life_200dpi.png)
 
