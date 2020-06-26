@@ -86,7 +86,9 @@ Figures for aid in designing experiments for verfication
 
 ![](https://github.com/rkapr/UMAMI/blob/master/heatmaps/HC_triads_only/Fig2_grain_dev.png)
 
-![Homeolog comparison](https://github.com/rkapr/UMAMI/blob/master/heatmaps/HC_triads_only/Fig3a_heat_drought_barplot)
+Homeolog comparison:
+
+![](https://github.com/rkapr/UMAMI/blob/master/heatmaps/HC_triads_only/Fig3a_heat_drought_barplot)
 
 3. Abiotic stress:
 
