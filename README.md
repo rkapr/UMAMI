@@ -80,6 +80,8 @@ Figures for aid in designing experiments for verfication
 
 1. Different tissues and stages of development [URGI tissue dataset  https://urgi.versailles.inra.fr/files/RNASeqWheat/]
 
+![](https://github.com/rkapr/UMAMI/blob/master/heatmaps/HC_triads_only/Fig1_development.png)
+
 2. Wheat grain development [NCBI Project: ERP004505]
 
 3. Abiotic stress:
