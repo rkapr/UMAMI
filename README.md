@@ -30,8 +30,6 @@ Aditya:
 
 ### Characterized wheat UMAMI Genes
 
-(File: triads_combined.csv)
-
 | Gene_A             | Gene_B             | Gene_D             | Triad_ID   |
 | ------------------ | ------------------ | ------------------ | ---------- |
 | TraesCS1A02G095600 | TraesCS1B02G128000 | TraesCS1D02G104500 | TaUMAMIT1  |
@@ -62,6 +60,8 @@ Aditya:
 | TraesCS7A02G300400 | TraesCS7B02G201300 | TraesCS7D02G296100 | TaUMAMIT26 |
 | TraesCS7A02G409900 | TraesCS7B02G309300 | TraesCS7D02G403100 | TaUMAMIT27 |
 | TraesCS7A02G490000 | TraesCS7B02G393200 | TraesCS7D02G476400 | TaUMAMIT28 |
+
+(Also in file: triads_combined.csv)
 
 ### Results
 Figures for aid in designing experiments for verfication
