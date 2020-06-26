@@ -131,6 +131,8 @@ Figures for aid in designing experiments for verfication
 4. Biotic stress: Septoria tritici blotch resistant and susceptible genotypes 10 and 12 days post inoculation (control vs stressed leaf) [NCBI Project: SRP198337]
 https://www.apsnet.org/edcenter/disandpath/fungalasco/pdlessons/Pages/Septoria.aspx
 
+![](https://github.com/rkapr/UMAMI/blob/master/heatmaps/HC_triads_only/Fig4_biotic_stb_heatmap.png)
+
 5. Amino acid transport to grain: comparison of low and high grain asparagine genotypes (with and without sulphur stress) [NCBI Project: ERP113638]
 
 6. Wheat senescence
