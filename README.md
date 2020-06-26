@@ -135,7 +135,7 @@ https://www.apsnet.org/edcenter/disandpath/fungalasco/pdlessons/Pages/Septoria.a
 
 5. Amino acid transport to grain: comparison of low and high grain asparagine genotypes (with and without sulphur stress) [NCBI Project: ERP113638]
 
-6. Wheat senescence
+6. Wheat senescence [NCBI Project: SRP166963]
 
 
 
