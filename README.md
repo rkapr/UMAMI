@@ -28,7 +28,9 @@ Aditya:
 - [ ] Comparative analysis with arabidopsis UMAMI genes
 (Aditya, please add as required)
 
-### Wheat UMAMI Genes
+### Characterized wheat UMAMI Genes
+
+(File: triads_combined.csv)
 
 | Gene_A             | Gene_B             | Gene_D             | Triad_ID   |
 | ------------------ | ------------------ | ------------------ | ---------- |
