@@ -137,6 +137,11 @@ https://www.apsnet.org/edcenter/disandpath/fungalasco/pdlessons/Pages/Septoria.a
 
 6. Wheat senescence [NCBI Project: SRP166963]
 
+![](https://github.com/rkapr/UMAMI/blob/master/heatmaps/HC_triads_only/Fig6_senescence_heatmap.png)
+
+Homeolog comparison
+
+![](https://github.com/rkapr/UMAMI/blob/master/heatmaps/HC_triads_only/Fig6_senescence_barplot)
 
 
 
