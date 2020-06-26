@@ -34,9 +34,8 @@ Figures for aid in designing experiments for verfication
 
 2. Wheat grain development
 
-3. Abiotic stress
-
- a. Heat, Drought and combined heat drought stress (Control, 1, 6 Hr after stress) on leaf
+3. Abiotic stress:
+  a. Heat, Drought and combined heat drought stress (Control, 1, 6 Hr after stress) on leaf
 
  b. Salt stress leaf and root (normal vs stresses)
 
