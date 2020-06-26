@@ -21,6 +21,6 @@ Rajan:
 - [ ] ? Get triads for remaining genes by closest blastn ?
 
 Aditya:
-- [] Literature survey for introduction
-- [] Comparative analysis with arabidopsis UMAMI genes
+- [ ] Literature survey for introduction
+- [ ] Comparative analysis with arabidopsis UMAMI genes
 (Aditya, please add as required)
