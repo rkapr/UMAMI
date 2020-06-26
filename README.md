@@ -109,6 +109,8 @@ Figures for aid in designing experiments for verfication
    ![](https://github.com/rkapr/UMAMI/blob/master/heatmaps/HC_triads_only/Fig3c_heat_stress_grain_heatmap.png)
 
    d. Effect of drought stress on root of contrasting genotypes [NCBI Project: SRP184701]
+   
+   ![](https://github.com/rkapr/UMAMI/blob/master/heatmaps/HC_triads_only/Fig3d_drought_stress_root_heatmap.png)
 
    e. Effect of nitrogen stress on leaves and root [NCBI Project: SRP189128]
    
