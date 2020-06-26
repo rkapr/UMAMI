@@ -22,6 +22,7 @@ Rajan:
 - [ ] Motif analysis
 - [ ] Chromosome map
 - [ ] Synteny analysis?
+- [ ] No flanking regions were selected for phylogenetic analysis, ReDo with 5kb or 2kb?
 
 Aditya:
 - [ ] Literature survey for introduction
@@ -63,6 +64,17 @@ Aditya:
 
 (Also in file: triads_combined.csv)
 
+### Phylogenetic Tree
+
+1. Clustal Omega (ebi.co.uk)
+
+
+2. Phylogeny.fr
+
+![Phylogeny.fr Phylogenetic tree](https://github.com/rkapr/UMAMI/blob/master/Phylogenetic_analysis/NGphylogeny_fr/interactive_tree_of_life_200dpi.png)
+
+
+
 ### Results
 Figures for aid in designing experiments for verfication
 
@@ -91,14 +103,4 @@ https://www.apsnet.org/edcenter/disandpath/fungalasco/pdlessons/Pages/Septoria.a
 
 
 
-
-### Phylogenetic Tree
-
-1. Clustal Omega (ebi.co.uk)
-
-![alt text](http://url/to/img.png)
-
-2. Phylogeny.fr
-
-![Phylogeny.fr Phylogenetic tree](https://github.com/rkapr/UMAMI/blob/master/Phylogenetic_analysis/NGphylogeny_fr/interactive_tree_of_life_200dpi.png)
 
