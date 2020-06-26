@@ -63,13 +63,6 @@ Aditya:
 
 (Also in file: triads_combined.csv)
 
-### Phylogenetic Tree
-
-1. Clustal Omega (ebi.co.uk)
-![alt text](http://url/to/img.png)
-2. Phylogeny.fr
-![alt text](https://github.com/rkapr/UMAMI/blob/master/Phylogenetic_analysis/NGphylogeny_fr/Tree_image.svg)
-
 ### Results
 Figures for aid in designing experiments for verfication
 
@@ -99,5 +92,13 @@ https://www.apsnet.org/edcenter/disandpath/fungalasco/pdlessons/Pages/Septoria.a
 
 
 
+### Phylogenetic Tree
 
+1. Clustal Omega (ebi.co.uk)
+
+![alt text](http://url/to/img.png)
+
+2. Phylogeny.fr
+
+![Phylogeny.fr Phylogenetic tree](https://github.com/rkapr/UMAMI/blob/master/Phylogenetic_analysis/NGphylogeny_fr/interactive_tree_of_life_120dpi.png)
 
