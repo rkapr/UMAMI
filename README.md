@@ -36,17 +36,17 @@ Figures for aid in designing experiments for verfication
 
 3. Abiotic stress
 
-3a. Heat, Drought and combined heat drought stress (Control, 1, 6 Hr after stress) on leaf
+ a. Heat, Drought and combined heat drought stress (Control, 1, 6 Hr after stress) on leaf
 
-3b. Salt stress leaf and root (normal vs stresses)
+ b. Salt stress leaf and root (normal vs stresses)
 
-3c. Effect of heat stress of grain between contrasting genotypes at different development stages (Z75 and Z85)
+ c. Effect of heat stress of grain between contrasting genotypes at different development stages (Z75 and Z85)
 
-3d. Effect of drought stress on root of contrasting genotypes
+ d. Effect of drought stress on root of contrasting genotypes
 
-3e. Effect of nitrogen stress on leaves and root
+ e. Effect of nitrogen stress on leaves and root
 
-3f. Effect of 10 day phosphorus starvation root and shoot
+ f. Effect of 10 day phosphorus starvation root and shoot
 
 4. Biotic stress: Septoria tritici blotch resistant and susceptible genotypes 10 and 12 days post inoculation (control vs stressed)
 https://www.apsnet.org/edcenter/disandpath/fungalasco/pdlessons/Pages/Septoria.aspx
