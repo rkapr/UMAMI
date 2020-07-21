@@ -1,0 +1,830 @@
+AT1G01260	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G01720	regulates	AT2G37450	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT1G01720	regulates	AT3G28070	Arabidopsis thaliana	motif
+AT1G01720	regulates	AT4G30420	Arabidopsis thaliana	motif
+AT1G02250	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT1G03800	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE
+AT1G03800	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G03840	regulates	AT1G43650	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G03840	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seed coat)
+AT1G03840	regulates	AT4G16620	Arabidopsis thaliana	motif
+AT1G06180	regulates	AT1G09380	Arabidopsis thaliana	motif, motif_CE
+AT1G06180	regulates	AT1G44800	Arabidopsis thaliana	motif
+AT1G06280	regulates	AT5G45370	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G08320	regulates	AT1G70260	Arabidopsis thaliana	motif, motif_CE
+AT1G08810	regulates	AT3G28100	Arabidopsis thaliana	motif
+AT1G09530	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT1G09540	regulates	AT1G44800	Arabidopsis thaliana	motif
+AT1G10120	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT1G10120	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_DGF (root non hair)
+AT1G10120	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G12260	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT1G12610	regulates	AT5G07050	Arabidopsis thaliana	motif, motif_CE
+AT1G12630	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE
+AT1G13300	regulates	AT4G15540	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G14580	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seed coat)
+AT1G14580	regulates	AT4G08290	Arabidopsis thaliana	motif
+AT1G16490	regulates	AT1G09380	Arabidopsis thaliana	motif, motif_CE
+AT1G16490	regulates	AT1G44800	Arabidopsis thaliana	motif
+AT1G18570	regulates	AT1G44800	Arabidopsis thaliana	motif, motif_CE
+AT1G18960	regulates	AT2G40900	Arabidopsis thaliana	motif
+AT1G18960	regulates	AT4G16620	Arabidopsis thaliana	motif
+AT1G18960	regulates	AT5G40210	Arabidopsis thaliana	motif
+AT1G18960	regulates	AT5G40230	Arabidopsis thaliana	motif
+AT1G18960	regulates	AT5G40240	Arabidopsis thaliana	motif
+AT1G19210	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT1G19350	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G20980	regulates	AT3G30340	Arabidopsis thaliana	motif
+AT1G21910	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE
+AT1G22070	regulates	AT1G70260	Arabidopsis thaliana	FunTFBS, motif, motif_CE
+AT1G22070	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT1G22810	regulates	AT1G60050	Arabidopsis thaliana	motif, motif_CE
+AT1G22810	regulates	AT1G68170	Arabidopsis thaliana	motif, motif_CE
+AT1G22810	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT1G22810	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G24260	regulates	AT3G56620	Arabidopsis thaliana	motif
+AT1G28160	regulates	AT3G53210	Arabidopsis thaliana	FunTFBS, motif, motif_DGF (seedling)
+AT1G28160	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT1G28160	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G28300	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT1G28370	regulates	AT3G53210	Arabidopsis thaliana	FunTFBS, motif, motif_DGF (seedling)
+AT1G28370	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT1G28370	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G29160	regulates	AT2G37460	Arabidopsis thaliana	motif
+AT1G29160	regulates	AT3G18200	Arabidopsis thaliana	motif
+AT1G29160	regulates	AT4G28040	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G29280	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G29860	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G30490	regulates	AT3G28050	Arabidopsis thaliana	FunTFBS, motif
+AT1G30650	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G31140	regulates	AT3G53210	Arabidopsis thaliana	motif
+AT1G32150	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT1G32240	regulates	AT3G28100	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G32870	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_CE
+AT1G34180	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT1G34190	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_CE
+AT1G34670	regulates	AT1G09380	Arabidopsis thaliana	motif, motif_CE
+AT1G35460	regulates	AT1G43650	Arabidopsis thaliana	motif
+AT1G35460	regulates	AT3G56620	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT1G35460	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (root non hair)
+AT1G35560	regulates	AT3G18200	Arabidopsis thaliana	motif, motif_CE
+AT1G35560	regulates	AT3G28080	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G43160	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G43160	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT1G43160	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G44830	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT1G45249	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT1G46768	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT1G47870	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT1G49010	regulates	AT2G37460	Arabidopsis thaliana	motif
+AT1G49480	regulates	AT1G11450	Arabidopsis thaliana	motif
+AT1G49480	regulates	AT1G43650	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G49480	regulates	AT1G68170	Arabidopsis thaliana	motif
+AT1G49480	regulates	AT1G70260	Arabidopsis thaliana	motif
+AT1G49480	regulates	AT2G37450	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G49480	regulates	AT2G37460	Arabidopsis thaliana	motif
+AT1G49480	regulates	AT2G39510	Arabidopsis thaliana	motif
+AT1G49480	regulates	AT2G40900	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G49480	regulates	AT3G18200	Arabidopsis thaliana	motif
+AT1G49480	regulates	AT3G28050	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G49480	regulates	AT3G28130	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G49480	regulates	AT3G56620	Arabidopsis thaliana	motif, motif_DGF (root)
+AT1G49480	regulates	AT4G01450	Arabidopsis thaliana	motif
+AT1G49480	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G49480	regulates	AT4G08300	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G49480	regulates	AT4G28040	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G49480	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G49480	regulates	AT5G45370	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G49560	regulates	AT4G15540	Arabidopsis thaliana	motif
+AT1G49720	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT1G50640	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT1G50640	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G51140	regulates	AT3G56620	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT1G51140	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (root non hair)
+AT1G51600	regulates	AT2G39510	Arabidopsis thaliana	motif, motif_CE
+AT1G51600	regulates	AT3G28080	Arabidopsis thaliana	motif
+AT1G51600	regulates	AT4G01440	Arabidopsis thaliana	motif
+AT1G51600	regulates	AT4G30420	Arabidopsis thaliana	motif
+AT1G51600	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE
+AT1G51600	regulates	AT5G47470	Arabidopsis thaliana	motif, motif_CE
+AT1G51700	regulates	AT1G11450	Arabidopsis thaliana	motif
+AT1G51700	regulates	AT1G43650	Arabidopsis thaliana	motif
+AT1G51700	regulates	AT1G44800	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G51700	regulates	AT1G75500	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G51700	regulates	AT2G37460	Arabidopsis thaliana	motif
+AT1G51700	regulates	AT3G18200	Arabidopsis thaliana	motif
+AT1G51700	regulates	AT4G01440	Arabidopsis thaliana	motif
+AT1G51700	regulates	AT4G28040	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G51700	regulates	AT5G13670	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G52150	regulates	AT3G28050	Arabidopsis thaliana	FunTFBS, motif
+AT1G52880	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT1G53170	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G53170	regulates	AT4G15540	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G53170	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT1G53170	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G53910	regulates	AT5G40230	Arabidopsis thaliana	motif
+AT1G55110	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seed coat)
+AT1G59640	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT1G59640	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_DGF (root non hair)
+AT1G59640	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G62300	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G64620	regulates	AT1G44800	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G64620	regulates	AT2G37460	Arabidopsis thaliana	motif
+AT1G65620	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT1G65620	regulates	AT4G15540	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G65620	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE
+AT1G65620	regulates	AT5G40230	Arabidopsis thaliana	motif
+AT1G65620	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G65910	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT1G65910	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_CE
+AT1G67260	regulates	AT3G28080	Arabidopsis thaliana	motif
+AT1G68200	regulates	AT5G45370	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G68550	regulates	AT3G53210	Arabidopsis thaliana	FunTFBS, motif, motif_DGF (seedling)
+AT1G68550	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT1G68550	regulates	AT5G40230	Arabidopsis thaliana	motif
+AT1G68550	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G68670	regulates	AT4G15540	Arabidopsis thaliana	motif
+AT1G69010	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT1G69010	regulates	AT3G53210	Arabidopsis thaliana	FunTFBS, motif, motif_DGF (seedling)
+AT1G69310	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G69570	regulates	AT1G25270	Arabidopsis thaliana	motif
+AT1G69570	regulates	AT1G44800	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G69570	regulates	AT1G75500	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G69570	regulates	AT3G18200	Arabidopsis thaliana	motif
+AT1G69570	regulates	AT3G28100	Arabidopsis thaliana	motif
+AT1G69570	regulates	AT3G30340	Arabidopsis thaliana	motif, motif_CE
+AT1G69570	regulates	AT4G01440	Arabidopsis thaliana	motif
+AT1G69570	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G69570	regulates	AT4G08300	Arabidopsis thaliana	motif
+AT1G69570	regulates	AT4G28040	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G69570	regulates	AT4G30420	Arabidopsis thaliana	motif
+AT1G69570	regulates	AT5G13670	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G69570	regulates	AT5G40230	Arabidopsis thaliana	motif
+AT1G69690	regulates	AT1G75500	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seed coat)
+AT1G69690	regulates	AT3G28080	Arabidopsis thaliana	FunTFBS, motif, motif_DGF (seedling)
+AT1G69780	regulates	AT3G28070	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G69780	regulates	AT3G28080	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G70920	regulates	AT4G28040	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G71450	regulates	AT1G68170	Arabidopsis thaliana	motif, motif_CE
+AT1G71450	regulates	AT4G30420	Arabidopsis thaliana	motif
+AT1G71450	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE
+AT1G71450	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G71930	regulates	AT2G37460	Arabidopsis thaliana	motif
+AT1G72010	regulates	AT1G75500	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seed coat)
+AT1G72010	regulates	AT3G28080	Arabidopsis thaliana	FunTFBS, motif, motif_DGF (seedling)
+AT1G72010	regulates	AT5G47470	Arabidopsis thaliana	motif, motif_CE
+AT1G72050	regulates	AT1G11450	Arabidopsis thaliana	motif
+AT1G72050	regulates	AT5G40230	Arabidopsis thaliana	motif
+AT1G72050	regulates	AT5G45370	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G72050	regulates	AT5G47470	Arabidopsis thaliana	motif, motif_CE
+AT1G72050	regulates	AT5G64700	Arabidopsis thaliana	motif
+AT1G72360	regulates	AT1G25270	Arabidopsis thaliana	motif, motif_CE
+AT1G72360	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE
+AT1G72360	regulates	AT5G40230	Arabidopsis thaliana	motif
+AT1G72360	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G74840	regulates	AT4G15540	Arabidopsis thaliana	motif
+AT1G75490	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT1G75490	regulates	AT5G40230	Arabidopsis thaliana	motif
+AT1G75490	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT1G76420	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_CE
+AT1G76870	regulates	AT2G39510	Arabidopsis thaliana	motif
+AT1G76870	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT1G76870	regulates	AT4G19185	Arabidopsis thaliana	motif
+AT1G77200	regulates	AT3G28130	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT1G77920	regulates	AT1G70260	Arabidopsis thaliana	FunTFBS, motif, motif_CE
+AT1G77920	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT1G79180	regulates	AT1G09380	Arabidopsis thaliana	motif, motif_CE
+AT1G79180	regulates	AT1G44800	Arabidopsis thaliana	FunTFBS, motif, motif_CE
+AT2G01570	regulates	AT1G11450	Arabidopsis thaliana	motif
+AT2G01570	regulates	AT1G11460	Arabidopsis thaliana	motif
+AT2G01570	regulates	AT1G21890	Arabidopsis thaliana	motif
+AT2G01570	regulates	AT1G25270	Arabidopsis thaliana	motif
+AT2G01570	regulates	AT1G60050	Arabidopsis thaliana	motif
+AT2G01570	regulates	AT1G68170	Arabidopsis thaliana	FunTFBS, motif
+AT2G01570	regulates	AT1G70260	Arabidopsis thaliana	motif
+AT2G01570	regulates	AT1G75500	Arabidopsis thaliana	motif
+AT2G01570	regulates	AT2G40900	Arabidopsis thaliana	motif
+AT2G01570	regulates	AT3G18200	Arabidopsis thaliana	motif
+AT2G01570	regulates	AT3G28050	Arabidopsis thaliana	motif
+AT2G01570	regulates	AT3G30340	Arabidopsis thaliana	motif
+AT2G01570	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seed coat)
+AT2G01570	regulates	AT4G01450	Arabidopsis thaliana	motif
+AT2G01570	regulates	AT4G08290	Arabidopsis thaliana	motif
+AT2G01570	regulates	AT4G08300	Arabidopsis thaliana	motif, motif_CE
+AT2G01570	regulates	AT5G47470	Arabidopsis thaliana	motif, motif_CE
+AT2G01930	regulates	AT1G11450	Arabidopsis thaliana	motif
+AT2G01930	regulates	AT1G11460	Arabidopsis thaliana	motif
+AT2G01930	regulates	AT1G21890	Arabidopsis thaliana	FunTFBS, motif
+AT2G01930	regulates	AT1G60050	Arabidopsis thaliana	motif
+AT2G01930	regulates	AT1G68170	Arabidopsis thaliana	motif
+AT2G01930	regulates	AT1G70260	Arabidopsis thaliana	motif
+AT2G01930	regulates	AT2G37450	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT2G01930	regulates	AT3G28050	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT2G01930	regulates	AT3G28130	Arabidopsis thaliana	motif
+AT2G01930	regulates	AT3G30340	Arabidopsis thaliana	motif, motif_CE
+AT2G01930	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT2G01930	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT2G01930	regulates	AT4G01450	Arabidopsis thaliana	motif
+AT2G01930	regulates	AT4G08300	Arabidopsis thaliana	motif
+AT2G01930	regulates	AT4G30420	Arabidopsis thaliana	motif
+AT2G01930	regulates	AT5G47470	Arabidopsis thaliana	motif, motif_CE
+AT2G01940	regulates	AT2G40900	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G01940	regulates	AT3G28050	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G01940	regulates	AT4G16620	Arabidopsis thaliana	motif
+AT2G02070	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seed coat)
+AT2G02070	regulates	AT4G28040	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT2G02080	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seed coat)
+AT2G02080	regulates	AT4G08290	Arabidopsis thaliana	motif
+AT2G02450	regulates	AT4G08290	Arabidopsis thaliana	FunTFBS, motif, motif_CE, motif_DGF (seedling)
+AT2G02540	regulates	AT3G28070	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G02540	regulates	AT3G28080	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G02540	regulates	AT4G28040	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G03340	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G03500	regulates	AT4G15540	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G15740	regulates	AT4G30420	Arabidopsis thaliana	motif
+AT2G17950	regulates	AT4G01440	Arabidopsis thaliana	motif, motif_CE
+AT2G17950	regulates	AT4G15540	Arabidopsis thaliana	FunTFBS, motif
+AT2G18160	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT2G18380	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (root non hair)
+AT2G20110	regulates	AT3G28050	Arabidopsis thaliana	motif
+AT2G20180	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT2G20180	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_DGF (root non hair)
+AT2G20400	regulates	AT4G15540	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G21900	regulates	AT3G56620	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT2G21900	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G22300	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT2G22430	regulates	AT4G01440	Arabidopsis thaliana	motif, motif_CE
+AT2G22430	regulates	AT4G08290	Arabidopsis thaliana	ChIP-seq (seedling)
+AT2G22430	regulates	AT4G30420	Arabidopsis thaliana	ChIP-seq (seedling)
+AT2G22540	regulates	AT1G75500	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT2G22540	regulates	AT3G53210	Arabidopsis thaliana	motif
+AT2G22750	regulates	AT1G44800	Arabidopsis thaliana	FunTFBS, motif, motif_CE
+AT2G23290	regulates	AT4G30420	Arabidopsis thaliana	motif, motif_DGF (root non hair)
+AT2G23320	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G24430	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT2G24570	regulates	AT3G28100	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G24570	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G27300	regulates	AT5G13670	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G27300	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (root non hair)
+AT2G28810	regulates	AT1G25270	Arabidopsis thaliana	motif, motif_CE
+AT2G28810	regulates	AT1G44800	Arabidopsis thaliana	motif
+AT2G28810	regulates	AT1G75500	Arabidopsis thaliana	motif
+AT2G28810	regulates	AT2G37460	Arabidopsis thaliana	motif
+AT2G28810	regulates	AT3G18200	Arabidopsis thaliana	motif
+AT2G28810	regulates	AT3G28100	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G28810	regulates	AT3G30340	Arabidopsis thaliana	motif, motif_CE
+AT2G28810	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_CE
+AT2G28810	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G28810	regulates	AT4G08300	Arabidopsis thaliana	FunTFBS, motif
+AT2G28810	regulates	AT4G28040	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G28810	regulates	AT5G13670	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G30250	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G30340	regulates	AT4G15540	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G30590	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G31230	regulates	AT1G25270	Arabidopsis thaliana	motif, motif_CE
+AT2G31230	regulates	AT4G15540	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G31230	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT2G31230	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT2G32460	regulates	AT5G45370	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT2G33710	regulates	AT3G53210	Arabidopsis thaliana	FunTFBS, motif, motif_DGF (seedling)
+AT2G33710	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT2G33710	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT2G33810	regulates	AT3G30340	Arabidopsis thaliana	motif
+AT2G35530	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT2G35700	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT2G36270	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT2G37590	regulates	AT2G37460	Arabidopsis thaliana	motif
+AT2G37590	regulates	AT4G08290	Arabidopsis thaliana	motif
+AT2G38090	regulates	AT1G68170	Arabidopsis thaliana	motif
+AT2G38090	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT2G38300	regulates	AT1G60050	Arabidopsis thaliana	motif, motif_CE
+AT2G38470	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G38880	regulates	AT1G43650	Arabidopsis thaliana	motif
+AT2G38880	regulates	AT1G60050	Arabidopsis thaliana	motif, motif_CE
+AT2G38880	regulates	AT2G39510	Arabidopsis thaliana	motif, motif_CE
+AT2G38880	regulates	AT3G30340	Arabidopsis thaliana	motif, motif_CE
+AT2G40260	regulates	AT1G60050	Arabidopsis thaliana	motif, motif_CE
+AT2G40340	regulates	AT1G25270	Arabidopsis thaliana	motif, motif_CE
+AT2G40340	regulates	AT1G60050	Arabidopsis thaliana	motif, motif_CE
+AT2G40340	regulates	AT1G68170	Arabidopsis thaliana	motif, motif_CE
+AT2G40340	regulates	AT3G18200	Arabidopsis thaliana	motif, motif_CE
+AT2G40340	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE
+AT2G40740	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G42280	regulates	AT1G43650	Arabidopsis thaliana	motif
+AT2G42280	regulates	AT3G56620	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT2G42280	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (root non hair)
+AT2G42430	regulates	AT4G19185	Arabidopsis thaliana	motif
+AT2G42430	regulates	AT5G45370	Arabidopsis thaliana	FunTFBS, motif, motif_DGF (seed coat)
+AT2G43000	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE
+AT2G43000	regulates	AT5G40240	Arabidopsis thaliana	motif
+AT2G43010	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT2G43010	regulates	AT5G40230	Arabidopsis thaliana	ChIP-seq (seedling)
+AT2G45190	regulates	AT2G37460	Arabidopsis thaliana	motif, motif_CE
+AT2G45410	regulates	AT4G19185	Arabidopsis thaliana	motif
+AT2G45410	regulates	AT5G45370	Arabidopsis thaliana	FunTFBS, motif, motif_DGF (seed coat)
+AT2G45420	regulates	AT5G45370	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT2G45660	regulates	AT1G11450	Arabidopsis thaliana	motif
+AT2G45660	regulates	AT1G11460	Arabidopsis thaliana	motif
+AT2G45660	regulates	AT1G21890	Arabidopsis thaliana	motif
+AT2G45660	regulates	AT1G25270	Arabidopsis thaliana	motif
+AT2G45660	regulates	AT1G43650	Arabidopsis thaliana	motif
+AT2G45660	regulates	AT1G60050	Arabidopsis thaliana	motif
+AT2G45660	regulates	AT1G68170	Arabidopsis thaliana	motif
+AT2G45660	regulates	AT1G70260	Arabidopsis thaliana	motif
+AT2G45660	regulates	AT2G37460	Arabidopsis thaliana	motif
+AT2G45660	regulates	AT3G18200	Arabidopsis thaliana	FunTFBS, motif
+AT2G45660	regulates	AT3G28050	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G45660	regulates	AT3G28130	Arabidopsis thaliana	motif
+AT2G45660	regulates	AT3G30340	Arabidopsis thaliana	motif, motif_CE
+AT2G45660	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seed coat)
+AT2G45660	regulates	AT3G56620	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G45660	regulates	AT4G01440	Arabidopsis thaliana	motif
+AT2G45660	regulates	AT4G01450	Arabidopsis thaliana	motif
+AT2G45660	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G45660	regulates	AT4G08300	Arabidopsis thaliana	motif
+AT2G45660	regulates	AT4G16620	Arabidopsis thaliana	motif
+AT2G45660	regulates	AT4G19185	Arabidopsis thaliana	motif
+AT2G45660	regulates	AT4G28040	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G45660	regulates	AT4G30420	Arabidopsis thaliana	motif
+AT2G45660	regulates	AT5G13670	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT2G45660	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G45660	regulates	AT5G40230	Arabidopsis thaliana	motif
+AT2G45660	regulates	AT5G47470	Arabidopsis thaliana	motif, motif_CE
+AT2G45660	regulates	AT5G64700	Arabidopsis thaliana	motif
+AT2G45680	regulates	AT1G75500	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seed coat)
+AT2G46130	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G46270	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT2G46270	regulates	AT4G08290	Arabidopsis thaliana	ChIP-seq (seedling)
+AT2G46400	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT2G46590	regulates	AT2G37460	Arabidopsis thaliana	motif
+AT2G46590	regulates	AT4G08290	Arabidopsis thaliana	motif
+AT2G46680	regulates	AT4G01440	Arabidopsis thaliana	FunTFBS, motif, motif_CE
+AT2G46680	regulates	AT4G08290	Arabidopsis thaliana	ChIP-seq (seedling)
+AT2G47260	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G01220	regulates	AT3G28070	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT3G01220	regulates	AT3G28080	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G01470	regulates	AT3G28070	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT3G01470	regulates	AT3G28080	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G01970	regulates	AT3G28100	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G01970	regulates	AT3G56620	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT3G01970	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G03200	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_CE
+AT3G04030	regulates	AT1G25270	Arabidopsis thaliana	motif
+AT3G04060	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_CE
+AT3G06490	regulates	AT4G19185	Arabidopsis thaliana	motif
+AT3G06490	regulates	AT5G45370	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT3G06740	regulates	AT2G39510	Arabidopsis thaliana	motif, motif_CE
+AT3G06740	regulates	AT3G28080	Arabidopsis thaliana	motif
+AT3G06740	regulates	AT5G47470	Arabidopsis thaliana	motif, motif_CE
+AT3G08500	regulates	AT1G09380	Arabidopsis thaliana	motif, motif_CE
+AT3G08500	regulates	AT1G43650	Arabidopsis thaliana	motif, motif_CE
+AT3G10030	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT3G10480	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_CE
+AT3G10490	regulates	AT3G30340	Arabidopsis thaliana	motif, motif_CE
+AT3G10490	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT3G10580	regulates	AT5G47470	Arabidopsis thaliana	motif
+AT3G10800	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT3G11280	regulates	AT5G47470	Arabidopsis thaliana	motif
+AT3G12130	regulates	AT1G44800	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G12130	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT3G12250	regulates	AT1G70260	Arabidopsis thaliana	FunTFBS, motif, motif_CE
+AT3G12250	regulates	AT2G40900	Arabidopsis thaliana	FunTFBS, motif, motif_CE
+AT3G12250	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT3G12720	regulates	AT1G44800	Arabidopsis thaliana	motif
+AT3G12820	regulates	AT1G09380	Arabidopsis thaliana	motif, motif_CE
+AT3G12820	regulates	AT1G44800	Arabidopsis thaliana	motif
+AT3G12910	regulates	AT3G28070	Arabidopsis thaliana	motif
+AT3G12910	regulates	AT3G28100	Arabidopsis thaliana	motif, motif_CE
+AT3G12910	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G13810	regulates	AT3G28050	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G13810	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seed coat)
+AT3G13810	regulates	AT4G08290	Arabidopsis thaliana	motif
+AT3G13810	regulates	AT4G16620	Arabidopsis thaliana	motif
+AT3G14180	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT3G14180	regulates	AT3G53210	Arabidopsis thaliana	motif
+AT3G14180	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G15170	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_CE
+AT3G15210	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT3G15210	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT3G15510	regulates	AT5G40230	Arabidopsis thaliana	motif
+AT3G17730	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT3G17730	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT3G18400	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_CE
+AT3G19290	regulates	AT4G08290	Arabidopsis thaliana	ChIP-seq (seedling)
+AT3G20310	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE
+AT3G20310	regulates	AT5G40230	Arabidopsis thaliana	motif
+AT3G20310	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT3G20770	regulates	AT4G15540	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seed coat)
+AT3G20840	regulates	AT3G28130	Arabidopsis thaliana	motif
+AT3G21175	regulates	AT2G39510	Arabidopsis thaliana	motif, motif_CE
+AT3G21175	regulates	AT3G28080	Arabidopsis thaliana	motif
+AT3G22780	regulates	AT3G28050	Arabidopsis thaliana	motif
+AT3G23210	regulates	AT1G44800	Arabidopsis thaliana	FunTFBS, motif, motif_CE
+AT3G23220	regulates	AT1G25270	Arabidopsis thaliana	motif, motif_CE
+AT3G23220	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT3G23220	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT3G23240	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT3G23250	regulates	AT1G09380	Arabidopsis thaliana	motif, motif_CE
+AT3G23250	regulates	AT1G43650	Arabidopsis thaliana	motif
+AT3G23250	regulates	AT1G44800	Arabidopsis thaliana	motif, motif_CE
+AT3G23690	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT3G24050	regulates	AT1G43650	Arabidopsis thaliana	motif
+AT3G24050	regulates	AT1G60050	Arabidopsis thaliana	motif, motif_CE
+AT3G24050	regulates	AT1G68170	Arabidopsis thaliana	motif, motif_CE
+AT3G24050	regulates	AT2G39510	Arabidopsis thaliana	motif, motif_CE
+AT3G24050	regulates	AT3G28080	Arabidopsis thaliana	motif
+AT3G24050	regulates	AT4G30420	Arabidopsis thaliana	motif
+AT3G24050	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT3G24050	regulates	AT5G47470	Arabidopsis thaliana	motif, motif_CE
+AT3G24520	regulates	AT4G15540	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G26790	regulates	AT1G60050	Arabidopsis thaliana	motif, motif_CE
+AT3G26790	regulates	AT2G40900	Arabidopsis thaliana	motif
+AT3G27010	regulates	AT1G75500	Arabidopsis thaliana	FunTFBS, motif, motif_CE, motif_DGF (seed coat)
+AT3G27010	regulates	AT3G28080	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G27010	regulates	AT5G47470	Arabidopsis thaliana	motif, motif_CE
+AT3G28910	regulates	AT4G01430	Arabidopsis thaliana	motif, motif_CE
+AT3G28920	regulates	AT3G18200	Arabidopsis thaliana	motif
+AT3G30530	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT3G45170	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_CE, motif_DGF (root non hair)
+AT3G45610	regulates	AT1G44800	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G45610	regulates	AT3G28100	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G45610	regulates	AT4G28040	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G46070	regulates	AT1G01070	Arabidopsis thaliana	motif
+AT3G46070	regulates	AT1G44800	Arabidopsis thaliana	motif, motif_CE
+AT3G46070	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT3G47500	regulates	AT3G18200	Arabidopsis thaliana	motif
+AT3G47600	regulates	AT1G44800	Arabidopsis thaliana	motif, motif_CE
+AT3G47600	regulates	AT2G37460	Arabidopsis thaliana	motif
+AT3G47600	regulates	AT3G28100	Arabidopsis thaliana	motif
+AT3G47600	regulates	AT4G01430	Arabidopsis thaliana	motif, motif_CE
+AT3G47620	regulates	AT1G75500	Arabidopsis thaliana	FunTFBS, motif, motif_CE, motif_DGF (seed coat)
+AT3G48160	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT3G48430	regulates	AT3G28050	Arabidopsis thaliana	motif, motif_CE, motif_DGF (root)
+AT3G48430	regulates	AT3G56620	Arabidopsis thaliana	motif
+AT3G48430	regulates	AT4G01440	Arabidopsis thaliana	motif
+AT3G48430	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G48430	regulates	AT4G16620	Arabidopsis thaliana	motif, motif_CE
+AT3G48430	regulates	AT5G45370	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G50260	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT3G50410	regulates	AT1G11460	Arabidopsis thaliana	motif
+AT3G50410	regulates	AT1G44800	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G50410	regulates	AT1G75500	Arabidopsis thaliana	motif
+AT3G50410	regulates	AT2G37460	Arabidopsis thaliana	motif
+AT3G50410	regulates	AT3G18200	Arabidopsis thaliana	motif
+AT3G50410	regulates	AT3G28100	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G50410	regulates	AT3G30340	Arabidopsis thaliana	motif, motif_CE
+AT3G50410	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_CE
+AT3G50410	regulates	AT3G56620	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G50410	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G50410	regulates	AT4G08300	Arabidopsis thaliana	motif
+AT3G50410	regulates	AT4G28040	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G50410	regulates	AT5G13670	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G50410	regulates	AT5G47470	Arabidopsis thaliana	motif, motif_CE
+AT3G50700	regulates	AT1G43650	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT3G50700	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seed coat)
+AT3G52440	regulates	AT5G13670	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seed coat)
+AT3G55370	regulates	AT1G43650	Arabidopsis thaliana	motif
+AT3G55370	regulates	AT1G44800	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G55370	regulates	AT1G68170	Arabidopsis thaliana	motif
+AT3G55370	regulates	AT1G70260	Arabidopsis thaliana	motif
+AT3G55370	regulates	AT2G37460	Arabidopsis thaliana	motif
+AT3G55370	regulates	AT3G28100	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G55370	regulates	AT3G30340	Arabidopsis thaliana	motif, motif_CE
+AT3G55370	regulates	AT4G01440	Arabidopsis thaliana	motif
+AT3G55370	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G55370	regulates	AT4G08300	Arabidopsis thaliana	motif
+AT3G55370	regulates	AT4G28040	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G55370	regulates	AT5G13670	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT3G56400	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G56850	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT3G57230	regulates	AT3G53210	Arabidopsis thaliana	motif
+AT3G57230	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (root non hair)
+AT3G58630	regulates	AT3G28080	Arabidopsis thaliana	motif
+AT3G58630	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT3G58630	regulates	AT3G53210	Arabidopsis thaliana	motif
+AT3G58630	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G59060	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT3G61250	regulates	AT1G44800	Arabidopsis thaliana	motif
+AT3G61890	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT3G62420	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT4G00050	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT4G00050	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT4G01120	regulates	AT4G01430	Arabidopsis thaliana	ChIP-seq (seedling)
+AT4G01250	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT4G01280	regulates	AT4G15540	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT4G01680	regulates	AT1G68170	Arabidopsis thaliana	motif, motif_CE
+AT4G01720	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT4G04450	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT4G14770	regulates	AT3G28050	Arabidopsis thaliana	motif
+AT4G16750	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT4G17490	regulates	AT1G25270	Arabidopsis thaliana	motif, motif_CE
+AT4G17490	regulates	AT4G15540	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT4G17490	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE
+AT4G17785	regulates	AT1G43650	Arabidopsis thaliana	motif
+AT4G17880	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT4G17980	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT4G18170	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT4G18450	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT4G18450	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT4G18890	regulates	AT1G43650	Arabidopsis thaliana	FunTFBS, motif, motif_CE
+AT4G18960	regulates	AT3G53210	Arabidopsis thaliana	motif
+AT4G21030	regulates	AT1G25270	Arabidopsis thaliana	motif, motif_CE
+AT4G21030	regulates	AT2G37460	Arabidopsis thaliana	motif
+AT4G21330	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT4G23550	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT4G23750	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT4G24020	regulates	AT3G53210	Arabidopsis thaliana	motif
+AT4G24240	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT4G27950	regulates	AT1G25270	Arabidopsis thaliana	motif, motif_CE
+AT4G27950	regulates	AT4G15540	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT4G27950	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE
+AT4G27950	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT4G28140	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE
+AT4G28140	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT4G30080	regulates	AT3G28050	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT4G30080	regulates	AT3G28100	Arabidopsis thaliana	motif
+AT4G30980	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT4G31550	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT4G31610	regulates	AT1G70260	Arabidopsis thaliana	motif, motif_CE
+AT4G31800	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT4G31920	regulates	AT4G19185	Arabidopsis thaliana	motif
+AT4G32730	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT4G33280	regulates	AT3G28050	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT4G33280	regulates	AT3G28100	Arabidopsis thaliana	motif
+AT4G33280	regulates	AT4G08300	Arabidopsis thaliana	motif
+AT4G33280	regulates	AT5G40210	Arabidopsis thaliana	motif
+AT4G34000	regulates	AT1G43650	Arabidopsis thaliana	motif, motif_CE
+AT4G34000	regulates	AT1G44800	Arabidopsis thaliana	ChIP-seq (seedling), motif, motif_CE
+AT4G34590	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT4G36160	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT4G36160	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT4G36620	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (root non hair)
+AT4G36730	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT4G36740	regulates	AT3G28070	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT4G36740	regulates	AT3G28080	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT4G36740	regulates	AT4G28040	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT4G36930	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT4G36930	regulates	AT4G08290	Arabidopsis thaliana	FunTFBS, motif, motif_DGF (seedling)
+AT4G37750	regulates	AT3G28080	Arabidopsis thaliana	motif
+AT4G37750	regulates	AT3G56620	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT4G37750	regulates	AT5G40240	Arabidopsis thaliana	motif
+AT4G37790	regulates	AT3G18200	Arabidopsis thaliana	ChIP-seq (seedling)
+AT4G37790	regulates	AT5G40210	Arabidopsis thaliana	ChIP-seq (seedling)
+AT4G38000	regulates	AT1G09380	Arabidopsis thaliana	motif
+AT4G38000	regulates	AT1G11460	Arabidopsis thaliana	motif
+AT4G38000	regulates	AT1G25270	Arabidopsis thaliana	motif
+AT4G38000	regulates	AT2G37460	Arabidopsis thaliana	motif
+AT4G38000	regulates	AT2G40900	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT4G38000	regulates	AT3G18200	Arabidopsis thaliana	motif
+AT4G38000	regulates	AT3G30340	Arabidopsis thaliana	motif, motif_CE
+AT4G38000	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT4G38000	regulates	AT3G56620	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT4G38000	regulates	AT4G01440	Arabidopsis thaliana	motif
+AT4G38000	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT4G38000	regulates	AT4G28040	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT4G38000	regulates	AT5G47470	Arabidopsis thaliana	motif, motif_CE
+AT4G38620	regulates	AT1G09380	Arabidopsis thaliana	motif, motif_CE
+AT4G38910	regulates	AT1G11450	Arabidopsis thaliana	motif
+AT4G38910	regulates	AT1G11460	Arabidopsis thaliana	motif
+AT4G38910	regulates	AT1G21890	Arabidopsis thaliana	FunTFBS, motif
+AT4G38910	regulates	AT1G43650	Arabidopsis thaliana	motif, motif_CE
+AT4G38910	regulates	AT1G60050	Arabidopsis thaliana	motif
+AT4G38910	regulates	AT1G68170	Arabidopsis thaliana	motif
+AT4G38910	regulates	AT1G70260	Arabidopsis thaliana	motif
+AT4G38910	regulates	AT3G28050	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT4G38910	regulates	AT3G28130	Arabidopsis thaliana	motif
+AT4G38910	regulates	AT3G30340	Arabidopsis thaliana	motif, motif_CE
+AT4G38910	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT4G38910	regulates	AT3G53210	Arabidopsis thaliana	motif
+AT4G38910	regulates	AT4G01450	Arabidopsis thaliana	motif
+AT4G38910	regulates	AT4G08300	Arabidopsis thaliana	motif
+AT4G38910	regulates	AT4G30420	Arabidopsis thaliana	motif
+AT4G38910	regulates	AT5G47470	Arabidopsis thaliana	motif, motif_CE
+AT5G01380	regulates	AT1G43650	Arabidopsis thaliana	FunTFBS, motif, motif_CE
+AT5G02320	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G02460	regulates	AT1G25270	Arabidopsis thaliana	motif
+AT5G02460	regulates	AT1G44800	Arabidopsis thaliana	motif
+AT5G02460	regulates	AT1G75500	Arabidopsis thaliana	motif
+AT5G02460	regulates	AT2G37460	Arabidopsis thaliana	motif
+AT5G02460	regulates	AT2G40900	Arabidopsis thaliana	motif, motif_CE
+AT5G02460	regulates	AT3G18200	Arabidopsis thaliana	motif
+AT5G02460	regulates	AT3G28070	Arabidopsis thaliana	motif
+AT5G02460	regulates	AT3G28100	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G02460	regulates	AT3G30340	Arabidopsis thaliana	motif, motif_CE
+AT5G02460	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_CE
+AT5G02460	regulates	AT3G56620	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G02460	regulates	AT4G01430	Arabidopsis thaliana	motif
+AT5G02460	regulates	AT4G01440	Arabidopsis thaliana	motif
+AT5G02460	regulates	AT4G08290	Arabidopsis thaliana	motif
+AT5G02460	regulates	AT4G28040	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G02460	regulates	AT5G13670	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G02460	regulates	AT5G47470	Arabidopsis thaliana	motif, motif_CE
+AT5G02840	regulates	AT4G15540	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G03150	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seed coat)
+AT5G03150	regulates	AT4G08290	Arabidopsis thaliana	motif
+AT5G03150	regulates	AT4G16620	Arabidopsis thaliana	motif
+AT5G03790	regulates	AT1G11450	Arabidopsis thaliana	motif
+AT5G03790	regulates	AT3G28080	Arabidopsis thaliana	motif
+AT5G04340	regulates	AT4G01430	Arabidopsis thaliana	motif
+AT5G04390	regulates	AT1G25270	Arabidopsis thaliana	motif
+AT5G04390	regulates	AT4G08300	Arabidopsis thaliana	motif
+AT5G04760	regulates	AT3G18200	Arabidopsis thaliana	ChIP-seq (seedling)
+AT5G05090	regulates	AT4G19185	Arabidopsis thaliana	motif
+AT5G05550	regulates	AT3G28130	Arabidopsis thaliana	motif
+AT5G05550	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT5G05550	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G05550	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G06839	regulates	AT1G70260	Arabidopsis thaliana	FunTFBS, motif, motif_CE
+AT5G06839	regulates	AT2G40900	Arabidopsis thaliana	FunTFBS, motif, motif_CE
+AT5G06950	regulates	AT1G70260	Arabidopsis thaliana	motif, motif_CE
+AT5G06950	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT5G06960	regulates	AT1G70260	Arabidopsis thaliana	FunTFBS, motif, motif_CE
+AT5G06960	regulates	AT2G40900	Arabidopsis thaliana	FunTFBS, motif, motif_CE
+AT5G06960	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT5G07310	regulates	AT1G25270	Arabidopsis thaliana	motif, motif_CE
+AT5G07310	regulates	AT1G68170	Arabidopsis thaliana	motif, motif_CE
+AT5G07310	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT5G07680	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT5G08130	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT5G08130	regulates	AT3G53210	Arabidopsis thaliana	FunTFBS, motif, motif_DGF (seedling)
+AT5G08330	regulates	AT1G75500	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seed coat)
+AT5G08330	regulates	AT3G28080	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G08330	regulates	AT5G47470	Arabidopsis thaliana	motif, motif_CE
+AT5G10140	regulates	AT3G56620	Arabidopsis thaliana	motif
+AT5G11510	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G13080	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G13790	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (root non hair)
+AT5G13910	regulates	AT4G15540	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G13910	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE
+AT5G13910	regulates	AT5G40230	Arabidopsis thaliana	motif
+AT5G13910	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G14340	regulates	AT1G44800	Arabidopsis thaliana	motif
+AT5G15830	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT5G17430	regulates	AT1G11460	Arabidopsis thaliana	motif
+AT5G17430	regulates	AT1G21890	Arabidopsis thaliana	motif
+AT5G17430	regulates	AT1G25270	Arabidopsis thaliana	motif
+AT5G17430	regulates	AT1G43650	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G17430	regulates	AT1G60050	Arabidopsis thaliana	motif
+AT5G17430	regulates	AT1G68170	Arabidopsis thaliana	FunTFBS, motif
+AT5G17430	regulates	AT1G70260	Arabidopsis thaliana	motif
+AT5G17430	regulates	AT2G37460	Arabidopsis thaliana	motif
+AT5G17430	regulates	AT2G40900	Arabidopsis thaliana	motif, motif_CE
+AT5G17430	regulates	AT3G18200	Arabidopsis thaliana	motif
+AT5G17430	regulates	AT3G28050	Arabidopsis thaliana	motif
+AT5G17430	regulates	AT3G28130	Arabidopsis thaliana	motif
+AT5G17430	regulates	AT3G30340	Arabidopsis thaliana	motif
+AT5G17430	regulates	AT3G56620	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G17430	regulates	AT4G01450	Arabidopsis thaliana	motif
+AT5G17430	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G17430	regulates	AT4G16620	Arabidopsis thaliana	motif
+AT5G17430	regulates	AT4G28040	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G17430	regulates	AT4G30420	Arabidopsis thaliana	motif
+AT5G17430	regulates	AT5G13670	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G17430	regulates	AT5G47470	Arabidopsis thaliana	motif, motif_CE
+AT5G18090	regulates	AT1G60050	Arabidopsis thaliana	motif, motif_CE
+AT5G18090	regulates	AT5G47470	Arabidopsis thaliana	motif, motif_CE
+AT5G18090	regulates	AT5G64700	Arabidopsis thaliana	motif
+AT5G18450	regulates	AT1G68170	Arabidopsis thaliana	motif, motif_CE
+AT5G18450	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT5G18560	regulates	AT3G53210	Arabidopsis thaliana	FunTFBS, motif, motif_DGF (seedling)
+AT5G18560	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT5G18560	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G19790	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT5G19790	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G20240	regulates	AT1G75500	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G20240	regulates	AT3G56620	Arabidopsis thaliana	motif
+AT5G20240	regulates	AT5G13670	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G22890	regulates	AT1G70260	Arabidopsis thaliana	motif, motif_CE
+AT5G23280	regulates	AT1G75500	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seed coat)
+AT5G23280	regulates	AT3G28080	Arabidopsis thaliana	FunTFBS, motif, motif_DGF (seedling)
+AT5G24110	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G25190	regulates	AT1G25270	Arabidopsis thaliana	motif, motif_CE
+AT5G25190	regulates	AT1G68170	Arabidopsis thaliana	motif, motif_CE
+AT5G25190	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE
+AT5G25190	regulates	AT5G40230	Arabidopsis thaliana	motif
+AT5G25190	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G25390	regulates	AT1G25270	Arabidopsis thaliana	motif, motif_CE
+AT5G25390	regulates	AT1G68170	Arabidopsis thaliana	motif, motif_CE
+AT5G25390	regulates	AT2G39510	Arabidopsis thaliana	motif, motif_CE
+AT5G25390	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE
+AT5G26170	regulates	AT3G56620	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G28300	regulates	AT2G39510	Arabidopsis thaliana	motif
+AT5G28770	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT5G29000	regulates	AT4G15540	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G37020	regulates	AT3G28130	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G38800	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT5G38860	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT5G38860	regulates	AT3G53210	Arabidopsis thaliana	FunTFBS, motif, motif_DGF (seedling)
+AT5G39610	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT5G39760	regulates	AT3G18200	Arabidopsis thaliana	motif
+AT5G39760	regulates	AT4G01430	Arabidopsis thaliana	motif
+AT5G39820	regulates	AT3G28070	Arabidopsis thaliana	motif
+AT5G39820	regulates	AT5G40240	Arabidopsis thaliana	motif
+AT5G41570	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G42520	regulates	AT1G01070	Arabidopsis thaliana	motif
+AT5G42520	regulates	AT1G11450	Arabidopsis thaliana	motif
+AT5G42520	regulates	AT1G11460	Arabidopsis thaliana	motif
+AT5G42520	regulates	AT1G21890	Arabidopsis thaliana	FunTFBS, motif
+AT5G42520	regulates	AT1G43650	Arabidopsis thaliana	motif, motif_CE
+AT5G42520	regulates	AT1G60050	Arabidopsis thaliana	motif
+AT5G42520	regulates	AT1G68170	Arabidopsis thaliana	motif
+AT5G42520	regulates	AT1G70260	Arabidopsis thaliana	motif
+AT5G42520	regulates	AT2G37450	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G42520	regulates	AT3G28050	Arabidopsis thaliana	motif, motif_DGF (root)
+AT5G42520	regulates	AT3G28130	Arabidopsis thaliana	motif
+AT5G42520	regulates	AT3G30340	Arabidopsis thaliana	motif, motif_CE
+AT5G42520	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT5G42520	regulates	AT4G01450	Arabidopsis thaliana	motif
+AT5G42520	regulates	AT4G08300	Arabidopsis thaliana	FunTFBS, motif, motif_CE
+AT5G42520	regulates	AT4G16620	Arabidopsis thaliana	motif
+AT5G42520	regulates	AT5G47470	Arabidopsis thaliana	motif, motif_CE
+AT5G44210	regulates	AT1G25270	Arabidopsis thaliana	motif, motif_CE
+AT5G44210	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE
+AT5G44210	regulates	AT5G40230	Arabidopsis thaliana	motif
+AT5G44210	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G46350	regulates	AT3G28100	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G46350	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G46590	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_CE
+AT5G46590	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (root non hair)
+AT5G46760	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G47220	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE
+AT5G47220	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G47230	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT5G47230	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G47390	regulates	AT1G68170	Arabidopsis thaliana	motif
+AT5G47390	regulates	AT4G15540	Arabidopsis thaliana	motif
+AT5G49300	regulates	AT3G30340	Arabidopsis thaliana	motif, motif_CE
+AT5G49300	regulates	AT4G01440	Arabidopsis thaliana	motif
+AT5G51190	regulates	AT1G25270	Arabidopsis thaliana	motif, motif_CE
+AT5G51190	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G51910	regulates	AT3G28080	Arabidopsis thaliana	FunTFBS, motif, motif_DGF (seedling)
+AT5G52020	regulates	AT3G28130	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G52660	regulates	AT4G15540	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G52830	regulates	AT5G40230	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G53950	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_CE
+AT5G56110	regulates	AT1G43650	Arabidopsis thaliana	motif
+AT5G56840	regulates	AT1G68170	Arabidopsis thaliana	motif
+AT5G58080	regulates	AT4G08300	Arabidopsis thaliana	motif, motif_CE
+AT5G58900	regulates	AT1G68170	Arabidopsis thaliana	motif
+AT5G58900	regulates	AT5G47470	Arabidopsis thaliana	motif
+AT5G60130	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT5G60130	regulates	AT4G28040	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G60130	regulates	AT5G13670	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G60130	regulates	AT5G47470	Arabidopsis thaliana	motif
+AT5G60850	regulates	AT2G37460	Arabidopsis thaliana	motif
+AT5G60850	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT5G61270	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT5G61270	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_DGF (root non hair)
+AT5G61270	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G61600	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE
+AT5G61600	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G61620	regulates	AT1G68170	Arabidopsis thaliana	motif
+AT5G61620	regulates	AT5G47470	Arabidopsis thaliana	motif
+AT5G61850	regulates	AT3G53210	Arabidopsis thaliana	ChIP-seq (seedling)
+AT5G62320	regulates	AT1G09380	Arabidopsis thaliana	motif, motif_CE
+AT5G62380	regulates	AT3G45870	Arabidopsis thaliana	motif, motif_CE
+AT5G62470	regulates	AT4G01430	Arabidopsis thaliana	motif
+AT5G62940	regulates	AT1G44800	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G62940	regulates	AT1G75500	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G62940	regulates	AT2G37460	Arabidopsis thaliana	motif
+AT5G62940	regulates	AT4G01440	Arabidopsis thaliana	motif
+AT5G62940	regulates	AT4G08290	Arabidopsis thaliana	motif
+AT5G62940	regulates	AT4G28040	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G63090	regulates	AT4G15540	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G63090	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE
+AT5G63090	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G63790	regulates	AT4G30420	Arabidopsis thaliana	ChIP-seq (seedling)
+AT5G64220	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G64750	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G65130	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT5G65210	regulates	AT1G70260	Arabidopsis thaliana	FunTFBS, motif, motif_CE
+AT5G65210	regulates	AT3G45870	Arabidopsis thaliana	motif
+AT5G65310	regulates	AT3G28070	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G65310	regulates	AT3G28080	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G65310	regulates	AT5G40210	Arabidopsis thaliana	ChIP-seq (seedling)
+AT5G65410	regulates	AT2G37450	Arabidopsis thaliana	motif
+AT5G65410	regulates	AT4G15540	Arabidopsis thaliana	motif
+AT5G65410	regulates	AT4G16620	Arabidopsis thaliana	motif
+AT5G66300	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_CE
+AT5G66700	regulates	AT3G28070	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G66700	regulates	AT3G28080	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G66700	regulates	AT4G28040	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G66730	regulates	AT1G43650	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G66730	regulates	AT3G53210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seed coat)
+AT5G66730	regulates	AT4G16620	Arabidopsis thaliana	motif
+AT5G66940	regulates	AT1G11460	Arabidopsis thaliana	motif
+AT5G66940	regulates	AT1G44800	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G66940	regulates	AT1G75500	Arabidopsis thaliana	motif
+AT5G66940	regulates	AT2G37460	Arabidopsis thaliana	motif
+AT5G66940	regulates	AT3G18200	Arabidopsis thaliana	motif
+AT5G66940	regulates	AT3G28070	Arabidopsis thaliana	motif
+AT5G66940	regulates	AT3G30340	Arabidopsis thaliana	motif, motif_CE
+AT5G66940	regulates	AT4G08290	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G66940	regulates	AT4G28040	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G66940	regulates	AT5G13670	Arabidopsis thaliana	motif, motif_DGF (seedling)
+AT5G66940	regulates	AT5G47470	Arabidopsis thaliana	motif, motif_CE
+AT5G67000	regulates	AT5G40230	Arabidopsis thaliana	motif
+AT5G67000	regulates	AT5G40240	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G67190	regulates	AT5G40210	Arabidopsis thaliana	motif, motif_CE, motif_DGF (seedling)
+AT5G67300	regulates	AT5G45370	Arabidopsis thaliana	motif, motif_DGF (seed coat)
+AT5G67450	regulates	AT3G30340	Arabidopsis thaliana	motif
