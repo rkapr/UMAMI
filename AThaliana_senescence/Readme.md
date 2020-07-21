@@ -11,4 +11,4 @@ Development Series:
 
 1. Arabidopsis stem/shoot development [NCBI GEO Dataset: GSE5633]
 
-![](https://github.com/rkapr/UMAMI/blob/master/AThaliana_senescence/Shoot_stem_GSE5633.png)
+![](https://github.com/rkapr/UMAMI/blob/master/AThaliana_senescence/Shoot_stem_GSE5633)
