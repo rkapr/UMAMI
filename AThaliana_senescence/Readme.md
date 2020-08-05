@@ -65,4 +65,4 @@ Seed time series GSE28311
 
 Somatic embryogenesis GSE48915
 
-![]()
+![](https://github.com/rkapr/UMAMI/blob/master/AThaliana_senescence/somatic_embryogenesis)
