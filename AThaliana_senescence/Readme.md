@@ -55,4 +55,4 @@ Leaf SRP018034
 
 Leaf GSE5633
 
-![](https://github.com/rkapr/UMAMI/blob/master/AThaliana_senescence/Shoot_stem_GSE5633)
+![](https://github.com/rkapr/UMAMI/blob/master/AThaliana_senescence/senescence_GSE22982.png)
