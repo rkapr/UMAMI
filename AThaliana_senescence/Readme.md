@@ -81,8 +81,13 @@ Seed compartments
 
 ![](https://github.com/rkapr/UMAMI/blob/master/AThaliana_senescence/seed_compartments_globular_stage)
 
+4. Heart stage
+
+![](https://github.com/rkapr/UMAMI/blob/master/AThaliana_senescence/seed_compartments_heart_stage)
+
 Root cells:
 
 GSE7631
 
 ![](https://github.com/rkapr/UMAMI/blob/master/AThaliana_senescence/root_cells)
+
