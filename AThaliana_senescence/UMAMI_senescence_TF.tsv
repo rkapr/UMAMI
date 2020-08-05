@@ -1,0 +1,19 @@
+AT1G34180	regulates	AT4G08290	Arabidopsis_thaliana	motif,motif_CE,motif_DGF(seedling)
+AT1G34190	regulates	AT4G08290	Arabidopsis_thaliana	motif,motif_CE
+AT2G22300	regulates	AT5G40240	Arabidopsis_thaliana	motif,motif_DGF(seed coat)
+AT2G43000	regulates	AT5G40210	Arabidopsis_thaliana	motif,motif_CE
+AT2G43000	regulates	AT5G40240	Arabidopsis_thaliana	motif
+AT2G45680	regulates	AT1G75500	Arabidopsis_thaliana	motif,motif_CE,motif_DGF(seed coat)
+AT3G04060	regulates	AT4G08290	Arabidopsis_thaliana	motif,motif_CE
+AT3G12130	regulates	AT1G44800	Arabidopsis_thaliana	motif,motif_DGF(seedling)
+AT3G12130	regulates	AT4G08290	Arabidopsis_thaliana	motif,motif_CE,motif_DGF (seedling)
+AT3G19290	regulates	AT4G08290	Arabidopsis_thaliana	ChIP-seq(seedling)
+AT3G27010	regulates	AT1G75500	Arabidopsis_thaliana	FunTFBS,motif,motif_CE,motif_DGF(seed coat)
+AT3G27010	regulates	AT3G28080	Arabidopsis_thaliana	motif,motif_DGF(seedling)
+AT3G27010	regulates	AT5G47470	Arabidopsis_thaliana	motif,motif_CE
+AT3G56400	regulates	AT5G40230	Arabidopsis_thaliana	motif,motif_DGF(seedling)
+AT4G01250	regulates	AT5G40230	Arabidopsis_thaliana	motif,motif_DGF(seedling)
+AT5G24110	regulates	AT5G40230	Arabidopsis_thaliana	motif,motif_DGF(seedling)
+AT5G39610	regulates	AT4G08290	Arabidopsis_thaliana	motif,motif_CE,motif_DGF(seedling)
+AT5G47390	regulates	AT1G68170	Arabidopsis_thaliana	motif
+AT5G47390	regulates	AT4G15540	Arabidopsis_thaliana	motif
