@@ -80,3 +80,9 @@ Seed compartments
 3. Globular stage
 
 ![](https://github.com/rkapr/UMAMI/blob/master/AThaliana_senescence/seed_compartments_globular_stage)
+
+Root cells:
+
+GSE7631
+
+![](https://github.com/rkapr/UMAMI/blob/master/AThaliana_senescence/root_cells)
