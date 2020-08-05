@@ -69,25 +69,32 @@ Somatic embryogenesis GSE48915
 
 Seed compartments
 
-1. Preglobluar stage
+1. Preglobluar stage GSE12402
 
 ![](https://github.com/rkapr/UMAMI/blob/master/AThaliana_senescence/seed_compartments_preglobular)
 
-2. Linear cotyledon stage
+2. Linear cotyledon stage GSE12403
 
 ![](https://github.com/rkapr/UMAMI/blob/master/AThaliana_senescence/seed_compartments_linear_cotyledon_stage)
 
-3. Globular stage
+3. Globular stage GSE11262
 
 ![](https://github.com/rkapr/UMAMI/blob/master/AThaliana_senescence/seed_compartments_globular_stage)
 
-4. Heart stage
+4. Heart stage GSE15160
 
 ![](https://github.com/rkapr/UMAMI/blob/master/AThaliana_senescence/seed_compartments_heart_stage)
 
+5. Mature Green stage GSE15165
+
+![](https://github.com/rkapr/UMAMI/blob/master/AThaliana_senescence/seed_compartments_mature_green)
+
 Root cells:
 
-GSE7631
+Nitrogen treatment GSE7631
 
 ![](https://github.com/rkapr/UMAMI/blob/master/AThaliana_senescence/root_cells)
+
+
+
 
