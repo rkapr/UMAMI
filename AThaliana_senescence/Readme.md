@@ -69,4 +69,14 @@ Somatic embryogenesis GSE48915
 
 Seed compartments
 
+1. Preglobluar stage
+
 ![](https://github.com/rkapr/UMAMI/blob/master/AThaliana_senescence/seed_compartments_preglobular)
+
+2. Linear cotyledon stage
+
+![](https://github.com/rkapr/UMAMI/blob/master/AThaliana_senescence/seed_compartments_linear_cotyledon_stage)
+
+3. Globular stage
+
+![]()
