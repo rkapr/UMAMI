@@ -56,3 +56,7 @@ Leaf SRP018034
 Leaf GSE5633
 
 ![](https://github.com/rkapr/UMAMI/blob/master/AThaliana_senescence/senescence_GSE22982.png)
+
+Seed time series GSE28311
+
+![](https://github.com/rkapr/UMAMI/blob/master/AThaliana_senescence/seed_timeseries)
