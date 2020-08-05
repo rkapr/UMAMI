@@ -5,7 +5,7 @@ Files:
 `umami_regulation_merged_Ath.txt`:  Potential Regulators of UMAMI genes (motif scanning).  
 `Ath_TF_list.txt`:  List of TFs in Arabidopsis.  
 `senescence_TF_GOslim.txt`:  Senescence related TF Arabidopsis.  
-`umami_reg`: UMAMI regulators Plant TFDB
+`umami_reg`: UMAMI regulators Plant TFDB.  
 `UMAMI_senescence_TF.tsv`: senescence related TF potential regulators of UMAMITs
 `UMAMI_senescence_TF_literature_interactions.tsv`: Verified interactions of TFs (from plant TFDB ATRN) in `UMAMI_senescence_TF.tsv` with other TFs/genes (no UMAMI interaction verified) along with NCBI PMID for publication.
 
