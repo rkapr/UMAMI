@@ -1,9 +1,9 @@
 TPM counts for wheat senescence time series:
 
 Kallisto estimated tpm counts,average of all replicates (Used for heatmaps and barplots):  
-`sen_data_mean_all_kallisto.tsv`: for all genes. 
+`sen_data_mean_all_kallisto.tsv`: for all genes.  
 `sen_data_mean_UMAMIT_kallisto.tsv`: for 128 UMAMI genes with triads  
-`sen_data_triad.tsv`: sum of triads
+`sen_data_triad.tsv`: sum of TPM counts of homeologue in each triad.  
 
 HISAT2/featureCounts estimated TPM counts (Not used) average of all replicates. 
 `sen_data_mean_all_featurecounts.tsv`:  for all genes.   
