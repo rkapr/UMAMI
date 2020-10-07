@@ -1,0 +1,9 @@
+#Identify consensus adapters using Adapter removal2
+nohup /home/r.kapoor/sl/Research/rnaseq_tutorial/student_tools/adapterremoval-2.3.0/build/AdapterRemoval --identify-adapters --file1 SRR1832808_1.fastq.gz --file2 SRR1832808_2.fastq.gz --mate-separator '.' > adapters/ARemv2_pred/SRR1832808.txt 2>&1 &
+
+#Remove adapters
+AdapterRemScript.sh
+
+#FastQC quality check
+FastQC_Script.sh
+
