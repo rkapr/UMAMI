@@ -1,0 +1,20 @@
+[r.kapoor@ada4 data]$ nohup /home/r.kapoor/sl/Research/rnaseq_tutorial/student_tools/adapterremoval-2.3.0/build/AdapterRemoval --identify-adapters --file1 SRR1832808_1.fastq.gz --file2 SRR1832808_2.fastq.gz --mate-separator '.' > adapters/ARemv2_pred/SRR1832808.txt 2>&1 &
+[1] 24581
+[r.kapoor@ada4 data]$ nohup /home/r.kapoor/sl/Research/rnaseq_tutorial/student_tools/adapterremoval-2.3.0/build/AdapterRemoval --identify-adapters --file1 SRR1832809_1.fastq.gz --file2 SRR1832809_2.fastq.gz --mate-separator '.' > adapters/ARemv2_pred/SRR1832809.txt 2>&1 &
+[2] 24607
+[r.kapoor@ada4 data]$ nohup /home/r.kapoor/sl/Research/rnaseq_tutorial/student_tools/adapterremoval-2.3.0/build/AdapterRemoval --identify-adapters --file1 SRR1832811_1.fastq.gz --file2 SRR1832811_2.fastq.gz --mate-separator '.' > adapters/ARemv2_pred/SRR1832811.txt 2>&1 &
+[3] 24614
+[r.kapoor@ada4 data]$ jobs
+[1]   Done                    nohup /home/r.kapoor/sl/Research/rnaseq_tutorial/student_tools/adapterremoval-2.3.0/build/AdapterRemoval --identify-adapters --file1 SRR1832808_1.fastq.gz --file2 SRR1832808_2.fastq.gz --mate-separator '.' > adapters/ARemv2_pred/SRR1832808.txt 2>&1
+[2]-  Running                 nohup /home/r.kapoor/sl/Research/rnaseq_tutorial/student_tools/adapterremoval-2.3.0/build/AdapterRemoval --identify-adapters --file1 SRR1832809_1.fastq.gz --file2 SRR1832809_2.fastq.gz --mate-separator '.' > adapters/ARemv2_pred/SRR1832809.txt 2>&1 &
+[3]+  Done                    nohup /home/r.kapoor/sl/Research/rnaseq_tutorial/student_tools/adapterremoval-2.3.0/build/AdapterRemoval --identify-adapters --file1 SRR1832811_1.fastq.gz --file2 SRR1832811_2.fastq.gz --mate-separator '.' > adapters/ARemv2_pred/SRR1832811.txt 2>&1
+[r.kapoor@ada4 data]$ jobs
+[2]+  Running                 nohup /home/r.kapoor/sl/Research/rnaseq_tutorial/student_tools/adapterremoval-2.3.0/build/AdapterRemoval --identify-adapters --file1 SRR1832809_1.fastq.gz --file2 SRR1832809_2.fastq.gz --mate-separator '.' > adapters/ARemv2_pred/SRR1832809.txt 2>&1 &
+[r.kapoor@ada4 data]$ jobs
+[2]+  Running                 nohup /home/r.kapoor/sl/Research/rnaseq_tutorial/student_tools/adapterremoval-2.3.0/build/AdapterRemoval --identify-adapters --file1 SRR1832809_1.fastq.gz --file2 SRR1832809_2.fastq.gz --mate-separator '.' > adapters/ARemv2_pred/SRR1832809.txt 2>&1 &
+ 1087  ../../student_tools/adapterremoval-2.3.0/build/AdapterRemoval --identify-adapters --file1 SRR1832809_1.fastq.gz --file2 SRR1832809_2.fastq.gz
+ 1088  ../../student_tools/adapterremoval-2.3.0/build/AdapterRemoval --identify-adapters  --file1 SRR1829997_1.fastq.gz --file2 SRR1829997_2.fastq.gz
+ 1089  ../../student_tools/adapterremoval-2.3.0/build/AdapterRemoval --identify-adapters  --file1 SRR1829997_1.fastq.gz --file2 SRR1829997_2.fastq.gz --mate-separator '.'
+ 1090  ls ../../student_tools/bbmap/
+ 1091  ../../student_tools/bbmap/bbmerge.sh in1=SRR1829997_1.fastq.gz in2=SRR1829997_1.fastq.gz outa=adapters.fa
+ 1092  ../../student_tools/bbmap/bbmerge.sh in1=SRR1829997_1.fastq.gz in2=SRR1829997_2.fastq.gz outa=adapters.fa
