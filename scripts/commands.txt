@@ -7,9 +7,9 @@ AdapterRemScript.sh
 #FastQC quality check
 FastQC_Script.sh
 
-hisat2_commands
+hisat2_commands.txt
 
-hisat2_terra
+hisat2_terra.sh
 
-featurecounts
+terra_featurecounts.sh
 
