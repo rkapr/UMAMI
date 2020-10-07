@@ -1,0 +1,3 @@
+python hisat2-2.1.0/hisat2_extract_exons.py keller/Sorghum_bicolor.gtf > exons.tsv
+python hisat2-2.1.0/hisat2_extract_splice_sites.py keller/Sorghum_bicolor.gtf > splicesites.tsv
+hisat2-2.1.0/hisat2_extract_snps_haplotypes_VCF.py keller/Sorghum_bicolor_genome.fa sorghum_bicolor.vcf hisat2_extracted_ --non-rs
