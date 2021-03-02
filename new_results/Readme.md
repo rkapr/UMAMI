@@ -1,5 +1,5 @@
 
-? Do correction for sequencing depth, sequence length?
+? Do correction for differences in sequencing depth, sequence length?
 
 Grain data ERP004505
 
