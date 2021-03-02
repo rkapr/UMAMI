@@ -13,8 +13,11 @@ Drought + heat stress
 
 ![](https://github.com/rkapr/UMAMI/blob/master/new_results/drought_heat_stress_heamap.png)
 
+![](https://github.com/rkapr/UMAMI/blob/master/new_results/heat_drought_stress_homeolog.png)
+
 Nitogen stress (LN: leaf nitrogen stress, LC: leaf control, RN: Root nitrogen stress, RC: root control)
 
 ![](https://github.com/rkapr/UMAMI/blob/master/new_results/nitrogen_stress_heatmap.png)
+
 ![](https://github.com/rkapr/UMAMI/blob/master/new_results/nitrogen_stress_homeolog.png)
 
