@@ -1,11 +1,11 @@
 
 ? Do correction for differences in sequencing depth, sequence length?
 
-Gene wise 
+#Gene wise 
 
-(Please see heatmaps in ByGene folder for all UMAMIt genes)
+(Please see heatmaps in ByGene folder for all UMAMIt genes, corrected for seq depth and gene length using GeTMM. Also included counts and normalised expression csv files)
 
-Triads
+#Triads
 
 Grain data ERP004505
 
