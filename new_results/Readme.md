@@ -1,6 +1,12 @@
 
 ? Do correction for differences in sequencing depth, sequence length?
 
+Gene wise 
+
+(Please see heatmaps in ByGene folder for all UMAMIt genes)
+
+Triads
+
 Grain data ERP004505
 
 ![](https://github.com/rkapr/UMAMI/blob/master/new_results/ERP004505_grain.png)
