@@ -3,7 +3,7 @@
 
 # Gene wise 
 
-(Please see heatmaps in ByGene folder for all UMAMIt genes, corrected for seq depth and gene length using GeTMM. Also included counts and normalised expression csv files)
+(Please see heatmaps in ByGene folder (https://github.com/rkapr/UMAMI/tree/master/new_results/ByGene) for all UMAMIt genes, corrected for seq depth and gene length using GeTMM. Also included counts and normalised expression csv files)
 
 # Triads
 
