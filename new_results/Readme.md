@@ -21,7 +21,7 @@
 
 # Triads 
 
-(Need to do correction for differences in sequencing depth, sequence length)
+(Need to do correction for differences in sequencing depth, sequence length, however dramatic changes in heatmap are not expected)
 
 Grain data ERP004505
 
