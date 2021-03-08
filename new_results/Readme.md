@@ -1,5 +1,4 @@
 
-? Do correction for differences in sequencing depth, sequence length?
 
 # Gene wise 
 
@@ -20,7 +19,9 @@
 #### Leaf Senescence SRP166963
 ![](https://github.com/rkapr/UMAMI/blob/master/new_results/ByGene/SRP166963_heatmap_samplemean.png)
 
-# Triads
+# Triads 
+
+(Need to do correction for differences in sequencing depth, sequence length)
 
 Grain data ERP004505
 
