@@ -5,8 +5,20 @@
 
 (Please see heatmaps in ByGene folder (https://github.com/rkapr/UMAMI/tree/master/new_results/ByGene) for all UMAMIt genes, corrected for seq depth and gene length using GeTMM. Also included counts and normalised expression csv files)
 
+#### Grain data ERP004505
 ![](https://github.com/rkapr/UMAMI/blob/master/new_results/ByGene/ERP004505_heatmap_samplemean.png)
-<img src="https://github.com/rkapr/UMAMI/blob/master/new_results/ByGene/ERP004505_heatmap_samplemean.png" width="1000" height="1000" title="ERP004505">
+
+#### Heat and drought stress SRP045409
+![](https://github.com/rkapr/UMAMI/blob/master/new_results/ByGene/SRP045409_heatmap_samplemean.png)
+
+#### Salt stress SRP300360
+![](https://github.com/rkapr/UMAMI/blob/master/new_results/ByGene/SRP300360_heatmap_samplemean.png)
+
+#### Nitrogen stress SRP189128
+![](https://github.com/rkapr/UMAMI/blob/master/new_results/ByGene/SRP189128_heatmap_samplemean.png)
+
+#### Leaf Senescence SRP166963
+![](https://github.com/rkapr/UMAMI/blob/master/new_results/ByGene/SRP166963_heatmap_samplemean.png)
 
 # Triads
 
