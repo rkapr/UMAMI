@@ -2,7 +2,7 @@
 
 # Gene wise 
 
-(corrected for seq depth and gene length using GeTMM. Also included counts and normalised expression csv files in ByGene folder https://github.com/rkapr/UMAMI/blob/master/new_results/ByGene/)
+(corrected for seq depth and gene length using GeTMM. Also included counts and normalised expression csv files in ByGene folder https://github.com/rkapr/UMAMI/blob/master/new_results/ByGene/ )
 
 #### Grain data ERP004505
 ![](https://github.com/rkapr/UMAMI/blob/master/new_results/ByGene/ERP004505_heatmap_samplemean.png)
