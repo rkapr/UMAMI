@@ -5,6 +5,9 @@
 
 (Please see heatmaps in ByGene folder (https://github.com/rkapr/UMAMI/tree/master/new_results/ByGene) for all UMAMIt genes, corrected for seq depth and gene length using GeTMM. Also included counts and normalised expression csv files)
 
+![](https://github.com/rkapr/UMAMI/blob/master/new_results/ByGene/ERP004505_heatmap_samplemean.png)
+<img src="https://github.com/rkapr/UMAMI/blob/master/new_results/ByGene/ERP004505_heatmap_samplemean.png" width="256" height="256" title="ERP004505">
+
 # Triads
 
 Grain data ERP004505
