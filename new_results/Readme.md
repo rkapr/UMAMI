@@ -27,9 +27,9 @@ Grain data ERP004505
 
 ![](https://github.com/rkapr/UMAMI/blob/master/new_results/ByGene/triads/grain_dev.png)
 
-<!--- ![](https://github.com/rkapr/UMAMI/blob/master/new_results/ERP004505_grain.png)
+[comment]: # ![](https://github.com/rkapr/UMAMI/blob/master/new_results/ERP004505_grain.png)
 
-<!--- log2(x+0.5) scaling
+<!--- log2(x+0.5) scaling --->
 
 <!--- ![](https://github.com/rkapr/UMAMI/blob/master/new_results/ERP004505_grain_log2.png)
 
