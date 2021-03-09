@@ -1,2 +1,7 @@
 Triads:
-expression is sum  (mean of each gene in triad across samples) of (3 or 2 or 1) gene(s) in triad
+
+expression is calc as follows 
+
+1. take mean of each gene GeTMM expression across replicates
+2. sum the values in 1 for genes in triads
+
