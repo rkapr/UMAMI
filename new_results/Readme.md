@@ -27,22 +27,22 @@ Grain data ERP004505
 
 ![](https://github.com/rkapr/UMAMI/blob/master/new_results/ByGene/triads/grain_dev.png)
 
-[comment]: <> ![](https://github.com/rkapr/UMAMI/blob/master/new_results/ERP004505_grain.png)
+<!--- ![](https://github.com/rkapr/UMAMI/blob/master/new_results/ERP004505_grain.png)
 
-[comment]: <> log2(x+0.5) scaling
+<!--- log2(x+0.5) scaling
 
-[comment]: <> ![](https://github.com/rkapr/UMAMI/blob/master/new_results/ERP004505_grain_log2.png)
+<!--- ![](https://github.com/rkapr/UMAMI/blob/master/new_results/ERP004505_grain_log2.png)
 
 Drought + heat stress
 
 
-[comment]: <> ![](https://github.com/rkapr/UMAMI/blob/master/new_results/drought_heat_stress_heamap.png)
+<!---![](https://github.com/rkapr/UMAMI/blob/master/new_results/drought_heat_stress_heamap.png)
 
-[comment]: <> ![](https://github.com/rkapr/UMAMI/blob/master/new_results/heat_drought_stress_homeolog.png)
+<!--- ![](https://github.com/rkapr/UMAMI/blob/master/new_results/heat_drought_stress_homeolog.png)
 
 Nitogen stress (LN: leaf nitrogen stress, LC: leaf control, RN: Root nitrogen stress, RC: root control)
 
-[comment]: <> ![](https://github.com/rkapr/UMAMI/blob/master/new_results/nitrogen_stress_heatmap.png)
+<!--- ![](https://github.com/rkapr/UMAMI/blob/master/new_results/nitrogen_stress_heatmap.png)
 
-[comment]: <> ![](https://github.com/rkapr/UMAMI/blob/master/new_results/nitrogen_stress_homeolog.png)
+<!--- ![](https://github.com/rkapr/UMAMI/blob/master/new_results/nitrogen_stress_homeolog.png)
 
