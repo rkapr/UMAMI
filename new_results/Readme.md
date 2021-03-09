@@ -21,25 +21,28 @@
 
 # Triads 
 
-(Need to do correction for differences in sequencing depth, sequence length, however dramatic changes in heatmap are not expected)
+[comment]: <> (Need to do correction for differences in sequencing depth, sequence length, however dramatic changes in heatmap are not expected)
 
 Grain data ERP004505
 
-![](https://github.com/rkapr/UMAMI/blob/master/new_results/ERP004505_grain.png)
+![](https://github.com/rkapr/UMAMI/blob/master/new_results/ByGene/triads/grain_dev.png)
 
-log2(x+0.5) scaling
+[comment]: <> ![](https://github.com/rkapr/UMAMI/blob/master/new_results/ERP004505_grain.png)
 
-![](https://github.com/rkapr/UMAMI/blob/master/new_results/ERP004505_grain_log2.png)
+[comment]: <> log2(x+0.5) scaling
+
+[comment]: <> ![](https://github.com/rkapr/UMAMI/blob/master/new_results/ERP004505_grain_log2.png)
 
 Drought + heat stress
 
-![](https://github.com/rkapr/UMAMI/blob/master/new_results/drought_heat_stress_heamap.png)
 
-![](https://github.com/rkapr/UMAMI/blob/master/new_results/heat_drought_stress_homeolog.png)
+[comment]: <> ![](https://github.com/rkapr/UMAMI/blob/master/new_results/drought_heat_stress_heamap.png)
+
+[comment]: <> ![](https://github.com/rkapr/UMAMI/blob/master/new_results/heat_drought_stress_homeolog.png)
 
 Nitogen stress (LN: leaf nitrogen stress, LC: leaf control, RN: Root nitrogen stress, RC: root control)
 
-![](https://github.com/rkapr/UMAMI/blob/master/new_results/nitrogen_stress_heatmap.png)
+[comment]: <> ![](https://github.com/rkapr/UMAMI/blob/master/new_results/nitrogen_stress_heatmap.png)
 
-![](https://github.com/rkapr/UMAMI/blob/master/new_results/nitrogen_stress_homeolog.png)
+[comment]: <> ![](https://github.com/rkapr/UMAMI/blob/master/new_results/nitrogen_stress_homeolog.png)
 
