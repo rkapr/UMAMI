@@ -2,6 +2,7 @@
 
 
 # Triads 
+(Including triads with missing genes)
 
 #### Grain data ERP004505
 
