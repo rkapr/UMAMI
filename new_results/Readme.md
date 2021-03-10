@@ -19,7 +19,7 @@
 
 #### Nitogen stress SRP189128 (LN: leaf nitrogen stress, LC: leaf control, RN: Root nitrogen stress, RC: root control)
 
-![](https://github.com/rkapr/UMAMI/blob/master/new_results/ByGene/triads/salt_stress.png)
+![](https://github.com/rkapr/UMAMI/blob/master/new_results/ByGene/triads/Nstress.png)
 
 #### Leaf Senescence SRP166963
 
