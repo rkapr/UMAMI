@@ -4,6 +4,10 @@
 # Triads 
 (Including triads with missing genes)
 
+#### Dev data ERP004714
+
+![](https://github.com/rkapr/UMAMI/blob/master/new_results/ByGene/triads/dev_data.png)
+
 #### Grain data ERP004505
 
 ![](https://github.com/rkapr/UMAMI/blob/master/new_results/ByGene/triads/grain_dev.png)
